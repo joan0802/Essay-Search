@@ -1,0 +1,9 @@
+Stability of a finite volume scheme for the incompressible fluids
+  We introduce a finite volume scheme for the two-dimensional incompressible
+Navier-Stokes equations. We use a triangular mesh. The unknowns for the
+velocity and pressure are respectively piecewise constant and affine. We use a
+projection method to deal with the incompressibility constraint. We show that
+the differential operators in the Navier-Stokes equations and their discrete
+counterparts share similar properties. In particular we state an inf-sup
+(Babuska-Brezzi) condition. Using these properties we infer the stability of
+the scheme.

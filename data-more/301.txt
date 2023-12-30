@@ -1,0 +1,15 @@
+Spline Single-Index Prediction Model
+  For the past two decades, single-index model, a special case of projection
+pursuit regression, has proven to be an efficient way of coping with the high
+dimensional problem in nonparametric regression. In this paper, based on weakly
+dependent sample, we investigate the single-index prediction (SIP) model which
+is robust against deviation from the single-index model. The single-index is
+identified by the best approximation to the multivariate prediction function of
+the response variable, regardless of whether the prediction function is a
+genuine single-index function. A polynomial spline estimator is proposed for
+the single-index prediction coefficients, and is shown to be root-n consistent
+and asymptotically normal. An iterative optimization routine is used which is
+sufficiently fast for the user to analyze large data of high dimension within
+seconds. Simulation experiments have provided strong evidence that corroborates
+with the asymptotic theory. Application of the proposed procedure to the rive
+flow data of Iceland has yielded superior out-of-sample rolling forecasts.

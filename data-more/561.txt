@@ -1,0 +1,6 @@
+Frequency modulation Fourier transform spectroscopy
+  A new method, FM-FTS, combining Frequency Modulation heterodyne laser
+spectroscopy and Fourier Transform Spectroscopy is presented. It provides
+simultaneous sensitive measurement of absorption and dispersion profiles with
+broadband spectral coverage capabilities. Experimental demonstration is made on
+the overtone spectrum of C2H2 in the 1.5 $\mu$m region.

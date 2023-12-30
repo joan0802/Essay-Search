@@ -1,0 +1,9 @@
+Theory of polariton mediated Raman scattering in microcavities
+  We calculate the intensity of the polariton mediated inelastic light
+scattering in semiconductor microcavities. We treat the exciton-photon coupling
+nonperturbatively and incorporate lifetime effects in both excitons and
+photons, and a coupling of the photons to the electron-hole continuum. Taking
+the matrix elements as fitting parameters, the results are in excellent
+agreement with measured Raman intensities due to optical phonons resonant with
+the upper polariton branches in II-VI microcavities with embedded CdTe quantum
+wells.

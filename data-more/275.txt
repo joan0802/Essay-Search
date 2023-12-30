@@ -1,0 +1,10 @@
+A New Model For The Loop-I (The North Polar Spur) Region
+  The North Polar Spur (NPS) is the brightest filament of Loop I, a large
+circular feature in the radio continuum sky. In this paper, a model consisting
+of two synchrotron emitting shells is presented that reproduces large-scale
+structures revealed by recent polarization surveys. The polarized emission of
+the NPS is reproduced by one of these shells. The other shell, which passes
+close to the Sun, gives rise to polarized emission towards the Galactic poles.
+It is proposed that X-ray emission seen towards the NPS is produced by
+interaction of the two shells. Two OB-associations coincide with the centers of
+the shells. A formation scenario of the Loop I region is suggested.

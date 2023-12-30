@@ -1,0 +1,6 @@
+Binary Systems as Test-beds of Gravity Theories
+  We review the general relativistic theory of the motion, and of the timing,
+of binary systems containing compact objects (neutron stars or black holes).
+Then we indicate the various ways one can use binary pulsar data to test the
+strong-field and/or radiative aspects of General Relativity, and of general
+classes of alternative theories of relativistic gravity.

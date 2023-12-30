@@ -1,0 +1,12 @@
+Alternative Approaches to the Equilibrium Properties of Hard-Sphere
+  Liquids
+  An overview of some analytical approaches to the computation of the
+structural and thermodynamic properties of single component and multicomponent
+hard-sphere fluids is provided. For the structural properties, they yield a
+thermodynamically consistent formulation, thus improving and extending the
+known analytical results of the Percus-Yevick theory. Approximate expressions
+for the contact values of the radial distribution functions and the
+corresponding analytical equations of state are also discussed. Extensions of
+this methodology to related systems, such as sticky hard spheres and
+square-well fluids, as well as its use in connection with the perturbation
+theory of fluids are briefly addressed.

@@ -1,0 +1,14 @@
+Crossover behavior in fluids with Coulomb interactions
+  According to extensive experimental findings, the Ginzburg temperature
+$t_{G}$ for ionic fluids differs substantially from that of nonionic fluids
+[Schr\"oer W., Weig\"{a}rtner H. 2004 {\it Pure Appl. Chem.} {\bf 76} 19]. A
+theoretical investigation of this outcome is proposed here by a mean field
+analysis of the interplay of short and long range interactions on the value of
+$t_{G}$. We consider a quite general continuous charge-asymmetric model made of
+charged hard spheres with additional short-range interactions (without
+electrostatic interactions the model belongs to the same universality class as
+the 3D Ising model). The effective Landau-Ginzburg Hamiltonian of the full
+system near its gas-liquid critical point is derived from which the Ginzburg
+temperature is calculated as a function of the ionicity. The results obtained
+in this way for $t_{G}$ are in good qualitative and sufficient quantitative
+agreement with available experimental data.

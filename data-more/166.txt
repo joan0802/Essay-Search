@@ -1,0 +1,8 @@
+Low Energy Aspects of Heavy Meson Decays
+  I discuss low energy aspects of heavy meson decays, where there is at least
+one heavy meson in the final state. Examples are $B -\bar{B}$ mixing, $B \to D
+\bar{D}$, $B \to D \eta'$, and $B \to D \gamma$. %and $B \to D W $ (Isgur-Wise
+function). The analysis is performed in the heavy quark limit within
+heavy-light chiral perturbation theory. Coefficients of $1/N_c$ suppressed
+chiral Lagrangian terms (beyond factorization) have been estimated by means of
+a heavy-light chiral quark model.

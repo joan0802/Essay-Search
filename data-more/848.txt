@@ -1,0 +1,9 @@
+LRS Bianchi Type-V Viscous Fluid Universe With a Time Dependent
+  Cosmological Term $\Lambda$
+  An LRS Bianchi type-V cosmological models representing a viscous fluid
+distribution with a time dependent cosmological term $\Lambda$ is investigated.
+To get a determinate solution, the viscosity coefficient of bulk viscous fluid
+is assumed to be a power function of mass density. It turns out that the
+cosmological term $\Lambda(t)$ is a decreasing function of time, which is
+consistent with recent observations of type Ia supernovae. Various physical and
+kinematic features of these models have also been explored.

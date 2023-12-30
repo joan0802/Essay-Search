@@ -1,0 +1,8 @@
+q-Deformed spin foam models of quantum gravity
+  We numerically study Barrett-Crane models of Riemannian quantum gravity. We
+have extended the existing numerical techniques to handle q-deformed models and
+arbitrary space-time triangulations. We present and interpret expectation
+values of a few selected observables for each model, including a spin-spin
+correlation function which gives insight into the behaviour of the models. We
+find the surprising result that, as the deformation parameter q goes to 1
+through roots of unity, the limit is discontinuous.

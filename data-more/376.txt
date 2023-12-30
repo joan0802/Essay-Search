@@ -1,0 +1,12 @@
+The lifetime of unstable particles in electromagnetic fields
+  We show that the electromagnetic moments of unstable particles (resonances)
+have an absorptive contribution which quantifies the change of the particle's
+lifetime in an external electromagnetic field. To give an example we compute
+here the imaginary part of the magnetic moment for the cases of the muon and
+the neutron at leading order in the electroweak coupling. We also consider an
+analogous effect for the strongly-decaying $\Delta$(1232) resonance. The result
+for the muon is Im$ \mu = e G_F^2 m^3/768 \pi^3$, with $e$ the charge and $m$
+the mass of the muon, $G_F$ the Fermi constant, which in an external magnetic
+field of $B$ Tesla give rise to the relative change in the muon lifetime of
+$3\times 10^{-15} B$. For neutron the effect is of a similar magnitude. We
+speculate on the observable implications of this effect.

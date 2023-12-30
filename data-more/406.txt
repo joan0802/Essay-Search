@@ -1,0 +1,8 @@
+Density dependent hadronic models and the relation between neutron stars
+  and neutron skin thickness
+  In the present work we investigate the main differences in the lead neutron
+skin thickness, binding energy, surface energy and density profiles obtained
+with two different density dependent relativistic hadronic models, within the
+Thomas-Fermi approximation. We show that the asymmetry parameter for low
+momentum transfer polarized electron scattering is not sensitive to the model
+parametrization differences.

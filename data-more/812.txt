@@ -1,0 +1,6 @@
+Dynamics of Bose-Einstein Condensates
+  We report on some recent results concerning the dynamics of Bose-Einstein
+condensates, obtained in a series of joint papers with L. Erdos and H.-T. Yau.
+Starting from many body quantum dynamics, we present a rigorous derivation of a
+cubic nonlinear Schroedinger equation known as the Gross-Pitaevskii equation
+for the time evolution of the condensate wave function.

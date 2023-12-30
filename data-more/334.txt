@@ -1,0 +1,10 @@
+Approximation of the distribution of a stationary Markov process with
+  application to option pricing
+  We build a sequence of empirical measures on the space D(R_+,R^d) of
+R^d-valued c\`adl\`ag functions on R_+ in order to approximate the law of a
+stationary R^d-valued Markov and Feller process (X_t). We obtain some general
+results of convergence of this sequence. Then, we apply them to Brownian
+diffusions and solutions to L\'evy driven SDE's under some Lyapunov-type
+stability assumptions. As a numerical application of this work, we show that
+this procedure gives an efficient way of option pricing in stochastic
+volatility models.

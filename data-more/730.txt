@@ -1,0 +1,16 @@
+The tensor part of the Skyrme energy density functional. I. Spherical
+  nuclei
+  We perform a systematic study of the impact of the J^2 tensor term in the
+Skyrme energy functional on properties of spherical nuclei. In the Skyrme
+energy functional, the tensor terms originate both from zero-range central and
+tensor forces. We build a set of 36 parameterizations, which covers a wide
+range of the parameter space of the isoscalar and isovector tensor term
+coupling constants, with a fit protocol very similar to that of the successful
+SLy parameterizations. We analyze the impact of the tensor terms on a large
+variety of observables in spherical mean-field calculations, such as the
+spin-orbit splittings and single-particle spectra of doubly-magic nuclei, the
+evolution of spin-orbit splittings along chains of semi-magic nuclei, mass
+residuals of spherical nuclei, and known anomalies of charge radii. Our main
+conclusion is that the currently used central and spin-orbit parts of the
+Skyrme energy density functional are not flexible enough to allow for the
+presence of large tensor terms.

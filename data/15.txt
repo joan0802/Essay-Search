@@ -1,0 +1,12 @@
+Lifetime of doubly charmed baryons
+  In this work, we evaluate the lifetimes of the doubly charmed baryons
+$\Xi_{cc}^{+}$, $\Xi_{cc}^{++}$ and $\Omega_{cc}^{+}$. We carefully calculate
+the non-spectator contributions at the quark level where the Cabibbo-suppressed
+diagrams are also included. The hadronic matrix elements are evaluated in the
+simple non-relativistic harmonic oscillator model. Our numerical results are
+generally consistent with that obtained by other authors who used the diquark
+model. However, all the theoretical predictions on the lifetimes are one order
+larger than the upper limit set by the recent SELEX measurement. This
+discrepancy would be clarified by the future experiment, if more accurate
+experiment still confirms the value of the SELEX collaboration, there must be
+some unknown mechanism to be explored.

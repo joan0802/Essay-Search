@@ -1,0 +1,7 @@
+Analytic solutions for marginal deformations in open superstring field
+  theory
+  We extend the calculable analytic approach to marginal deformations recently
+developed in open bosonic string field theory to open superstring field theory
+formulated by Berkovits. We construct analytic solutions to all orders in the
+deformation parameter when operator products made of the marginal operator and
+the associated superconformal primary field are regular.

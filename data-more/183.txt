@@ -1,0 +1,7 @@
+Gamma-ray emitting AGN and GLAST
+  I describe the different classes of Active Galactic Nuclei (AGN) and the
+basic tenets of unified schemes. I then review the properties of the
+extragalactic sources detected in the GeV and TeV bands, showing that the vast
+majority of them belong to the very rare blazar class. I further discuss the
+kind of AGN GLAST is likely to detect, making some predictions going from the
+obvious to the likely, all the way to the less probable.

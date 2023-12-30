@@ -1,0 +1,12 @@
+Dimensional crossover of thermal conductance in nanowires
+  Dimensional dependence of thermal conductance at low temperatures in
+nanowires is studied using the nonequilibrium Green's function (NEGF) method.
+Our calculation shows a smooth dimensional crossover of thermal conductance in
+nanowire from one-dimensional to three-dimensional behavior with the increase
+of diameters. The results are consistent with the experimental findings that
+the temperature dependence of thermal conductance at low temperature for
+diameters from tens to hundreds nanometers will be close to Debye law. The
+calculation also suggests that universal thermal conductance is only observable
+in nanowires with small diameters. We also find that the interfacial thermal
+conductance across Si and Ge nanowire is much lower than the corresponding
+value in bulk materials.

@@ -1,0 +1,10 @@
+Vortex-induced topological transition of the bilinear-biquadratic
+  Heisenberg antiferromagnet on the triangular lattice
+  The ordering of the classical Heisenberg antiferromagnet on the triangular
+lattice with the the bilinear-biquadratic interaction is studied by Monte Carlo
+simulations. It is shown that the model exhibits a topological phase transition
+at a finite-temperature driven by topologically stable vortices, while the spin
+correlation length remains finite even at and below the transition point. The
+relevant vortices could be of three different types, depending on the value of
+the biquadratic coupling. Implications to recent experiments on the triangular
+antiferromagnet NiGa$_2$S$_4$ is discussed.

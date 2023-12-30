@@ -1,0 +1,10 @@
+Viscosity, Black Holes, and Quantum Field Theory
+  We review recent progress in applying the AdS/CFT correspondence to
+finite-temperature field theory. In particular, we show how the hydrodynamic
+behavior of field theory is reflected in the low-momentum limit of correlation
+functions computed through a real-time AdS/CFT prescription, which we
+formulate. We also show how the hydrodynamic modes in field theory correspond
+to the low-lying quasinormal modes of the AdS black p-brane metric. We provide
+a proof of the universality of the viscosity/entropy ratio within a class of
+theories with gravity duals and formulate a viscosity bound conjecture.
+Possible implications for real systems are mentioned.

@@ -1,0 +1,10 @@
+Finite bias visibility of the electronic Mach-Zehnder interferometer
+  We present an original statistical method to measure the visibility of
+interferences in an electronic Mach-Zehnder interferometer in the presence of
+low frequency fluctuations. The visibility presents a single side lobe
+structure shown to result from a gaussian phase averaging whose variance is
+quadratic with the bias. To reinforce our approach and validate our statistical
+method, the same experiment is also realized with a stable sample. It exhibits
+the same visibility behavior as the fluctuating one, indicating the intrinsic
+character of finite bias phase averaging. In both samples, the dilution of the
+impinging current reduces the variance of the gaussian distribution.

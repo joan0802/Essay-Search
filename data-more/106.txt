@@ -1,0 +1,7 @@
+Experimental modeling of physical laws
+  A physical law is represented by the probability distribution of a measured
+variable. The probability density is described by measured data using an
+estimator whose kernel is the instrument scattering function. The experimental
+information and data redundancy are defined in terms of information entropy.
+The model cost function, comprised of data redundancy and estimation error, is
+minimized by the creation-annihilation process.

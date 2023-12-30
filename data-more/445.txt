@@ -1,0 +1,6 @@
+The classification of surfaces with p_g=q=1 isogenous to a product of
+  curves
+  A projective surface S is said to be isogenous to a product if there exist
+two smooth curves C, F and a finite group G acting freely on C \times F so that
+S=(C \times F)/G. In this paper we classify all surfaces with p_g=q=1 which are
+isogenous to a product.

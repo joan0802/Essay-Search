@@ -1,0 +1,9 @@
+Finite Drude weight for 1D low temperature conductors
+  We apply well established finite temperature Quantum Monte Carlo techniques
+to one dimensional Bose systems with soft and hardcore constraint, as well as
+to spinless fermion systems. We give clear and robust numerical evidence that,
+as expected, no superfluid density for Bosons or Meissner fraction for
+fermions. is possible at {\em any} non zero temperature in one dimensional
+interacting Bose or fermi lattice models, whereas a finite Drude weight is
+generally observed in gapless systems, in partial disagreement to previous
+expectations.

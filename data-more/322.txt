@@ -1,0 +1,7 @@
+General sequential quantum cloning
+  Some multipartite quantum states can be generated in a sequential manner
+which may be implemented by various physical setups like microwave and optical
+cavity QED, trapped ions, and quantum dots etc. We analyze the general N to M
+qubits Universal Quantum Cloning Machine (UQCM) within a sequential generation
+scheme. We show that the N to M sequential UQCM is available. The case of
+d-level quantum states sequential cloning is also presented.

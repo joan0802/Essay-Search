@@ -1,0 +1,14 @@
+Opportunistic Relay Selection with Limited Feedback
+  It has been shown that a decentralized relay selection protocol based on
+opportunistic feedback from the relays yields good throughput performance in
+dense wireless networks. This selection strategy supports a hybrid-ARQ
+transmission approach where relays forward parity information to the
+destination in the event of a decoding error. Such an approach, however,
+suffers a loss compared to centralized strategies that select relays with the
+best channel gain to the destination. This paper closes the performance gap by
+adding another level of channel feedback to the decentralized relay selection
+problem. It is demonstrated that only one additional bit of feedback is
+necessary for good throughput performance. The performance impact of varying
+key parameters such as the number of relays and the channel feedback threshold
+is discussed. An accompanying bit error rate analysis demonstrates the
+importance of relay selection.

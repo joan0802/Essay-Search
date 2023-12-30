@@ -1,0 +1,4 @@
+Dual billiards, Fagnano orbits and regular polygons
+  We study the notion of Fagnano orbits for dual polygonal billiards. We used
+them to characterize regular polygons and we study the iteration of the
+developing map.

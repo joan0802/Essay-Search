@@ -1,0 +1,12 @@
+Anomalous pressure behavior of tangential modes in single-wall carbon
+  nanotubes
+  Using the molecular dynamics simulations and the force constant model we have
+studied the Raman-active tangential modes (TMs) of a (10, 0) single-wall carbon
+nanotube (SWNT) under hydrostatic pressure. With increasing pressure, the
+atomic motions in the three TMs present obvious diversities. The pressure
+derivative of E1g, A1g, and E2g mode frequency shows an increased value (), a
+constant value (), and a negative value () above 5.3 GPa, respectively. The
+intrinsic characteristics of TMs consumedly help to understand the essence of
+the experimental T band of CNT. The anomalous pressure behavior of the TMs
+frequencies may be originated from the tube symmetry alteration from D10h to
+D2h then to C2h.

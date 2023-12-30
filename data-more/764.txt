@@ -1,0 +1,9 @@
+Evidence of Spatially Inhomogeous Pairing on the Insulating Side of a
+  Disorder-Tuned Superconductor-Insulator Transition
+  Measurements of transport properties of amorphous insulating indium oxide
+thin films have been interpreted as evidence of the presence of superconducting
+islands on the insulating side of a disorder-tuned superconductor-insulator
+transition. Although the films are not granular, the behavior is similar to
+that observed in granular films. The results support theoretical models in
+which the destruction of superconductivity by disorder produces spatially
+inhomogenous pairing with a spectral gap.

@@ -1,0 +1,12 @@
+Coupling of whispering-gallery modes in size-mismatched microdisk
+  photonic molecules
+  Mechanisms of whispering-gallery (WG) modes coupling in microdisk photonic
+molecules (PMs) with slight and significant size mismatch are numerically
+investigated. The results reveal two different scenarios of modes interaction
+depending on the degree of this mismatch and offer new insight into how PM
+parameters can be tuned to control and modify WG-modes wavelengths and
+Q-factors. From a practical point of view, these findings offer a way to
+fabricate PM microlaser structures that exhibit low thresholds and directional
+emission, and at the same time are more tolerant to fabrication errors than
+previously explored coupled-cavity structures composed of identical
+microresonators.

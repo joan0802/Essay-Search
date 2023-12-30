@@ -1,0 +1,8 @@
+Quivers with potentials and their representations I: Mutations
+  We study quivers with relations given by non-commutative analogs of Jacobian
+ideals in the complete path algebra. This framework allows us to give a
+representation-theoretic interpretation of quiver mutations at arbitrary
+vertices. This gives a far-reaching generalization of
+Bernstein-Gelfand-Ponomarev reflection functors. The motivations for this work
+come from several sources: superpotentials in physics, Calabi-Yau algebras,
+cluster algebras.

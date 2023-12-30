@@ -1,0 +1,11 @@
+CalFUSE v3: A Data-Reduction Pipeline for the Far Ultraviolet
+  Spectroscopic Explorer
+  Since its launch in 1999, the Far Ultraviolet Spectroscopic Explorer (FUSE)
+has made over 4600 observations of some 2500 individual targets. The data are
+reduced by the Principal Investigator team at the Johns Hopkins University and
+archived at the Multimission Archive at Space Telescope (MAST). The
+data-reduction software package, called CalFUSE, has evolved considerably over
+the lifetime of the mission. The entire FUSE data set has recently been
+reprocessed with CalFUSE v3.2, the latest version of this software. This paper
+describes CalFUSE v3.2, the instrument calibrations upon which it is based, and
+the format of the resulting calibrated data files.

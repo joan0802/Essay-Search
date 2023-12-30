@@ -1,0 +1,6 @@
+Towards self-consistent definition of instanton liquid parameters
+  The possibility of self-consistent determination of instanton liquid
+parameters is discussed together with the definition of optimal pseudo-particle
+configurations and comparing the various pseudo-particle ensembles. The
+weakening of repulsive interactions between pseudo-particles is argued and
+estimated.

@@ -1,0 +1,10 @@
+Groups with finitely many conjugacy classes and their automorphisms
+  We combine classical methods of combinatorial group theory with the theory of
+small cancellations over relatively hyperbolic groups to construct finitely
+generated torsion-free groups that have only finitely many classes of conjugate
+elements. Moreover, we present several results concerning embeddings into such
+groups.
+  As another application of these techniques, we prove that every countable
+group $C$ can be realized as a group of outer automorphisms of a group $N$,
+where $N$ is a finitely generated group having Kazhdan's property (T) and
+containing exactly two conjugacy classes.

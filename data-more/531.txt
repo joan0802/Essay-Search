@@ -1,0 +1,6 @@
+Effect of transition-metal elements on the electronic properties of
+  quasicrystals and complex aluminides
+  In this paper, we briefly present our work on the role of transition-metal
+element in electronic structure and transport properties of quasicrystals and
+related complex phases. Several Parts of these works have been done or
+initiated in collaboration with Prof. T. Fujiwara.

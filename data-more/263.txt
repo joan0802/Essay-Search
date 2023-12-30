@@ -1,0 +1,5 @@
+Gluon Radiation of an Expanding Color Skyrmion in the Quark-Gluon Plasma
+  The density of states and energy spectrum of the gluon radiation are
+calculated for the color current of an expanding hydrodynamic skyrmion in the
+quark gluon plasma with a semiclassical method. Results are compared with those
+in literatures.

@@ -1,0 +1,15 @@
+Polymer Quantum Mechanics and its Continuum Limit
+  A rather non-standard quantum representation of the canonical commutation
+relations of quantum mechanics systems, known as the polymer representation has
+gained some attention in recent years, due to its possible relation with Planck
+scale physics. In particular, this approach has been followed in a symmetric
+sector of loop quantum gravity known as loop quantum cosmology. Here we explore
+different aspects of the relation between the ordinary Schroedinger theory and
+the polymer description. The paper has two parts. In the first one, we derive
+the polymer quantum mechanics starting from the ordinary Schroedinger theory
+and show that the polymer description arises as an appropriate limit. In the
+second part we consider the continuum limit of this theory, namely, the reverse
+process in which one starts from the discrete theory and tries to recover back
+the ordinary Schroedinger quantum mechanics. We consider several examples of
+interest, including the harmonic oscillator, the free particle and a simple
+cosmological model.

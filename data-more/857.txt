@@ -1,0 +1,6 @@
+Lessons Learned from the deployment of a high-interaction honeypot
+  This paper presents an experimental study and the lessons learned from the
+observation of the attackers when logged on a compromised machine. The results
+are based on a six months period during which a controlled experiment has been
+run with a high interaction honeypot. We correlate our findings with those
+obtained with a worldwide distributed system of lowinteraction honeypots.

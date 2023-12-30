@@ -1,0 +1,7 @@
+To the origin of the difference of FSI phases in $B\to\pi\pi$ and
+  $B\to\rho\rho$ decays
+  The final state interactions (FSI) model in which soft rescattering of low
+mass intermediate states dominates is suggested. It explains why the strong
+interaction phases are large in the $B_d\to\pi\pi$ channel and are considerably
+smaller in the $B_d\to\rho\rho$ one. Direct CP asymmetries of $B_d\to\pi\pi$
+decays which are determined by FSI phases are considered as well.

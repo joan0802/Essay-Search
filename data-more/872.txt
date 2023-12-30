@@ -1,0 +1,11 @@
+Predicting the frequencies of diverse exo-planetary systems
+  Extrasolar planetary systems range from hot Jupiters out to icy comet belts
+more distant than Pluto. We explain this diversity in a model where the mass of
+solids in the primordial circumstellar disk dictates the outcome. The star
+retains measures of the initial heavy-element (metal) abundance that can be
+used to map solid masses onto outcomes, and the frequencies of all classes are
+correctly predicted. The differing dependences on metallicity for forming
+massive planets and low-mass cometary bodies are also explained. By
+extrapolation, around two-thirds of stars have enough solids to form Earth-like
+planets, and a high rate is supported by the first detections of low-mass
+exo-planets.

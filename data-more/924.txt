@@ -1,0 +1,10 @@
+Spinor Dynamics in an Antiferromagnetic Spin-1 Condensate
+  We observe coherent spin oscillations in an antiferromagnetic spin-1
+Bose-Einstein condensate of sodium. The variation of the spin oscillations with
+magnetic field shows a clear signature of nonlinearity, in agreement with
+theory, which also predicts anharmonic oscillations near a critical magnetic
+field. Measurements of the magnetic phase diagram agree with predictions made
+in the approximation of a single spatial mode. The oscillation period yields
+the best measurement to date of the sodium spin-dependent interaction
+coefficient, determining that the difference between the sodium spin-dependent
+s-wave scattering lengths $a_{f=2}-a_{f=0}$ is $2.47\pm0.27$ Bohr radii.

@@ -1,0 +1,8 @@
+Eigen Equation of the Nonlinear Spinor
+  How to effectively solve the eigen solutions of the nonlinear spinor field
+equation coupling with some other interaction fields is important to understand
+the behavior of the elementary particles. In this paper, we derive a simplified
+form of the eigen equation of the nonlinear spinor, and then propose a scheme
+to solve their numerical solutions. This simplified equation has elegant and
+neat structure, which is more convenient for both theoretical analysis and
+numerical computation.

@@ -1,0 +1,6 @@
+Pfaffians, hafnians and products of real linear functionals
+  We prove pfaffian and hafnian versions of Lieb's inequalities on determinants
+and permanents of positive semi-definite matrices. We use the hafnian
+inequality to improve the lower bound of R\'ev\'esz and Sarantopoulos on the
+norm of a product of linear functionals on a real Euclidean space (this subject
+is sometimes called the `real linear polarization constant' problem).

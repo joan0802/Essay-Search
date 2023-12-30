@@ -1,0 +1,9 @@
+The discrete dipole approximation: an overview and recent developments
+  We present a review of the discrete dipole approximation (DDA), which is a
+general method to simulate light scattering by arbitrarily shaped particles. We
+put the method in historical context and discuss recent developments, taking
+the viewpoint of a general framework based on the integral equations for the
+electric field. We review both the theory of the DDA and its numerical aspects,
+the latter being of critical importance for any practical application of the
+method. Finally, the position of the DDA among other methods of light
+scattering simulation is shown and possible future developments are discussed.

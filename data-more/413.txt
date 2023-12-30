@@ -1,0 +1,10 @@
+Leaky modes of a left-handed slab
+  Using complex plane analysis we show that left-handed slab may support either
+leaky slab waves, which are backward because of negative refraction, or leaky
+surface waves, which are backward or forward depending on the propagation
+direction of the surface wave itself. Moreover, there is a general connection
+between the reflection coefficient of the left-handed slab and the one of the
+corresponding right-handed slab (with opposite permittivity and permeability)
+so that leaky slab modes are excited for the same angle of incidence of the
+impinging beam for both structures. Many negative giant lateral shifts can be
+explained by the excitation of these leaky modes.

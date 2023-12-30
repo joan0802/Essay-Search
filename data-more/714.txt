@@ -1,0 +1,10 @@
+Phase separation and flux quantization in the doped quantum dimer model
+  on the square and triangular lattices
+  The doped two-dimensional quantum dimer model is investigated by numerical
+techniques on the square and triangular lattices, with significantly different
+results. On the square lattice, at small enough doping, there is always a phase
+separation between an insulating valence-bond solid and a uniform superfluid
+phase, whereas on the triangular lattice, doping leads directly to a uniform
+superfluid in a large portion of the RVB phase. Under an applied Aharonov-Bohm
+flux, the superfluid exhibits quantization in terms of half-flux quanta,
+consistent with Q=2e elementary charge quanta in transport properties.

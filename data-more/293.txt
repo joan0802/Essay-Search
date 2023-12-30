@@ -1,0 +1,5 @@
+QED x QCD Resummation and Shower/ME Matching for LHC Physics
+  We present the theory of QED x QCD resummation and its interplay with
+shower/matrix element matching in precision LHC physics scenarios. We
+illustrate the theory using single heavy gauge boson production at hadron
+colliders.

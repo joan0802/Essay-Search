@@ -1,0 +1,4 @@
+Proper holomorphic mappings of the spectral unit ball
+  We prove an Alexander type theorem for the spectral unit ball $\Omega_n$
+showing that there are no non-trivial proper holomorphic mappings in
+$\Omega_n$, $n\geq 2$.

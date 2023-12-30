@@ -1,0 +1,11 @@
+Time and motion in physics: the Reciprocity Principle, relativistic
+  invariance of the lengths of rulers and time dilatation
+  Ponderable objects moving in free space according to Newton's First Law
+constitute both rulers and clocks when one such object is viewed from the rest
+frame of another. Together with the Reciprocity Principle this is used to
+demonstrate, in both Galilean and special relativity, the invariance of the
+measured length of a ruler in motion. The different times: `proper', `improper'
+and `apparent' appearing in different formulations of the relativistic time
+dilatation relation are discussed and exemplified by experimental applications.
+A non-intuitive `length expansion' effect predicted by the Reciprocity
+Principle as a necessary consequence of time dilatation is pointed out

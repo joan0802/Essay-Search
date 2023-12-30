@@ -1,0 +1,6 @@
+The Lifshitz-Slyozov-Wagner equation for reaction-controlled kinetics
+  We rigorously derive a weak form of the Lifshitz-Slyozov-Wagner equation as
+the homogenization limit of a Stefan-type problem describing
+reaction-controlled coarsening of a large number of small spherical particles.
+Moreover, we deduce that the effective mean-field description holds true in the
+particular limit of vanishing surface-area density of particles.

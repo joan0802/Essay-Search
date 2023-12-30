@@ -1,0 +1,9 @@
+A variational formulation of electrodynamics with external sources
+  We present a variational formulation of electrodynamics using de Rham even
+and odd differential forms. Our formulation relies on a variational principle
+more complete than the Hamilton principle and thus leads to field equations
+with external sources and permits the derivation of the constitutive relations.
+We interpret a domain in space-time as an odd de Rham 4-current. This permits a
+treatment of different types of boundary problems in an unified way. In
+particular we obtain a smooth transition to the infinitesimal version by using
+a current with a one point support.

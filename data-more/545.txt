@@ -1,0 +1,9 @@
+Persistent Currents in Superconducting Quantum Interference Devices
+  Starting from the reduced dynamical model of a two-junction quantum
+interference device, a quantum analog of the system has been exhibited, in
+order to extend the well known properties of this device to the quantum regime.
+By finding eigenvalues of the corresponding Hamiltonian operator, the
+persistent currents flowing in the ring have been obtained. The resulting
+quantum analog of the overdamped two-junction quantum interference device can
+be seen as a supercurrent qubit operating in the limit of negligible
+capacitance and finite inductance.

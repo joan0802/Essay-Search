@@ -1,0 +1,6 @@
+Some properties of the complex Monge-Ampere operator in Cegrell's
+  classes and applications
+  In this article we will first prove a result about convergence in capacity.
+Using the achieved result we will obtain a general decompositon theorem for
+complex Monge-Ampere measues which will be used to prove a comparison principle
+for the complex Monge-Ampere operator.

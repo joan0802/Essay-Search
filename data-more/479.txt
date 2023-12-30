@@ -1,0 +1,4 @@
+Enhanced quantum Zeno effect and bunching in the decay of interacting
+  bosons from an unstable state
+  paper withdrawn due to the possible error in numerical eigenfunction
+calculation

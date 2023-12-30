@@ -1,0 +1,4 @@
+Renormgroup origin and analysis of Split Higgsino scenario
+  We present a renormalization group motivation of scale hierarchies in SUSY
+SU(5) model. The Split Higgsino scanrio with a high scale of the SUSY breaking
+is considered in detail. Its manifestations in experiments are discussed.

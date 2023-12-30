@@ -1,0 +1,6 @@
+Symmetries by base substitutions in the genetic code predict 2' or 3'
+  aminoacylation of tRNAs
+  This letter reports complete sets of two-fold symmetries between partitions
+of the universal genetic code. By substituting bases at each position of the
+codons according to a fixed rule, it happens that properties of the degeneracy
+pattern or of tRNA aminoacylation specificity are exchanged.

@@ -1,0 +1,4 @@
+From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$
+  In this paper we show how to compute the $\Lambda_{\alpha}$ norm, $\alpha\ge
+0$, using the dyadic grid. This result is a consequence of the description of
+the Hardy spaces $H^p(R^N)$ in terms of dyadic and special atoms.

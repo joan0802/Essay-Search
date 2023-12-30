@@ -1,0 +1,8 @@
+Three-dimensional effects in "atom diodes": atom-optical devices for
+  one-way motion
+  The ``atom diode'' is a laser device that lets the ground state atom pass in
+one direction but not in the opposite direction. We examine three-dimensional
+effects of that device for arbitrary atomic incidence angles on flat laser
+sheets and set breakdown limiting angles and velocities. It is found that a
+correct diodic behavior independent of the incident angle can be obtained with
+blue detuned lasers.

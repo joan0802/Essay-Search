@@ -1,0 +1,6 @@
+Canonical singular hermitian metrics on relative canonical bundles
+  We introduce a new class of canonical AZD's (called the supercanonical AZD's)
+on the canonical bundles of smooth projective varieties with pseudoeffective
+canonical classes. We study the variation of the supercanonical AZD
+$\hat{h}_{can}$ under projective deformations and give a new proof of the
+invariance of plurigenera.

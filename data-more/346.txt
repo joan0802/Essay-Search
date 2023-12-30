@@ -1,0 +1,7 @@
+Resolvent estimates related with a class of dispersive equations
+  We present a simple proof of the resolvent estimates of elliptic Fourier
+multipliers on the Euclidean space, and apply them to the analysis of
+time-global and spatially-local smoothing estimates of a class of dispersive
+equations. For this purpose we study in detail the properties of the
+restriction of Fourier transform on the unit cotangent sphere associated with
+the symbols of multipliers.

@@ -1,0 +1,8 @@
+Noncommutative Solitons in a Supersymmetric Chiral Model in 2+1
+  Dimensions
+  We consider a supersymmetric Bogomolny-type model in 2+1 dimensions
+originating from twistor string theory. By a gauge fixing this model is reduced
+to a modified U(n) chiral model with N<=8 supersymmetries in 2+1 dimensions.
+After a Moyal-type deformation of the model, we employ the dressing method to
+explicitly construct multi-soliton configurations on noncommutative R^{2,1} and
+analyze some of their properties.

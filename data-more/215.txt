@@ -1,0 +1,10 @@
+Ab initio Study of Graphene on SiC
+  Employing density-functional calculations we study single and double graphene
+layers on Si- and C-terminated 1x1-6H-SiC surfaces. We show that, in contrast
+to earlier assumptions, the first carbon layer is covalently bonded to the
+substrate, and cannot be responsible for the graphene-type electronic spectrum
+observed experimentally. The characteristic spectrum of free-standing graphene
+appears with the second carbon layer, which exhibits a weak van der Waals
+bonding to the underlying structure. For Si-terminated substrate, the interface
+is metallic, whereas on C-face it is semiconducting or semimetallic for single
+or double graphene coverage, respectively.

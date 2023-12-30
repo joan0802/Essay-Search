@@ -1,0 +1,7 @@
+Bose-Einstein correlations of direct photons in Au+Au collisions at
+  $\sqrt{s_{NN}} = 200$ GeV
+  The current status of the analysis of direct photon Bose-Einstein
+correlations in Au+Au collisions at $\sqrt{s_{NN}}=200$ GeV done by the PHENIX
+collaboration is summarized. All possible sources of distortion of the
+two-photon correlation function are discussed and methods to control them in
+the PHENIX experiment are presented.

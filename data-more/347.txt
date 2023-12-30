@@ -1,0 +1,6 @@
+What can emission lines tell us?
+  1 Generalities
+  2 Empirical diagnostics based on emission lines
+  3 Photoionization modelling
+  4 Pending questions
+  5 Appendix: Lists of useful lines and how to deal with them

@@ -1,0 +1,7 @@
+Polarization conversion in a silica microsphere
+  We experimentally demonstrate controlled polarization-selective phenomena in
+a whispering gallery mode resonator. We observed efficient ($\approx 75 %$)
+polarization conversion of light in a silica microsphere coupled to a tapered
+optical fiber with proper optimization of the polarization of the propagating
+light. A simple model treating the microsphere as a ring resonator provides a
+good fit to the observed behavior.

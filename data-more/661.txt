@@ -1,0 +1,6 @@
+Bounds for Multiplicities of Unitary Representations of Cohomological
+  Type in Spaces of Cusp Forms
+  Let $\Goo$ be a semisimple real Lie group with unitary dual $\Ghat$. The goal
+of this note is to produce new upper bounds for the multiplicities with which
+representations $\pi \in \Ghat$ of cohomological type appear in certain spaces
+of cusp forms on $\Goo$.

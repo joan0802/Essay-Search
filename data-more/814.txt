@@ -1,0 +1,8 @@
+Exchange of quantum states between coupled oscillators
+  Exchange of quantum states between two interacting harmonic oscillator along
+their evolution time is discussed. It is analyzed the conditions for such
+exchange starting from a generic initial state and demonstrating that the
+effect occurs exactly only for the particular states C0|0>+Cn|N>, which
+includes the interesting qubits components |0>,|1>. It is also determined the
+relation between the coupling constant and characteristic frequencies of the
+oscillators to have the complete exchange.

@@ -1,0 +1,10 @@
+Filling-Factor-Dependent Magnetophonon Resonance in Graphene
+  We describe a peculiar fine structure acquired by the in-plane optical phonon
+at the Gamma-point in graphene when it is brought into resonance with one of
+the inter-Landau-level transitions in this material. The effect is most
+pronounced when this lattice mode (associated with the G-band in graphene Raman
+spectrum) is in resonance with inter-Landau-level transitions 0 -> (+,1) and
+(-,1) -> 0, at a magnetic field B_0 ~ 30 T. It can be used to measure the
+strength of the electron-phonon coupling directly, and its filling-factor
+dependence can be used experimentally to detect circularly polarized lattice
+modes.

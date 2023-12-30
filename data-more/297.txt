@@ -1,0 +1,10 @@
+Direct Theorems in the Theory of Approximation of the Banach Space
+  Vectors by Entire Vectors of Exponential Type
+  For an arbitrary operator A on a Banach space X which is a generator of
+C_0-group with certain growth condition at the infinity, the direct theorems on
+connection between the smoothness degree of a vector $x\in X$ with respect to
+the operator A, the order of convergence to zero of the best approximation of x
+by exponential type entire vectors for the operator A, and the k-module of
+continuity are given. Obtained results allows to acquire Jackson-type
+inequalities in many classic spaces of periodic functions and weighted $L_p$
+spaces.

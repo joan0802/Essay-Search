@@ -1,0 +1,10 @@
+Stability of a colocated finite volume scheme for the incompressible
+  Navier-Stokes equations
+  We introduce a finite volume scheme for the two-dimensional incompressible
+Navier-Stokes equations. We use a triangular mesh. The unknowns for the
+velocity and pressure are both piecewise constant (colocated scheme). We use a
+projection (fractional-step) method to deal with the incompressibility
+constraint. We prove that the differential operators in the Navier-Stokes
+equations and their discrete counterparts share similar properties. In
+particular, we state an inf-sup (Babuska-Brezzi) condition. We infer from it
+the stability of the scheme.

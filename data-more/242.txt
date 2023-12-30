@@ -1,0 +1,15 @@
+Renormalized quasiparticles in antiferromagnetic states of the Hubbard
+  model
+  We analyze the properties of the quasiparticle excitations of metallic
+antiferromagnetic states in a strongly correlated electron system. The study is
+based on dynamical mean field theory (DMFT) for the infinite dimensional
+Hubbard model with antiferromagnetic symmetry breaking. Self-consistent
+solutions of the DMFT equations are calculated using the numerical
+renormalization group (NRG). The low energy behavior in these results is then
+analyzed in terms of renormalized quasiparticles. The parameters for these
+quasiparticles are calculated directly from the NRG derived self-energy, and
+also from the low energy fixed point of the effective impurity. They are found
+to be in good agreement. We show that the main low energy features of the $\bf
+k$-resolved spectral density can be understood in terms of the quasiparticle
+picture. We also find that Luttinger's theorem is satisfied for the total
+electron number in the doped antiferromagnetic state.

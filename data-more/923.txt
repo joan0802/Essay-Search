@@ -1,0 +1,25 @@
+Lower order terms in the 1-level density for families of holomorphic
+  cuspidal newforms
+  The Katz-Sarnak density conjecture states that, in the limit as the
+conductors tend to infinity, the behavior of normalized zeros near the central
+point of families of L-functions agree with the N -> oo scaling limits of
+eigenvalues near 1 of subgroups of U(N). Evidence for this has been found for
+many families by studying the n-level densities; for suitably restricted test
+functions the main terms agree with random matrix theory. In particular, all
+one-parameter families of elliptic curves with rank r over Q(T) and the same
+distribution of signs of functional equations have the same limiting behavior.
+We break this universality and find family dependent lower order correction
+terms in many cases; these lower order terms have applications ranging from
+excess rank to modeling the behavior of zeros near the central point, and
+depend on the arithmetic of the family. We derive an alternate form of the
+explicit formula for GL(2) L-functions which simplifies comparisons, replacing
+sums over powers of Satake parameters by sums of the moments of the Fourier
+coefficients lambda_f(p). Our formula highlights the differences that we expect
+to exist from families whose Fourier coefficients obey different laws (for
+example, we expect Sato-Tate to hold only for non-CM families of elliptic
+curves). Further, by the work of Rosen and Silverman we expect lower order
+biases to the Fourier coefficients in families of elliptic curves with rank
+over Q(T); these biases can be seen in our expansions. We analyze several
+families of elliptic curves and see different lower order corrections,
+depending on whether or not the family has complex multiplication, a forced
+torsion point, or non-zero rank over Q(T).

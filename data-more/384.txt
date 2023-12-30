@@ -1,0 +1,8 @@
+Super-shell structures and pairing in ultracold trapped Fermi gases
+  We calculate level densities and pairing gaps for an ultracold dilute gas of
+fermionic atoms in harmonic traps under the influence of mean field and
+anharmonic quartic trap potentials. Super-shell structures, which were found in
+Hartree-Fock calculations, are calculated analytically within periodic orbit
+theory as well as from WKB calculations. For attractive interactions, the
+underlying level densities are crucial for pairing and super-shell structures
+in gaps are predicted.

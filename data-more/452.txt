@@ -1,0 +1,10 @@
+Antiferromagnetism-superconductivity competition in electron-doped
+  cuprates triggered by oxygen reduction
+  We have performed a systematic angle-resolved photoemission study of as-grown
+and oxygen-reduced Pr$_{2-x}$Ce$_x$CuO$_4$ and Pr$_{1-x}$LaCe$_{x}$CuO$_4$
+electron-doped cuprates. In contrast to the common belief, neither the band
+filling nor the band parameters are significantly affected by the oxygen
+reduction process. Instead, we show that the main electronic role of the
+reduction process is to remove an anisotropic leading edge gap around the Fermi
+surface. While the nodal leading edge gap is induced by long-range
+antiferomagnetic order, the origin of the antinodal one remains unclear.

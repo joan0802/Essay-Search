@@ -1,0 +1,3 @@
+Reducing SAT to 2-SAT
+  Description of a polynomial time reduction of SAT to 2-SAT of polynomial
+size.

@@ -1,0 +1,13 @@
+Effective band-structure in the insulating phase versus strong dynamical
+  correlations in metallic VO2
+  Using a general analytical continuation scheme for cluster dynamical mean
+field calculations, we analyze real-frequency self-energies, momentum-resolved
+spectral functions, and one-particle excitations of the metallic and insulating
+phases of VO2. While for the former dynamical correlations and lifetime effects
+prevent a description in terms of quasi-particles, the excitations of the
+latter allow for an effective band-structure. We construct an
+orbital-dependent, but static one-particle potential that reproduces the full
+many-body spectrum. Yet, the ground state is well beyond a static one-particle
+description. The emerging picture gives a non-trivial answer to the decade-old
+question of the nature of the insulator, which we characterize as a ``many-body
+Peierls'' state.

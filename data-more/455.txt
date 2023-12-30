@@ -1,0 +1,10 @@
+Particle propagation in cosmological backgrounds
+  We study the quantum propagation of particles in cosmological backgrounds, by
+considering a doublet of massive scalar fields propagating in an expanding
+universe, possibly filled with radiation. We focus on the dissipative effects
+related to the expansion rate. At first order, we recover the expected result
+that the decay rate is determined by the local temperature. Beyond linear
+order, the decay rate has an additional contribution governed by the expansion
+parameter. This latter contribution is present even for stable particles in the
+vacuum. Finally, we analyze the long time behaviour of the propagator and
+briefly discuss applications to the trans-Planckian question.

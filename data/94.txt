@@ -1,0 +1,13 @@
+Geometry of Locally Compact Groups of Polynomial Growth and Shape of
+  Large Balls
+  We get asymptotics for the volume of large balls in an arbitrary locally
+compact group G with polynomial growth. This is done via a study of the
+geometry of G and a generalization of P. Pansu's thesis. In particular, we show
+that any such G is weakly commensurable to some simply connected solvable Lie
+group S, the Lie shadow of G. We also show that large balls in G have an
+asymptotic shape, i.e. after a suitable renormalization, they converge to a
+limiting compact set which can be interpreted geometrically. We then discuss
+the speed of convergence, treat some examples and give an application to
+ergodic theory. We also answer a question of Burago about left invariant
+metrics and recover some results of Stoll on the irrationality of growth series
+of nilpotent groups.

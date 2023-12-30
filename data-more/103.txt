@@ -1,0 +1,8 @@
+A geometric realization of sl(6,C)
+  Given an orientable weakly self-dual manifold X of rank two, we build a
+geometric realization of the Lie algebra sl(6,C) as a naturally defined algebra
+L of endomorphisms of the space of differential forms of X. We provide an
+explicit description of Serre generators in terms of natural generators of L.
+This construction gives a bundle on X which is related to the search for a
+natural Gauge theory on X. We consider this paper as a first step in the study
+of a rich and interesting algebraic structure.

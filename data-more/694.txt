@@ -1,0 +1,9 @@
+Photon splitting in a laser field
+  Photon splitting due to vacuum polarization in a laser field is considered.
+Using an operator technique, we derive the amplitudes for arbitrary strength,
+spectral content and polarization of the laser field. The case of a
+monochromatic circularly polarized laser field is studied in detail and the
+amplitudes are obtained as three-fold integrals. The asymptotic behavior of the
+amplitudes for various limits of interest are investigated also in the case of
+a linearly polarized laser field. Using the obtained results, the possibility
+of experimental observation of the process is discussed.

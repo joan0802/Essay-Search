@@ -1,0 +1,13 @@
+Decoherence of Quantum-Enhanced Timing Accuracy
+  Quantum enhancement of optical pulse timing accuracy is investigated in the
+Heisenberg picture. Effects of optical loss, group-velocity dispersion, and
+Kerr nonlinearity on the position and momentum of an optical pulse are studied
+via Heisenberg equations of motion. Using the developed formalism, the impact
+of decoherence by optical loss on the use of adiabatic soliton control for
+beating the timing standard quantum limit [Tsang, Phys. Rev. Lett. 97, 023902
+(2006)] is analyzed theoretically and numerically. The analysis shows that an
+appreciable enhancement can be achieved using current technology, despite an
+increase in timing jitter mainly due to the Gordon-Haus effect. The decoherence
+effect of optical loss on the transmission of quantum-enhanced timing
+information is also studied, in order to identify situations in which the
+enhancement is able to survive.

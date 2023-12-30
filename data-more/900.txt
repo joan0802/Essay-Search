@@ -1,0 +1,13 @@
+The density of critical percolation clusters touching the boundaries of
+  strips and squares
+  We consider the density of two-dimensional critical percolation clusters,
+constrained to touch one or both boundaries, in infinite strips, half-infinite
+strips, and squares, as well as several related quantities for the infinite
+strip. Our theoretical results follow from conformal field theory, and are
+compared with high-precision numerical simulation. For example, we show that
+the density of clusters touching both boundaries of an infinite strip of unit
+width (i.e. crossing clusters) is proportional to $(\sin \pi
+y)^{-5/48}\{[\cos(\pi y/2)]^{1/3} +[\sin (\pi y/2)]^{1/3}-1\}$.
+  We also determine numerically contours for the density of clusters crossing
+squares and long rectangles with open boundaries on the sides, and compare with
+theory for the density along an edge.

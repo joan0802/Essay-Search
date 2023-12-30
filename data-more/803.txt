@@ -1,0 +1,14 @@
+Equation-free implementation of statistical moment closures
+  We present a general numerical scheme for the practical implementation of
+statistical moment closures suitable for modeling complex, large-scale,
+nonlinear systems. Building on recently developed equation-free methods, this
+approach numerically integrates the closure dynamics, the equations of which
+may not even be available in closed form. Although closure dynamics introduce
+statistical assumptions of unknown validity, they can have significant
+computational advantages as they typically have fewer degrees of freedom and
+may be much less stiff than the original detailed model. The closure method can
+in principle be applied to a wide class of nonlinear problems, including
+strongly-coupled systems (either deterministic or stochastic) for which there
+may be no scale separation. We demonstrate the equation-free approach for
+implementing entropy-based Eyink-Levermore closures on a nonlinear stochastic
+partial differential equation.

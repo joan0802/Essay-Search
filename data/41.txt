@@ -1,0 +1,9 @@
+General System theory, Like-Quantum Semantics and Fuzzy Sets
+  It is outlined the possibility to extend the quantum formalism in relation to
+the requirements of the general systems theory. It can be done by using a
+quantum semantics arising from the deep logical structure of quantum theory. It
+is so possible taking into account the logical openness relationship between
+observer and system. We are going to show how considering the truth-values of
+quantum propositions within the context of the fuzzy sets is here more useful
+for systemics . In conclusion we propose an example of formal quantum
+coherence.

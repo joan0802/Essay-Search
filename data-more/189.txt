@@ -1,0 +1,18 @@
+The Reliability on the Direction of the Incident Neutrino for the Fully
+  Contained Events and Partially Contained Events due to QEL in the
+  Super-Kamiokande
+  In the SK analysis of the neutrino events for [Fully Contained Events] and
+[Partially Contained Events] on their zenith angle distribution, it is assumed
+that the zenith angle of the incident neutrino is the same as that of the
+detected charged lepton. In the present paper, we examine the validity of [the
+SK assumption on the direction] of the incident neutrinos. Concretely speaking,
+we analyze muon-like events due to QEL. For the purpose, we develop [Time
+Sequential Monte Carlo Simulation] to extract the conclusion on the validity of
+the SK assumption. In our [Time Sequential Simulation], we simulate every
+physical process concerned as exactly as possible without any approximation.
+  From the comparison between the zenith angle distributon of the emitted muons
+under [the SK assumption on the direction] and the corresponding one obtained
+under our [Time Sequential Simulation], it is concluded that the measurement of
+the direction of the incident neutrino for the neutrino events occurring inside
+the detector in the SK analysis turns out to be unreliable, which holds
+irrespective of the existence and/or non-existence of the neutrino oscillation.

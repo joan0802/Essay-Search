@@ -1,0 +1,9 @@
+New version announcement for TaylUR, an arbitrary-order diagonal
+  automatic differentiation package for Fortran 95
+  We present a new version of TaylUR, a Fortran 95 module to automatically
+compute the numerical values of a complex-valued function's derivatives with
+respect to several variables up to an arbitrary order in each variable, but
+excluding mixed derivatives. The new version fixes a potentially serious bug in
+the code for exponential-related functions that could corrupt the imaginary
+parts of derivatives, as well as being compatible with a wider range of
+compilers.

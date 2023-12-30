@@ -1,0 +1,14 @@
+Model C critical dynamics of random anisotropy magnets
+  We study the relaxational critical dynamics of the three-dimensional random
+anisotropy magnets with the non-conserved n-component order parameter coupled
+to a conserved scalar density. In the random anisotropy magnets the structural
+disorder is present in a form of local quenched anisotropy axes of random
+orientation. When the anisotropy axes are randomly distributed along the edges
+of the n-dimensional hypercube, asymptotical dynamical critical properties
+coincide with those of the random-site Ising model. However structural disorder
+gives rise to considerable effects for non-asymptotic critical dynamics. We
+investigate this phenomenon by a field-theoretical renormalization group
+analysis in the two-loop order. We study critical slowing down and obtain
+quantitative estimates for the effective and asymptotic critical exponents of
+the order parameter and scalar density. The results predict complex scenarios
+for the effective critical exponent approaching an asymptotic regime.

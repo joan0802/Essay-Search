@@ -1,0 +1,8 @@
+Implication of the D^0 Width Difference On CP-Violation in D^0-\bar D^0
+  Mixing
+  Both BaBar and Belle have found evidence for a non-zero width difference in
+the $D^0$-$\bar D^0$ system. Although there is no direct experimental evidence
+for CP-violation in $D$ mixing (yet), we show that the measured values of the
+width difference $y\sim \Delta\Gamma$ already imply constraints on the
+CP-violating phase in $D$ mixing, which, if significantly different from zero,
+would be an unambiguous signal of new physics.

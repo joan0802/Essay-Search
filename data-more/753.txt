@@ -1,0 +1,7 @@
+General Relativity Today
+  After recalling the conceptual foundations and the basic structure of general
+relativity, we review some of its main modern developments (apart from
+cosmology) : (i) the post-Newtonian limit and weak-field tests in the solar
+system, (ii) strong gravitational fields and black holes, (iii) strong-field
+and radiative tests in binary pulsar observations, (iv) gravitational waves,
+(v) general relativity and quantum theory.

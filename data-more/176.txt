@@ -1,0 +1,10 @@
+Robust manipulation of electron spin coherence in an ensemble of singly
+  charged quantum dots
+  Using the recently reported mode locking effect we demonstrate a highly
+robust control of electron spin coherence in an ensemble of (In,Ga)As quantum
+dots during the single spin coherence time. The spin precession in a transverse
+magnetic field can be fully controlled up to 25 K by the parameters of the
+exciting pulsed laser protocol such as the pulse train sequence, leading to
+adjustable quantum beat bursts in Faraday rotation. Flipping of the electron
+spin precession phase was demonstrated by inverting the polarization within a
+pulse doublet sequence.

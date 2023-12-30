@@ -1,0 +1,12 @@
+Lower bounds for the conductivities of correlated quantum systems
+  We show how one can obtain a lower bound for the electrical, spin or heat
+conductivity of correlated quantum systems described by Hamiltonians of the
+form H = H0 + g H1. Here H0 is an interacting Hamiltonian characterized by
+conservation laws which lead to an infinite conductivity for g=0. The small
+perturbation g H1, however, renders the conductivity finite at finite
+temperatures. For example, H0 could be a continuum field theory, where momentum
+is conserved, or an integrable one-dimensional model while H1 might describe
+the effects of weak disorder. In the limit g to 0, we derive lower bounds for
+the relevant conductivities and show how they can be improved systematically
+using the memory matrix formalism. Furthermore, we discuss various applications
+and investigate under what conditions our lower bound may become exact.

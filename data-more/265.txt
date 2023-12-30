@@ -1,0 +1,13 @@
+Supernova Polarization and the Type IIn Classification
+  While the members of the Type IIn category of supernovae are united by the
+presence of strong multicomponent Balmer emission lines in their spectra, they
+are quite heterogeneous with respect to other properties such as Balmer line
+profiles, light curves, strength of radio emission, and intrinsic brightness.
+We are now beginning to see variety among SNe IIn in their polarimetric
+characteristics as well, some but not all of which may be due to inclination
+angle effects. The increasing number of known "hybrid" SNe with IIn-like
+emission lines suggests that circumstellar material may be more common around
+all types of SNe than previously thought. Investigation of the correlations
+between spectropolarimetric signatures and other IIn attributes will help us
+address the question of classification of "interacting SNe" and the possibility
+of distinguishing different groups within the diverse IIn subclass.

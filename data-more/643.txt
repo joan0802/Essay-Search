@@ -1,0 +1,7 @@
+On the HOMFLY and Tutte polynomials
+  A celebrated result of F. Jaeger states that the Tutte polynomial of a planar
+graph is determined by the HOMFLY polynomial of an associated link. Here we are
+interested in the converse of this result. We consider the question `to what
+extent does the Tutte polynomial determine the HOMFLY polynomial of any knot?'
+We show that the HOMFLY polynomial of a knot is determined by Tutte polynomials
+of plane graphs associated to the knot.

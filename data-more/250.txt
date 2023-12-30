@@ -1,0 +1,11 @@
+Entanglement of Subspaces and Error Correcting Codes
+  We introduce the notion of entanglement of subspaces as a measure that
+quantify the entanglement of bipartite states in a randomly selected subspace.
+We discuss its properties and in particular we show that for maximally
+entangled subspaces it is additive. Furthermore, we show that maximally
+entangled subspaces can play an important role in the study of quantum error
+correction codes. We discuss both degenerate and non-degenerate codes and show
+that the subspace spanned by the logical codewords of a non-degenerate code is
+a 2k-totally (maximally) entangled subspace. As for non-degenerate codes, we
+provide a mathematical definition in terms of subspaces and, as an example, we
+analyze Shor's nine qubits code in terms of 22 mutually orthogonal subspaces.

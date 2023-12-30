@@ -1,0 +1,6 @@
+Acceleration and localization of matter in a ring trap
+  A toroidal trap combined with external time-dependent electric field can be
+used for implementing different dynamical regimes of matter waves. In
+particular, we show that dynamical and stochastic acceleration, localization
+and implementation of the Kapitza pendulum can be originated by means of proper
+choice of the external force.

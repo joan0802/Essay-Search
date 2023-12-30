@@ -1,0 +1,9 @@
+Late-time tails of a Yang-Mills field on Minkowski and Schwarzschild
+  backgrounds
+  We study the late-time behavior of spherically symmetric solutions of the
+Yang-Mills equations on Minkowski and Schwarzschild backgrounds. Using
+nonlinear perturbation theory we show in both cases that solutions having
+smooth compactly supported initial data posses tails which decay as $t^{-4}$ at
+timelike infinity. Moreover, for small initial data on Minkowski background we
+derive the third-order formula for the amplitude of the tail and confirm
+numerically its accuracy.

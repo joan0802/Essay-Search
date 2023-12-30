@@ -1,0 +1,13 @@
+Stringy Instantons at Orbifold Singularities
+  We study the effects produced by D-brane instantons on the holomorphic
+quantities of a D-brane gauge theory at an orbifold singularity. These effects
+are not limited to reproducing the well known contributions of the gauge theory
+instantons but also generate extra terms in the superpotential or the
+prepotential. On these brane instantons there are some neutral fermionic
+zero-modes in addition to the ones expected from broken supertranslations. They
+are crucial in correctly reproducing effects which are dual to gauge theory
+instantons, but they may make some other interesting contributions vanish. We
+analyze how orientifold projections can remove these zero-modes and thus allow
+for new superpotential terms. These terms contribute to the dynamics of the
+effective gauge theory, for instance in the stabilization of runaway
+directions.

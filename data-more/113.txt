@@ -1,0 +1,15 @@
+Quantum Phase Transition in the Four-Spin Exchange Antiferromagnet
+  We study the S=1/2 Heisenberg antiferromagnet on a square lattice with
+nearest-neighbor and plaquette four-spin exchanges (introduced by A.W. Sandvik,
+Phys. Rev. Lett. {\bf 98}, 227202 (2007).)
+  This model undergoes a quantum phase transition from a spontaneously
+dimerized phase to N\'eel order at a critical coupling. We show that as the
+critical point is approached from the dimerized side, the system exhibits
+strong fluctuations in the dimer background, reflected in the presence of a
+low-energy singlet mode, with a simultaneous rise in the triplet quasiparticle
+density. We find that both singlet and triplet modes of high density condense
+at the transition, signaling restoration of lattice symmetry. In our approach,
+which goes beyond mean-field theory in terms of the triplet excitations, the
+transition appears sharp; however since our method breaks down near the
+critical point, we argue that we cannot make a definite conclusion regarding
+the order of the transition.

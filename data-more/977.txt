@@ -1,0 +1,16 @@
+Distribution of the molecular absorption in front of the quasar
+  B0218+357
+  The line of sight to the quasar B0218+357, one of the most studied lensed
+systems, intercepts a z=0.68 spiral galaxy, which splits its image into two
+main components A and B, separated by ca. 0.3'', and gives rise to molecular
+absorption. Although the main absorption component has been shown to arise in
+front of image A, it is not established whether some absorption from other
+velocity components is also occuring in front of image B. To tackle this
+question, we have observed the HCO+(2-1) absorption line during the
+commissioning phase of the new very extended configuration of the Plateau de
+Bure Interferometer, in order to trace the position of the absorption as a
+function of frequency. Visibility fitting of the self-calibrated data allowed
+us to achieve position accuracy between ~12 and 80 mas per velocity component.
+Our results clearly demonstrate that all the different velocity components of
+the HCO+(2-1) absorption arise in front of the south-west image A of the
+quasar. We estimate a flux ratio fA/fB = 4.2 (-1.0;+1.8 at 106 GHz.

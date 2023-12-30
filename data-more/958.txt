@@ -1,0 +1,6 @@
+Theoretical Status of Pentaquarks
+  We review the current status of the theoretical pentaquark search from the
+direct QCD calculation. The works from the QCD sum rule and the lattice QCD in
+the literature are carefully examined. The importance of the framework which
+can distinguish the exotic pentaquark state (if any) from the NK scattering
+state is emphasized.

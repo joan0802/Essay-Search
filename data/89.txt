@@ -1,0 +1,9 @@
+Real Options for Project Schedules (ROPS)
+  Real Options for Project Schedules (ROPS) has three recursive
+sampling/optimization shells. An outer Adaptive Simulated Annealing (ASA)
+optimization shell optimizes parameters of strategic Plans containing multiple
+Projects containing ordered Tasks. A middle shell samples probability
+distributions of durations of Tasks. An inner shell samples probability
+distributions of costs of Tasks. PATHTREE is used to develop options on
+schedules.. Algorithms used for Trading in Risk Dimensions (TRD) are applied to
+develop a relative risk analysis among projects.

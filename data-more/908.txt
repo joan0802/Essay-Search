@@ -1,0 +1,8 @@
+L^2 rho form for normal coverings of fibre bundles
+  We define the secondary invariants L^2- eta and -rho forms for families of
+generalized Dirac operators on normal coverings of fibre bundles. On the
+covering family we assume transversally smooth spectral projections, and
+Novikov--Shubin invariants bigger than 3(dim B+1) to treat the large time
+asymptotic for general operators. In the particular case of a bundle of spin
+manifolds, we study the L^2- rho class in relation to the space of positive
+scalar curvature vertical metrics.

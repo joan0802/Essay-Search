@@ -1,0 +1,9 @@
+The Veldkamp Space of Two-Qubits
+  Given a remarkable representation of the generalized Pauli operators of
+two-qubits in terms of the points of the generalized quadrangle of order two,
+W(2), it is shown that specific subsets of these operators can also be
+associated with the points and lines of the four-dimensional projective space
+over the Galois field with two elements - the so-called Veldkamp space of W(2).
+An intriguing novelty is the recognition of (uni- and tri-centric) triads and
+specific pentads of the Pauli operators in addition to the "classical" subsets
+answering to geometric hyperplanes of W(2).

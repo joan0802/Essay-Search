@@ -1,0 +1,13 @@
+Black hole puncture initial data with realistic gravitational wave
+  content
+  We present improved post-Newtonian-inspired initial data for non-spinning
+black-hole binaries, suitable for numerical evolution with punctures. We
+revisit the work of Tichy et al. [W. Tichy, B. Bruegmann, M. Campanelli, and P.
+Diener, Phys. Rev. D 67, 064008 (2003)], explicitly calculating the remaining
+integral terms. These terms improve accuracy in the far zone and, for the first
+time, include realistic gravitational waves in the initial data. We investigate
+the behavior of these data both at the center of mass and in the far zone,
+demonstrating agreement of the transverse-traceless parts of the new metric
+with quadrupole-approximation waveforms. These data can be used for numerical
+evolutions, enabling a direct connection between the merger waveforms and the
+post-Newtonian inspiral waveforms.

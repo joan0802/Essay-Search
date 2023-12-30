@@ -1,0 +1,8 @@
+An individual based model with global competition interaction:
+  fluctuations effects in pattern formation
+  We present some numerical results obtained from a simple individual based
+model that describes clustering of organisms caused by competition. Our aim is
+to show how, even when a deterministic description developed for continuum
+models predicts no pattern formation, an individual based model displays well
+defined patterns, as a consequence of fluctuations effects caused by the
+discrete nature of the interacting agents.

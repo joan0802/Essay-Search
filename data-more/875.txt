@@ -1,0 +1,4 @@
+Non-monotone convergence in the quadratic Wasserstein distance
+  We give an easy counter-example to Problem 7.20 from C. Villani's book on
+mass transport: in general, the quadratic Wasserstein distance between $n$-fold
+normalized convolutions of two given measures fails to decrease monotonically.

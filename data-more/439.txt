@@ -1,0 +1,6 @@
+Dynamics of a quantum phase transition in a ferromagnetic Bose-Einstein
+  condensate
+  We discuss dynamics of a slow quantum phase transition in a spin-1
+Bose-Einstein condensate. We determine analytically the scaling properties of
+the system magnetization and verify them with numerical simulations in a one
+dimensional model.

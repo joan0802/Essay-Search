@@ -1,0 +1,12 @@
+Complete Set of Polarization Transfer Observables for the $^{12}{\rm
+  C}(p,n)$ Reaction at 296 MeV and 0$^{\circ}$
+  A complete set of polarization transfer observables has been measured for the
+$^{12}{\rm C}(p,n)$ reaction at $T_p=296 {\rm MeV}$ and $\theta_{\rm
+lab}=0^{\circ}$. The total spin transfer $\Sigma(0^{\circ})$ and the observable
+$f_1$ deduced from the measured polarization transfer observables indicate that
+the spin--dipole resonance at $E_x \simeq 7 {\rm MeV}$ has greater $2^-$
+strength than $1^-$ strength, which is consistent with recent experimental and
+theoretical studies. The results also indicate a predominance of the spin-flip
+and unnatural-parity transition strength in the continuum. The exchange tensor
+interaction at a large momentum transfer of $Q \simeq 3.6 {\rm fm}^{-1}$ is
+discussed.

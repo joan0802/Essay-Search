@@ -1,0 +1,11 @@
+Associated production of the charged Higgs boson and single top quark at
+  the LHC
+  The left-right twin Higgs(LRTH) model predicts the existence of the charged
+Higgs $\phi^{\pm}$. In this paper, we study the production of the charged Higgs
+boson $\phi^{-}$ with single top quark via the process $bg\to t\phi^{-}$ at the
+$CERN$ Large Hadron Collider(LHC). The numerical results show that the
+production cross section can reach the level of $10 pb$ in the reasonable
+parameter space of the LRTH model. We expect that, as long as it is not too
+heavy, the possible signatures of the heavy charged Higgs boson $\phi^{-}$
+might be detected via the decay mode $\phi^{-}\to \bar{t}b$ at the LHC
+experiments.

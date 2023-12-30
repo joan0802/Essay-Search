@@ -1,0 +1,17 @@
+Littlewood-Richardson polynomials
+  We introduce a family of rings of symmetric functions depending on an
+infinite sequence of parameters. A distinguished basis of such a ring is
+comprised by analogues of the Schur functions. The corresponding structure
+coefficients are polynomials in the parameters which we call the
+Littlewood-Richardson polynomials. We give a combinatorial rule for their
+calculation by modifying an earlier result of B. Sagan and the author. The new
+rule provides a formula for these polynomials which is manifestly positive in
+the sense of W. Graham. We apply this formula for the calculation of the
+product of equivariant Schubert classes on Grassmannians which implies a
+stability property of the structure coefficients. The first manifestly positive
+formula for such an expansion was given by A. Knutson and T. Tao by using
+combinatorics of puzzles while the stability property was not apparent from
+that formula. We also use the Littlewood-Richardson polynomials to describe the
+multiplication rule in the algebra of the Casimir elements for the general
+linear Lie algebra in the basis of the quantum immanants constructed by A.
+Okounkov and G. Olshanski.

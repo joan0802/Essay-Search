@@ -1,0 +1,14 @@
+Oriented growth of pentacene films on vacuum-deposited
+  polytetrafluoroethylene layers aligned by rubbing technique
+  We investigated structure and morphology of PTFE layers deposited by vacuum
+process in dependence on deposition parameters: deposition rate, deposition
+temperature, electron activation energy and activation current. Pentacene (PnC)
+layers deposited on top of those PTFE films are used as a tool to demonstrate
+the orienting ability of the PTFE layers. The molecular structure of the PTFE
+films was investigated by use of infrared spectroscopy. By means of
+ellipsometry, values of refractive index between 1.33 and 1.36 have been
+obtained for PTFE films in dependence on deposition conditions. Using the cold
+friction technique orienting PTFE layers with unidirectional grooves are
+obtained. On top of these PTFE films oriented PnC layers were grown. The
+obtained order depends both on the PTFE layer thickness and on PnC growth
+temperature.

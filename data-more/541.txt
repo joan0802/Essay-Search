@@ -1,0 +1,16 @@
+Hilbert functions of points on Schubert varieties in Orthogonal
+  Grassmannians
+  A solution is given to the following problem: how to compute the
+multiplicity, or more generally the Hilbert function, at a point on a Schubert
+variety in an orthogonal Grassmannian. Standard monomial theory is applied to
+translate the problem from geometry to combinatorics. The solution of the
+resulting combinatorial problem forms the bulk of the paper. This approach has
+been followed earlier to solve the same problem for the Grassmannian and the
+symplectic Grassmannian.
+  As an application, we present an interpretation of the multiplicity as the
+number of non-intersecting lattice paths of a certain kind.
+  Taking the Schubert variety to be of a special kind and the point to be the
+"identity coset," our problem specializes to a problem about Pfaffian ideals
+treatments of which by different methods exist in the literature. Also
+available in the literature is a geometric solution when the point is a
+"generic singularity."

@@ -1,0 +1,10 @@
+Semi-spheroidal Quantum Harmonic Oscillator
+  A new single-particle shell model is derived by solving the Schr\"odinger
+equation for a semi-spheroidal potential well. Only the negative parity states
+of the $Z(z)$ component of the wave function are allowed, so that new magic
+numbers are obtained for oblate semi-spheroids, semi-sphere and prolate
+semi-spheroids. The semi-spherical magic numbers are identical with those
+obtained at the oblate spheroidal superdeformed shape: 2, 6, 14, 26, 44, 68,
+100, 140, ... The superdeformed prolate magic numbers of the semi-spheroidal
+shape are identical with those obtained at the spherical shape of the
+spheroidal harmonic oscillator: 2, 8, 20, 40, 70, 112, 168 ...

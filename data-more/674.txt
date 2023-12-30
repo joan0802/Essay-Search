@@ -1,0 +1,10 @@
+Proto-Neutron Star Winds, Magnetar Birth, and Gamma-Ray Bursts
+  We begin by reviewing the theory of thermal, neutrino-driven proto-neutron
+star (PNS) winds. Including the effects of magnetic fields and rotation, we
+then derive the mass and energy loss from magnetically-driven PNS winds for
+both relativistic and non-relativistic outflows, including important
+multi-dimensional considerations. With these simple analytic scalings we argue
+that proto-magnetars born with ~ millisecond rotation periods produce
+relativistic winds just a few seconds after core collapse with luminosities,
+timescales, mass-loading, and internal shock efficiencies favorable for
+producing long-duration gamma-ray bursts.

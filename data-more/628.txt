@@ -1,0 +1,6 @@
+Measurement of the Decay Constant $f_D{_S^+}$ using $D_S^+ --> ell^+ nu
+  We measure the decay constant fDs using the Ds -> l+ nu channel, where the l+
+designates either a mu+ or a tau+, when the tau+ -> pi+ nu. Using both
+measurements we find fDs = 274 +-13 +- 7 MeV. Combining with our previous
+determination of fD+, we compute the ratio fDs/fD+ = 1.23 +- 0.11 +- 0.04. We
+compare with theoretical estimates.

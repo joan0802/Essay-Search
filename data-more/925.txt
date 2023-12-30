@@ -1,0 +1,8 @@
+A Contraction Theory Approach to Stochastic Incremental Stability
+  We investigate the incremental stability properties of It\^o stochastic
+dynamical systems. Specifically, we derive a stochastic version of nonlinear
+contraction theory that provides a bound on the mean square distance between
+any two trajectories of a stochastically contracting system. This bound can be
+expressed as a function of the noise intensity and the contraction rate of the
+noise-free system. We illustrate these results in the contexts of stochastic
+nonlinear observers design and stochastic synchronization.

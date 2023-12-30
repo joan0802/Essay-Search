@@ -1,0 +1,17 @@
+AMR simulations of the low T/|W| bar-mode instability of neutron stars
+  It has been recently argued through numerical work that rotating stars with a
+high degree of differential rotation are dynamically unstable against bar-mode
+deformation, even for values of the ratio of rotational kinetic energy to
+gravitational potential energy as low as O(0.01). This may have implications
+for gravitational wave astronomy in high-frequency sources such as core
+collapse supernovae. In this paper we present high-resolution simulations,
+performed with an adaptive mesh refinement hydrodynamics code, of such low
+T/|W| bar-mode instability. The complex morphological features involved in the
+nonlinear dynamics of the instability are revealed in our simulations, which
+show that the excitation of Kelvin-Helmholtz-like fluid modes outside the
+corotation radius of the star leads to the saturation of the bar-mode
+deformation. While the overall trends reported in an earlier investigation are
+confirmed by our work, we also find that numerical resolution plays an
+important role during the long-term, nonlinear behaviour of the instability,
+which has implications on the dynamics of rotating stars and on the attainable
+amplitudes of the associated gravitational wave signals.

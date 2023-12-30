@@ -1,0 +1,19 @@
+Phase structure of a surface model on dynamically triangulated spheres
+  with elastic skeletons
+  We find three distinct phases; a tubular phase, a planar phase, and the
+spherical phase, in a triangulated fluid surface model. It is also found that
+these phases are separated by discontinuous transitions. The fluid surface
+model is investigated within the framework of the conventional curvature model
+by using the canonical Monte Carlo simulations with dynamical triangulations.
+The mechanical strength of the surface is given only by skeletons, and no
+two-dimensional bending energy is assumed in the Hamiltonian. The skeletons are
+composed of elastic linear-chains and rigid junctions and form a
+compartmentalized structure on the surface, and for this reason the vertices of
+triangles can diffuse freely only inside the compartments. As a consequence, an
+inhomogeneous structure is introduced in the model; the surface strength inside
+the compartments is different from the surface strength on the compartments.
+However, the rotational symmetry is not influenced by the elastic skeletons;
+there is no specific direction on the surface. In addition to the three phases
+mentioned above, a collapsed phase is expected to exist in the low bending
+rigidity regime that was not studied here. The inhomogeneous structure and the
+fluidity of vertices are considered to be the origin of such variety of phases.

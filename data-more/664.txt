@@ -1,0 +1,9 @@
+Global well-posedness and scattering for the energy-critical, defocusing
+  Hartree equation for radial data
+  We consider the defocusing, $\dot{H}^1$-critical Hartree equation for the
+radial data in all dimensions $(n\geq 5)$. We show the global well-posedness
+and scattering results in the energy space. The new ingredient in this paper is
+that we first take advantage of the term $\displaystyle - \int_{I}\int_{|x|\leq
+A|I|^{1/2}}|u|^{2}\Delta \Big(\frac{1}{|x|}\Big)dxdt$ in the localized Morawetz
+identity to rule out the possibility of energy concentration, instead of the
+classical Morawetz estimate dependent of the nonlinearity.

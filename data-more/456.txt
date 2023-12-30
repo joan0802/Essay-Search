@@ -1,0 +1,8 @@
+Quantum analysis of a linear DC SQUID mechanical displacement detector
+  We provide a quantum analysis of a DC SQUID mechanical displacement detector
+within the sub-critical Josephson current regime. A segment of the SQUID loop
+forms the mechanical resonator and motion of the latter is transduced
+inductively through changes in the flux threading the loop. Expressions are
+derived for the detector signal response and noise, which are used to evaluate
+the position and force detection sensitivity. We also investigate cooling of
+the mechanical resonator due to back reaction noise from the detector.

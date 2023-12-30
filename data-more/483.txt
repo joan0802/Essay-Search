@@ -1,0 +1,7 @@
+Search for Chaotic Behavior in a Flapping Flag
+  We measured the correlation of the times between successive flaps of a flag
+for a variety of wind speeds and found no evidence of low dimensional chaotic
+behavior in the return maps of these times. We instead observed what is best
+modeled as random times determined by an exponential distribution. This study
+was done as an undergraduate experiment and illustrates the differences between
+low dimensional chaotic and possibly higher dimensional chaotic systems.

@@ -1,0 +1,10 @@
+Voltage-Current curves for small Josephson junction arrays
+  We compute the current voltage characteristic of a chain of identical
+Josephson circuits characterized by a large ratio of Josephson to charging
+energy that are envisioned as the implementation of topologically protected
+qubits. We show that in the limit of small coupling to the environment it
+exhibits a non-monotonous behavior with a maximum voltage followed by a
+parametrically large region where $V\propto 1/I$. We argue that its
+experimental measurement provides a direct probe of the amplitude of the
+quantum transitions in constituting Josephson circuits and thus allows their
+full characterization.

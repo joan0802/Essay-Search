@@ -1,0 +1,5 @@
+Counting on rectangular areas
+  In the first section of this paper we prove a theorem for the number of
+columns of a rectangular area that are identical to the given one. In the next
+section we apply this theorem to derive several combinatorial identities by
+counting specified subsets of a finite set.

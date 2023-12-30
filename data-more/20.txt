@@ -1,0 +1,9 @@
+Molecular Synchronization Waves in Arrays of Allosterically Regulated
+  Enzymes
+  Spatiotemporal pattern formation in a product-activated enzymic reaction at
+high enzyme concentrations is investigated. Stochastic simulations show that
+catalytic turnover cycles of individual enzymes can become coherent and that
+complex wave patterns of molecular synchronization can develop. The analysis
+based on the mean-field approximation indicates that the observed patterns
+result from the presence of Hopf and wave bifurcations in the considered
+system.

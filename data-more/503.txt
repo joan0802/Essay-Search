@@ -1,0 +1,5 @@
+Compatibility of Exotic States with Neutron Star Observation
+  We consider the effect of hard core repulsion in the baryon-baryon
+interaction at short distance to the properties of a neutron star. We obtain
+that, even with hyperons in the interior of a neutron star, the neutron star
+mass can be as large as $\sim 2 M_\odot$.

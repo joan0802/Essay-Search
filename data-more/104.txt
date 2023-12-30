@@ -1,0 +1,11 @@
+Rigid subsets of symplectic manifolds
+  We show that there is an hierarchy of intersection rigidity properties of
+sets in a closed symplectic manifold: some sets cannot be displaced by
+symplectomorphisms from more sets than the others. We also find new examples of
+rigidity of intersections involving, in particular, specific fibers of moment
+maps of Hamiltonian torus actions, monotone Lagrangian submanifolds (following
+the works of P.Albers and P.Biran-O.Cornea), as well as certain, possibly
+singular, sets defined in terms of Poisson-commutative subalgebras of smooth
+functions. In addition, we get some geometric obstructions to semi-simplicity
+of the quantum homology of symplectic manifolds. The proofs are based on the
+Floer-theoretical machinery of partial symplectic quasi-states.

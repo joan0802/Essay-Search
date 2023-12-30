@@ -1,0 +1,8 @@
+GRO J1655-40: from ASCA and XMM-Newton Observations
+  We have analysed four ASCA observations (1994--1995, 1996--1997) and three
+XMM-Newton observations (2005) of this source, in all of which the source is in
+high/soft state. We modeled the continuum spectra with relativistic disk model
+kerrbb, estimated the spin of the central black hole, and constrained the
+spectral hardening factor f_col and the distance. If kerrbb model applies, for
+normally used value of f_col, the distance cannot be very small, and f_col
+changes with observations.

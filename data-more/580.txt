@@ -1,0 +1,6 @@
+Counting characters in linear group actions
+  Let $G$ be a finite group and $V$ be a finite $G$--module. We present upper
+bounds for the cardinalities of certain subsets of $\Irr(GV)$, such as the set
+of those $\chi\in\Irr(GV)$ such that, for a fixed $v\in V$, the restriction of
+$\chi$ to $<v>$ is not a multiple of the regular character of $<v>$. These
+results might be useful in attacking the non--coprime $k(GV)$--problem.

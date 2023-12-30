@@ -1,0 +1,9 @@
+On line arrangements with applications to 3-nets
+  We show a one-to-one correspondence between arrangements of d lines in the
+projective plane, and lines in P^{d-2}. We apply this correspondence to
+classify (3,q)-nets over the complex numbers for all q<=6. When q=6, we have
+twelve possible combinatorial cases, but we prove that only nine of them are
+realizable. This new case shows several new properties for 3-nets: different
+dimensions for moduli, strict realization over certain fields, etc. We also
+construct a three dimensional family of (3,8)-nets corresponding to the
+Quaternion group.

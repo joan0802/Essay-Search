@@ -1,0 +1,9 @@
+On the homology of two-dimensional elimination
+  We study birational maps with empty base locus defined by almost complete
+intersection ideals. Birationality is shown to be expressed by the equality of
+two Chern numbers. We provide a relatively effective method of their
+calculation in terms of certain Hilbert coefficients. In dimension two the
+structure of the irreducible ideals leads naturally to the calculation of
+Sylvester determinants via a computer-assisted method. For degree at most 5 we
+produce the full set of defining equations of the base ideal. The results
+answer affirmatively some questions raised by D. Cox.

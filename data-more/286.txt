@@ -1,0 +1,9 @@
+Search for Very High Energy Emission from Gamma-Ray Bursts using Milagro
+  Gamma-Ray Bursts (GRBs) have been detected at GeV energies by EGRET and
+models predict emission at > 100 GeV. Milagro is a wide field (2 sr) high duty
+cycle (> 90 %) ground based water Cherenkov detector that records extensive air
+showers in the energy range 100 GeV to 100 TeV. We have searched for very high
+energy emission from a sample of 106 gamma-ray bursts (GRB) detected since the
+beginning of 2000 by BATSE, BeppoSax, HETE-2, INTEGRAL, Swift or the IPN. No
+evidence for emission from any of the bursts has been found and we present
+upper limits from these bursts.

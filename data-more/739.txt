@@ -1,0 +1,13 @@
+Vertical dynamics of disk galaxies in MOND
+  We investigate the possibility of discriminating between Modified Newtonian
+Dynamics (MOND) and Newtonian gravity with dark matter, by studying the
+vertical dynamics of disk galaxies. We consider models with the same circular
+velocity in the equatorial plane (purely baryonic disks in MOND and the same
+disks in Newtonian gravity embedded in spherical dark matter haloes), and we
+construct their intrinsic and projected kinematical fields by solving the Jeans
+equations under the assumption of a two-integral distribution function. We
+found that the vertical velocity dispersion of deep-MOND disks can be much
+larger than in the equivalent spherical Newtonian models. However, in the more
+realistic case of high-surface density disks this effect is significantly
+reduced, casting doubts on the possibility of discriminating between MOND and
+Newtonian gravity with dark matter by using current observations.

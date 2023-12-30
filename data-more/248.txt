@@ -1,0 +1,13 @@
+Non-perturbative conserving approximations and Luttinger's sum rule
+  Weak-coupling conserving approximations can be constructed by truncations of
+the Luttinger-Ward functional and are well known as thermodynamically
+consistent approaches which respect macroscopic conservation laws as well as
+certain sum rules at zero temperature. These properties can also be shown for
+variational approximations that are generated within the framework of the
+self-energy-functional theory without a truncation of the diagram series.
+Luttinger's sum rule represents an exception. We analyze the conditions under
+which the sum rule holds within a non-perturbative conserving approximation.
+Numerical examples are given for a simple but non-trivial dynamical two-site
+approximation. The validity of the sum rule for finite Hubbard clusters and the
+consequences for cluster extensions of the dynamical mean-field theory are
+discussed.

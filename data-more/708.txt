@@ -1,0 +1,9 @@
+Braiding transformation, entanglement swapping and Berry phase in
+  entanglement space
+  We show that braiding transformation is a natural approach to describe
+quantum entanglement, by using the unitary braiding operators to realize
+entanglement swapping and generate the GHZ states as well as the linear cluster
+states. A Hamiltonian is constructed from the unitary
+$\check{R}_{i,i+1}(\theta,\phi)$-matrix, where $\phi=\omega t$ is
+time-dependent while $\theta$ is time-independent. This in turn allows us to
+investigate the Berry phase in the entanglement space.

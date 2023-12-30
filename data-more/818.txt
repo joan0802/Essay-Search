@@ -1,0 +1,18 @@
+Position-Velocity Diagrams for the Maser Emission coming from a
+  Keplerian Ring
+  We have studied the maser emission from a thin, planar, gaseous ring in
+Keplerian rotation around a central mass observed edge-on. The absorption
+coefficient within the ring is assumed to follow a power law dependence with
+the distance from the central mass as, k=k0r^{-q}. We have calculated
+position-velocity diagrams for the most intense maser features, for different
+values of the exponent q. We have found that, depending on the value of q,
+these diagrams can be qualitatively different. The most intense maser emission
+at a given velocity can either come mainly from regions close to the inner or
+outer edges of the amplifying ring or from the line perpendicular to the line
+of sight and passing through the central mass (as is commonly assumed).
+Particularly, when q>1 the position-velocity diagram is qualitatively similar
+to the one observed for the water maser emission in the nucleus of the galaxy
+NGC 4258. In the context of this simple model, we conclude that in this object
+the absorption coefficient depends on the radius of the amplifying ring as a
+decreasing function, in order to have significant emission coming from the
+inner edge of the ring.

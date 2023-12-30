@@ -1,0 +1,4 @@
+Approximate Selection Rule for Orbital Angular Momentum in Atomic
+  Radiative Transitions
+  We demonstrate that radiative transitions with \Delta l = - 1 are strongly
+dominating for all values of n and l, except small region where l << n.

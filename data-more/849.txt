@@ -1,0 +1,12 @@
+Density matrix elements and entanglement entropy for the spin-1/2 XXZ
+  chain at $\Delta$=1/2
+  We have analytically obtained all the density matrix elements up to six
+lattice sites for the spin-1/2 Heisenberg XXZ chain at $\Delta=1/2$. We use the
+multiple integral formula of the correlation function for the massless XXZ
+chain derived by Jimbo and Miwa. As for the spin-spin correlation functions, we
+have newly obtained the fourth- and fifth-neighbour transverse correlation
+functions. We have calculated all the eigenvalues of the density matrix and
+analyze the eigenvalue-distribution. Using these results the exact values of
+the entanglement entropy for the reduced density matrix up six lattice sites
+have been obtained. We observe that our exact results agree quite well with the
+asymptotic formula predicted by the conformal field theory.

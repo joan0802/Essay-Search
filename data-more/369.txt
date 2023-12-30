@@ -1,0 +1,15 @@
+Shaped angular dependence of the spin transfer torque and microwave
+  generation without magnetic field
+  The generation of oscillations in the microwave frequency range is one of the
+most important applications expected from spintronics devices exploiting the
+spin transfer phenomenon. We report transport and microwave power measurements
+on specially designed nanopillars for which a non-standard angular dependence
+of the spin transfer torque (wavy variation) is predicted by theoretical
+models. We observe a new kind of current-induced dynamics that is characterized
+by large angle precessions in the absence of any applied field, as this is also
+predicted by simulation with such a wavy angular dependence of the torque. This
+type of non-standard nanopillars can represent an interesting way for the
+implementation of spin transfer oscillators since they are able to generate
+microwave oscillations without applied magnetic field. We also emphasize the
+theoretical implications of our results on the angular dependence of the
+torque.

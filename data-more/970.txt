@@ -1,0 +1,14 @@
+D0-anti-D0 Mixing and CP Violation in D0 vs anti-D0 to K*(+-) K(-+)
+  Decays
+  The noteworthy BaBar and Belle evidence for $D^0$-$\bar{D}^0$ mixing
+motivates us to study its impact on $D^0\to K^{*\pm} K^\mp$ decays and their
+CP-conjugate processes. We show that both the $D^0$-$\bar{D}^0$ mixing
+parameters ($x$ and $y$) and the strong phase difference between $\bar{D}^0\to
+K^{*\pm}K^\mp$ and $D^0\to K^{*\pm}K^\mp$ transitions ($\delta$) can be
+determined or constrained from the time-dependent measurements of these decay
+modes. On the $\psi (3770)$ and $\psi (4140)$ resonances at a $\tau$-charm
+factory, it is even possible to determine or constrain $x$, $y$ and $\delta$
+from the time-independent measurements of coherent $(D^0\bar{D}^0) \to
+(K^{*\pm} K^\mp)(K^{*\pm} K^\mp)$ decays. If the CP-violating phase of
+$D^0$-$\bar{D}^0$ mixing is significant in a scenario beyond the standard
+model, it can also be extracted from the $K^{*\pm} K^\mp$ events.

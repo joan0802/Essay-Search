@@ -1,0 +1,11 @@
+Density oscillation in highly flattened quantum elliptic rings and
+  tunable strong dipole radiation
+  A narrow elliptic ring containing an electron threaded by a magnetic field B
+is studied. When the ring is highly flattened, the increase of B would lead to
+a big energy gap between the ground and excited states, and therefore lead to a
+strong emission of dipole photons. The photon frequency can be tuned in a wide
+range by changing B and/or the shape of the ellipse. The particle density is
+found to oscillate from a pattern of distribution to another pattern back and
+forth against $B$. This is a new kind of Aharonov-Bohm oscillation originating
+from symmetry breaking and is different from the usual oscillation of
+persistent current.

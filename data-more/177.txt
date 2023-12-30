@@ -1,0 +1,9 @@
+Equation of state for dense hydrogen and plasma phase transition
+  We calculate the equation of state of dense hydrogen within the chemical
+picture. Fluid variational theory is generalized for a multi-component system
+of molecules, atoms, electrons, and protons. Chemical equilibrium is supposed
+for the reactions dissociation and ionization. We identify the region of
+thermodynamic instability which is related to the plasma phase transition. The
+reflectivity is calculated along the Hugoniot curve and compared with
+experimental results. The equation-of-state data is used to calculate the
+pressure and temperature profiles for the interior of Jupiter.

@@ -1,0 +1,8 @@
+Hydrodynamic and Spectral Simulations of HMXB Winds
+  We describe preliminary results of a global model of the radiatively-driven
+photoionized wind and accretion flow of the high-mass X-ray binary Vela X-1.
+The full model combines FLASH hydrodynamic calculations, XSTAR photoionization
+calculations, HULLAC atomic data, and Monte Carlo radiation transport. We
+present maps of the density, temperature, velocity, and ionization parameter
+from a FLASH two-dimensional time-dependent simulation of Vela X-1, as well as
+maps of the emissivity distributions of the X-ray emission lines.

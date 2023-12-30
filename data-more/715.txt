@@ -1,0 +1,8 @@
+Limit distributions and scaling functions
+  We discuss the asymptotic behaviour of models of lattice polygons, mainly on
+the square lattice. In particular, we focus on limiting area laws in the
+uniform perimeter ensemble where, for fixed perimeter, each polygon of a given
+area occurs with the same probability. We relate limit distributions to the
+scaling behaviour of the associated perimeter and area generating functions,
+thereby providing a geometric interpretation of scaling functions. To a major
+extent, this article is a pedagogic review of known results.

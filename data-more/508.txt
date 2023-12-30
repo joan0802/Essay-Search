@@ -1,0 +1,10 @@
+Dissipative backward stochastic differential equations with locally
+  Lipschitz nonlinearity
+  In this paper we study a class of backward stochastic differential equations
+(BSDEs) of the form dY(t)= -AY(t)dt -f_0(t,Y(t))dt -f_1(t,Y(t),Z(t))dt +
+Z(t)dW(t) on the interval [0,T], with given final condition at time T, in an
+infinite dimensional Hilbert space H. The unbounded operator A is sectorial and
+dissipative and the nonlinearity f_0(t,y) is dissipative and defined for y only
+taking values in a subspace of H. A typical example is provided by the
+so-called polynomial nonlinearities. Applications are given to stochastic
+partial differential equations and spin systems.

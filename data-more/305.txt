@@ -1,0 +1,13 @@
+Neutron Inelastic Scattering Processes as Background for Double-Beta
+  Decay Experiments
+  We investigate several Pb$(n,n'\gamma$) and Ge$(n,n'\gamma$) reactions. We
+measure $\gamma$-ray production from Pb$(n,n'\gamma$) reactions that can be a
+significant background for double-beta decay experiments which use lead as a
+massive inner shield. Particularly worrisome for Ge-based double-beta decay
+experiments are the 2041-keV and 3062-keV $\gamma$ rays produced via
+Pb$(n,n'\gamma$). The former is very close to the ^{76}Ge double-beta decay
+endpoint energy and the latter has a double escape peak energy near the
+endpoint. Excitation $\gamma$-ray lines from Ge$(n,n'\gamma$) reactions are
+also observed. We consider the contribution of such backgrounds and their
+impact on the sensitivity of next-generation searches for neutrinoless
+double-beta decay using enriched germanium detectors.

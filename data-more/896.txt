@@ -1,0 +1,9 @@
+A unified approach to the theory of separately holomorphic mappings
+  We extend the theory of separately holomorphic mappings between complex
+analytic spaces. Our method is based on Poletsky theory of discs, Rosay Theorem
+on holomorphic discs and our recent joint-work with Pflug on cross theorems in
+dimension 1. It also relies on our new technique of conformal mappings and a
+generalization of Siciak's relative extremal function.
+  Our approach illustrates the unified character: ``From local informations to
+global extensions". Moreover, it avoids systematically the use of the classical
+method of doubly orthogonal bases of Bergman type.

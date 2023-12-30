@@ -1,0 +1,3 @@
+The affine part of the Picard scheme
+  We describe the maximal torus and maximal unipotent subgroup of the Picard
+variety of a proper scheme over a perfect field.

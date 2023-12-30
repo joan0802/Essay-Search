@@ -1,0 +1,15 @@
+Density dependence of the symmetry energy and the nuclear equation of
+  state: A Dynamical and Statistical model perspective
+  The density dependence of the symmetry energy in the equation of state of
+isospin asymmetric nuclear matter is of significant importance for studying the
+structure of systems as diverse as the neutron-rich nuclei and the neutron
+stars. A number of reactions using the dynamical and the statistical models of
+multifragmentation, and the experimental isoscaling observable, is studied to
+extract information on the density dependence of the symmetry energy. It is
+observed that the dynamical and the statistical model calculations give
+consistent results assuming the sequential decay effect in dynamical model to
+be small. A comparison with several other independent studies is also made to
+obtain important constraint on the form of the density dependence of the
+symmetry energy. The comparison rules out an extremely " stiff " and " soft "
+form of the density dependence of the symmetry energy with important
+implications for astrophysical and nuclear physics studies.

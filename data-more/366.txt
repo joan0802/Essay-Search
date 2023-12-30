@@ -1,0 +1,10 @@
+Instanton representation of Plebanski gravity. Consistency of the
+  initital value constraints under time evolution
+  The instanton representation of Plebanski gravity provides as equations of
+motion a Hodge self-duality condition and a set of `generalized' Maxwell's
+equations, subject to gravitational degrees of freedom encoded in the initial
+value constraints of general relativity. The main result of the present paper
+will be to prove that this constraint surface is preserved under time
+evolution. We carry this out not using the usual Dirac procedure, but rather
+the Lagrangian equations of motion themsleves. Finally, we provide a comparison
+with the Ashtekar formulation to place these results into overall context.

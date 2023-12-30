@@ -1,0 +1,8 @@
+Reply to Comment of Kenzelmann and Harris
+  In response to the comment of Kenzelmann and Harris I show how the continuum
+theory of spiral multiferroics can be modified to describe general magnetic
+orders and discuss why the microscopic mechanism of magnetically-induced
+ferroelectricity usually makes such modifications unnecessary. This explains
+why the simple model with a single vector order parameter successfully
+describes thermodynamics and magnetoelectric properties of many spiral
+multiferroics.

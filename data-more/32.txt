@@ -1,0 +1,13 @@
+Convergence of the discrete dipole approximation. I. Theoretical
+  analysis
+  We performed a rigorous theoretical convergence analysis of the discrete
+dipole approximation (DDA). We prove that errors in any measured quantity are
+bounded by a sum of a linear and quadratic term in the size of a dipole d, when
+the latter is in the range of DDA applicability. Moreover, the linear term is
+significantly smaller for cubically than for non-cubically shaped scatterers.
+Therefore, for small d errors for cubically shaped particles are much smaller
+than for non-cubically shaped. The relative importance of the linear term
+decreases with increasing size, hence convergence of DDA for large enough
+scatterers is quadratic in the common range of d. Extensive numerical
+simulations were carried out for a wide range of d. Finally we discuss a number
+of new developments in DDA and their consequences for convergence.

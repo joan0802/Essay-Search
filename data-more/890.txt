@@ -1,0 +1,6 @@
+Reactor Monitoring with Neutrinos
+  The fundamental knowledge on neutrinos acquired in the recent years open the
+possibility of applied neutrino physics. Among it the automatic and non
+intrusive monitoring of nuclear reactor by its antineutrino signal could be
+very valuable to IAEA in charge of the control of nuclear power plants. Several
+efforts worldwide have already started.

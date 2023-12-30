@@ -1,0 +1,13 @@
+The First Law for Boosted Kaluza-Klein Black Holes
+  We study the thermodynamics of Kaluza-Klein black holes with momentum along
+the compact dimension, but vanishing angular momentum. These black holes are
+stationary, but non-rotating. We derive the first law for these spacetimes and
+find that the parameter conjugate to variations in the length of the compact
+direction is an effective tension, which generally differs from the ADM
+tension. For the boosted black string, this effective tension is always
+positive, while the ADM tension is negative for large boost parameter. We also
+derive two Smarr formulas, one that follows from time translation invariance,
+and a second one that holds only in the case of exact translation symmetry in
+the compact dimension. Finally, we show that the `tension first law' derived by
+Traschen and Fox in the static case has the form of a thermodynamic Gibbs-Duhem
+relation and give its extension in the stationary, non-rotating case.

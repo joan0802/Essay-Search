@@ -1,0 +1,9 @@
+Potfit: effective potentials from ab-initio data
+  We present a program called potfit which generates an effective atomic
+interaction potential by matching it to a set of reference data computed in
+first-principles calculations. It thus allows to perform large-scale atomistic
+simulations of materials with physically justified potentials. We describe the
+fundamental principles behind the program, emphasizing its flexibility in
+adapting to different systems and potential models, while also discussing its
+limitations. The program has been used successfully in creating effective
+potentials for a number of complex intermetallic alloys, notably quasicrystals.

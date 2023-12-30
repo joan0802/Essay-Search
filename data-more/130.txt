@@ -1,0 +1,11 @@
+Vacuum Structure and Potential
+  Based on overall experimental observations, especially the pair processes, I
+developed a model structure of the vacuum along with a basic-particle formation
+scheme begun in 2000 (with collaborator P-I Johansson). The model consists in
+that the vacuum is, briefly, filled of neutral but polarizable vacuuons,
+consisting each of a p-vaculeon and n- vaculeon of charges $+e$ and $-e$ of
+zero rest masses but with spin motions, assumed interacting each other with a
+Coulomb force. The model has been introduced in full in a book (Nova Sci, 2005)
+and referred to in a number of journal/E-print papers. I outline in this easier
+accessible paper the detailed derivation of the model and a corresponding
+quantitative determination of the vacuuon size.

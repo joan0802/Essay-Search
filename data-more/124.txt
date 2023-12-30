@@ -1,0 +1,5 @@
+Anisotropic thermo-elasticity in 2D -- Part I: A unified approach
+  In this note we develop tools and techniques for the treatment of anisotropic
+thermo-elasticity in two space dimensions. We use a diagonalisation technique
+to obtain properties of the characteristic roots of the full symbol of the
+system in order to prove $L^p$--$L^q$ decay rates for its solutions.

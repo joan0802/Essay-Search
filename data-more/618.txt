@@ -1,0 +1,22 @@
+Search for Heavy Neutral MSSM Higgs Bosons with CMS: Reach and
+  Higgs-Mass Precision
+  The search for MSSM Higgs bosons will be an important goal at the LHC. We
+analyze the search reach of the CMS experiment for the heavy neutral MSSM Higgs
+bosons with an integrated luminosity of 30 or 60 fb^-1. This is done by
+combining the latest results for the CMS experimental sensitivities based on
+full simulation studies with state-of-the-art theoretical predictions of MSSM
+Higgs-boson properties. The results are interpreted in MSSM benchmark scenarios
+in terms of the parameters tan_beta and the Higgs-boson mass scale, M_A. We
+study the dependence of the 5 sigma discovery contours in the M_A-tan_beta
+plane on variations of the other supersymmetric parameters. The largest effects
+arise from a change in the higgsino mass parameter mu, which enters both via
+higher-order radiative corrections and via the kinematics of Higgs decays into
+supersymmetric particles. While the variation of $\mu$ can shift the
+prospective discovery reach (and correspondingly the ``LHC wedge'' region) by
+about Delta tan_beta = 10, we find that the discovery reach is rather stable
+with respect to the impact of other supersymmetric parameters. Within the
+discovery region we analyze the accuracy with which the masses of the heavy
+neutral Higgs bosons can be determined. We find that an accuracy of 1-4% should
+be achievable, which could make it possible in favourable regions of the MSSM
+parameter space to experimentally resolve the signals of the two heavy MSSM
+Higgs bosons at the LHC.

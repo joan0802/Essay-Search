@@ -1,0 +1,13 @@
+Aspects of Electron-Phonon Self-Energy Revealed from Angle-Resolved
+  Photoemission Spectroscopy
+  Lattice contribution to the electronic self-energy in complex correlated
+oxides is a fascinating subject that has lately stimulated lively discussions.
+Expectations of electron-phonon self-energy effects for simpler materials, such
+as Pd and Al, have resulted in several misconceptions in strongly correlated
+oxides. Here we analyze a number of arguments claiming that phonons cannot be
+the origin of certain self-energy effects seen in high-$T_c$ cuprate
+superconductors via angle resolved photoemission experiments (ARPES), including
+the temperature dependence, doping dependence of the renormalization effects,
+the inter-band scattering in the bilayer systems, and impurity substitution. We
+show that in light of experimental evidences and detailed simulations, these
+arguments are not well founded.

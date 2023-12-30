@@ -1,0 +1,5 @@
+Spectral action on noncommutative torus
+  The spectral action on noncommutative torus is obtained, using a
+Chamseddine--Connes formula via computations of zeta functions. The importance
+of a Diophantine condition is outlined. Several results on holomorphic
+continuation of series of holomorphic functions are obtained in this context.

@@ -1,0 +1,7 @@
+Flavor Physics in SUSY at large tan(beta)
+  We discuss the phenomenological impact of a particularly interesting corner
+of the MSSM: the large tan(beta) regime. The capabilities of leptonic and
+hadronic Flavor Violating processes in shedding light on physics beyond the
+Standard Model are reviewed. Moreover, we show that tests of Lepton
+Universality in charged current processes can represent an interesting handle
+to obtain relevant information on New Physics scenarios.

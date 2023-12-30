@@ -1,0 +1,11 @@
+Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays
+  The shape of the hadronic form factor f+(q2) in the decay D0 --> K- e+ nue
+has been measured in a model independent analysis and compared with theoretical
+calculations. We use 75 fb(-1) of data recorded by the BABAR detector at the
+PEPII electron-positron collider. The corresponding decay branching fraction,
+relative to the decay D0 --> K- pi+, has also been measured to be RD = BR(D0
+--> K- e+ nue)/BR(D0 --> K- pi+) = 0.927 +/- 0.007 +/- 0.012. From these
+results, and using the present world average value for BR(D0 --> K- pi+), the
+normalization of the form factor at q2=0 is determined to be f+(0)=0.727 +/-
+0.007 +/- 0.005 +/- 0.007 where the uncertainties are statistical, systematic,
+and from external inputs, respectively.

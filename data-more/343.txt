@@ -1,0 +1,6 @@
+The Blazar Spectral Sequence and GLAST
+  The present status and understanding of the "spectral sequence" of blazars is
+discussed in the perspective of the upcoming GLAST launch. The vast improvement
+in sensitivity will allow to i) determine more objectively the "average"
+gamma-ray properties of classes objects ii) probe more deeply the ratio between
+accretion power and jet power in different systems.

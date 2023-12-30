@@ -1,0 +1,6 @@
+Penalization approach for mixed hyperbolic systems with constant
+  coefficients satisfying a Uniform Lopatinski Condition
+  In this paper, we describe a new, systematic and explicit way of
+approximating solutions of mixed hyperbolic systems with constant coefficients
+satisfying a Uniform Lopatinski Condition via different Penalization
+approaches.

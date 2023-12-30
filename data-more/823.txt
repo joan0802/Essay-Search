@@ -1,0 +1,6 @@
+On the (3,N) Maurer-Cartan equation
+  Deformations of the 3-differential of 3-differential graded algebras are
+controlled by the (3,N) Maurer-Cartan equation. We find explicit formulae for
+the coefficients appearing in that equation, introduce new geometric examples
+of N-differential graded algebras, and use these results to study N Lie
+algebroids.

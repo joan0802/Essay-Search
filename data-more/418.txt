@@ -1,0 +1,8 @@
+Ultrasound attenuation of superfluid $^{3}$He in aerogel
+  We have performed longitudinal ultrasound (9.5 MHz) attenuation measurements
+in the B-phase of superfluid $^3$He in 98% porosity aerogel down to the zero
+temperature limit for a wide range of pressures at zero magnetic field. The
+absolute attenuation was determined by direct transmission of sound pulses.
+Compared to the bulk fluid, our results revealed a drastically different
+behavior in attenuation, which is consistent with theoretical accounts with
+gapless excitations and a collision drag effect.

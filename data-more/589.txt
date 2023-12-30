@@ -1,0 +1,8 @@
+A Low Complexity Algorithm and Architecture for Systematic Encoding of
+  Hermitian Codes
+  We present an algorithm for systematic encoding of Hermitian codes. For a
+Hermitian code defined over GF(q^2), the proposed algorithm achieves a run time
+complexity of O(q^2) and is suitable for VLSI implementation. The encoder
+architecture uses as main blocks q varying-rate Reed-Solomon encoders and
+achieves a space complexity of O(q^2) in terms of finite field multipliers and
+memory elements.

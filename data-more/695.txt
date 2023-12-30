@@ -1,0 +1,9 @@
+Phonon instability and structural phase transition in Vanadium under
+  high pressure
+  Results of the first-principles calculations are presented for the group-VB
+metals V, Nb and Ta up to couple of megabar pressure. An unique structural
+phase transition sequence BCC-->(at 60 GPa) rhombohedral (angle=110.5
+degree)-->(at ~ 160 GPa)rhombohedral(angle=108.5 degree)--> (at ~ 430 GPa) BCC
+is predicted in V. We also find that BCC-V becomes mechanically and
+vibrationally unstable at around 112 GPa pressure. Similar transitions are
+absent in Nb and Ta.

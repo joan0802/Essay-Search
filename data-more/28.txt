@@ -1,0 +1,11 @@
+Understanding the Flavor Symmetry Breaking and Nucleon Flavor-Spin
+  Structure within Chiral Quark Model
+  In $\XQM$, a quark can emit Goldstone bosons. The flavor symmetry breaking in
+the Goldstone boson emission process is used to intepret the nucleon
+flavor-spin structure. In this paper, we study the inner structure of
+constituent quarks implied in $\XQM$ caused by the Goldstone boson emission
+process in nucleon. From a simplified model Hamiltonian derived from $\XQM$,
+the intrinsic wave functions of constituent quarks are determined. Then the
+obtained transition probabilities of the emission of Goldstone boson from a
+quark can give a reasonable interpretation to the flavor symmetry breaking in
+nucleon flavor-spin structure.

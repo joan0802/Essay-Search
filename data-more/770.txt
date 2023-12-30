@@ -1,0 +1,12 @@
+Suppression of 1/f noise in one-qubit systems
+  We investigate the generation of quantum operations for one-qubit systems
+under classical noise with 1/f^\alpha power spectrum, where 2>\alpha > 0. We
+present an efficient way to approximate the noise with a discrete multi-state
+Markovian fluctuator. With this method, the average temporal evolution of the
+qubit density matrix under 1/f^\alpha noise can be feasibly determined from
+recently derived deterministic master equations. We obtain qubit operations
+such as quantum memory and the NOT}gate to high fidelity by a gradient based
+optimization algorithm. For the NOT gate, the computed fidelities are
+qualitatively similar to those obtained earlier for random telegraph noise. In
+the case of quantum memory however, we observe a nonmonotonic dependency of the
+fidelity on the operation time, yielding a natural access rate of the memory.

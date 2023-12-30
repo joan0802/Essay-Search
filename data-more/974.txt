@@ -1,0 +1,9 @@
+Recurrence analysis of the Portevin-Le Chatelier effect
+  Tensile tests were carried out by deforming polycrystalline samples of
+Al-2.5%Mg alloy at room temperature in a wide range of strain rates where the
+Portevin-Le Chatelier (PLC) effect was observed. The experimental stress-time
+series data have been analyzed using the recurrence analysis technique based on
+the Recurrence Plot (RP) and the Recurrence Quantification Analysis (RQA) to
+study the change in the dynamical behavior of the PLC effect with the imposed
+strain rate. Our study revealed that the RQA is able to detect the unique
+crossover phenomenon in the PLC dynamics.

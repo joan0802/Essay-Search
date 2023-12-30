@@ -1,0 +1,12 @@
+Composite Structure and Causality
+  We study the question of whether a composite structure of elementary
+particles, with a length scale $1/\Lambda$, can leave observable effects of
+non-locality and causality violation at higher energies (but $\lesssim
+\Lambda$). We formulate a model-independent approach based on
+Bogoliubov-Shirkov formulation of causality. We analyze the relation between
+the fundamental theory (of finer constituents) and the derived theory (of
+composite particles). We assume that the fundamental theory is causal and
+formulate a condition which must be fulfilled for the derived theory to be
+causal. We analyze the condition and exhibit possibilities which fulfil and
+which violate the condition. We make comments on how causality violating
+amplitudes can arise.

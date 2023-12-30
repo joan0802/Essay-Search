@@ -1,0 +1,11 @@
+Group-theoretical properties of nilpotent modular categories
+  We characterize a natural class of modular categories of prime power
+Frobenius-Perron dimension as representation categories of twisted doubles of
+finite p-groups. We also show that a nilpotent braided fusion category C admits
+an analogue of the Sylow decomposition. If the simple objects of C have
+integral Frobenius-Perron dimensions then C is group-theoretical. As a
+consequence, we obtain that semisimple quasi-Hopf algebras of prime power
+dimension are group-theoretical. Our arguments are based on a reconstruction of
+twisted group doubles from Lagrangian subcategories of modular categories (this
+is reminiscent to the characterization of doubles of quasi-Lie bialgebras in
+terms of Manin pairs).

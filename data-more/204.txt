@@ -1,0 +1,13 @@
+Discovery of X-ray emission from the young radio pulsar PSR J1357-6429
+  We present the first X-ray detection of the very young pulsar PSR J1357-6429
+(characteristic age of 7.3 kyr) using data from the XMM-Newton and Chandra
+satellites. We find that the spectrum is well described by a power-law plus
+blackbody model, with photon index Gamma=1.4 and blackbody temperature kT=160
+eV. For the estimated distance of 2.5 kpc, this corresponds to a 2-10 keV
+luminosity of about 1.2E+32 erg/s, thus the fraction of the spin-down energy
+channeled by PSR J1357-6429 into X-ray emission is one of the lowest observed.
+The Chandra data confirm the positional coincidence with the radio pulsar and
+allow to set an upper limit of 3E+31 erg/s on the 2-10 keV luminosity of a
+compact pulsar wind nebula. We do not detect any pulsed emission from the
+source and determine an upper limit of 30% for the modulation amplitude of the
+X-ray emission at the radio frequency of the pulsar.

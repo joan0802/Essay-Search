@@ -1,0 +1,17 @@
+Clustering features of $^9$Be, $^{14}$N, $^7$Be, and $^8$B nuclei in
+  relativistic fragmentation
+  Recent studies of clustering in light nuclei with an initial energy above 1 A
+GeV in nuclear treack emulsion are overviewed. The results of investigations of
+the relativistic $^9$Be nuclei fragmentation in emulsion, which entails the
+production of He fragments, are presented. It is shown that most precise
+angular measurements provided by this technique play a crucial role in the
+restoration of the excitation spectrum of the $\alpha$ particle sysytem. In
+peripheral interactions $^9$Be nuclei are dissociated practically totally
+through the 0$^+$ and 2$^+$ states of the $^8$Be nucleus.
+  The results of investigations of the dissociation of a $^{14}$N nucleus of
+momentum 2.86 A GeV/c in emulsion are presented as example of more complicated
+system. The momentum and correlation characteristics of $\alpha$ particles for
+the $^{14}$N$\to3\alpha+X$ channel in the laboratory system and the rest
+systems of 3$\alpha$ particles were considered in detail.
+  Topology of charged fragments produced in peripheral relativistic
+dissociation of radioactive $^8$B, $^7$Be nuclei in emulsion is studied.

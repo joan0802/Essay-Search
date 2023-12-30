@@ -1,0 +1,10 @@
+Correlation functions and excitation spectrum of the frustrated
+  ferromagnetic spin-1/2 chain in an external magnetic field
+  Magnetic field effects on the one-dimensional frustrated ferromagnetic chain
+are studied by means of effective field theory approaches in combination with
+numerical calculations utilizing Lanczos diagonalization and the density matrix
+renormalization group method. The nature of the ground state is shown to change
+from a spin-density-wave region to a nematic-like one upon approaching the
+saturation magnetization. The excitation spectrum is analyzed and the behavior
+of the single spin-flip excitation gap is studied in detail, including the
+emergent finite-size corrections.

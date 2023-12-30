@@ -1,0 +1,9 @@
+Vortex proliferation in the Berezinskii-Kosterlitz-Thouless regime on a
+  two-dimensional lattice of Bose-Einstein condensates
+  We observe the proliferation of vortices in the
+Berezinskii-Kosterlitz-Thouless regime on a two-dimensional array of
+Josephson-coupled Bose-Einstein condensates. As long as the Josephson
+(tunneling) energy J exceeds the thermal energy T, the array is vortex-free.
+With decreasing J/T, vortices appear in the system in ever greater numbers. We
+confirm thermal activation as the vortex formation mechanism and obtain
+information on the size of bound vortex pairs as J/T is varied.

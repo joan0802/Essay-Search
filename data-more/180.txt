@@ -1,0 +1,8 @@
+Genetic Optimization of Photonic Bandgap Structures
+  We investigate the use of a Genetic Algorithm (GA) to design a set of
+photonic crystals (PCs) in one and two dimensions. Our flexible design
+methodology allows us to optimize PC structures which are optimized for
+specific objectives. In this paper, we report the results of several such
+GA-based PC optimizations. We show that the GA performs well even in very
+complex design spaces, and therefore has great potential for use as a robust
+design tool in present and future applications.

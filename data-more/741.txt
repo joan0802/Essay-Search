@@ -1,0 +1,9 @@
+Magnetoconductance oscillations in metallic rings and decoherence due to
+  electron-electron interaction
+  We study weak localization in chains of metallic rings. We show than
+nonlocality of quantum transport can drastically affect the behaviour of the
+harmonics of magnetoconductance oscillations. Two different geometries are
+considered: the case of rings separated by long wires compared to the phase
+coherence length and the case of contacted rings. In a second part we discuss
+the role of decoherence due to electron-electron interaction in these two
+geometries.

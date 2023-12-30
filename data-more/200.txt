@@ -1,0 +1,8 @@
+Hecke-Clifford algebras and spin Hecke algebras I: the classical affine
+  type
+  Associated to the classical Weyl groups, we introduce the notion of
+degenerate spin affine Hecke algebras and affine Hecke-Clifford algebras. For
+these algebras, we establish the PBW properties, formulate the intertwiners,
+and describe the centers. We further develop connections of these algebras with
+the usual degenerate (i.e. graded) affine Hecke algebras of Lusztig by
+introducing a notion of degenerate covering affine Hecke algebras.

@@ -1,0 +1,11 @@
+Geometry Effects at Atomic-Size Aluminium Contacts
+  We present electronic structure calculations for aluminium nanocontacts.
+Addressing the neck of the contact, we compare characteristic geometries to
+investigate the effects of the local aluminium coordination on the electronic
+states. We find that the Al 3pz states are very sensitive against modifications
+of the orbital overlap, which has serious consequences for the transport
+properties. Stretching of the contact shifts states towards the Fermi energy,
+leaving the system instable against ferromagnetic ordering. By spacial
+restriction, hybridization is locally suppressed at nanocontacts and the charge
+neutrality is violated. We discuss the influence of mechanical stress by means
+of quantitative results for the charge transfer.

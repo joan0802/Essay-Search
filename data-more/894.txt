@@ -1,0 +1,5 @@
+Gorenstein locus of minuscule Schubert varieties
+  In this article, we describe explicitely the Gorenstein locus of all
+minuscule Schubert varieties. This proves a special case of a conjecture of A.
+Woo and A. Yong (see math.AG/0603273) on the Gorenstein locus of Schubert
+varieties.

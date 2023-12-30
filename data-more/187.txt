@@ -1,0 +1,9 @@
+Biased random walks on combs
+  We develop rigorous, analytic techniques to study the behaviour of biased
+random walks on combs. This enables us to calculate exactly the spectral
+dimension of random comb ensembles for any bias scenario in the teeth or spine.
+Two specific examples of random comb ensembles are discussed; the random comb
+with nonzero probability of an infinitely long tooth at each vertex on the
+spine and the random comb with a power law distribution of tooth lengths. We
+also analyze transport properties along the spine for these probability
+measures.

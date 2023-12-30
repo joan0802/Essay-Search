@@ -1,0 +1,13 @@
+Brane World Black Rings
+  Five dimensional neutral rotating black rings are described from a
+Randall-Sundrum brane world perspective in the bulk black string framework. To
+this end we consider a rotating black string extension of a five dimensional
+black ring into the bulk of a six dimensional Randall-Sundrum brane world with
+a single four brane. The bulk solution intercepts the four brane in a five
+dimensional black ring with the usual curvature singularity on the brane. The
+bulk geodesics restricted to the plane of rotation of the black ring are
+constructed and their projections on the four brane match with the usual black
+ring geodesics restricted to the same plane. The asymptotic nature of the bulk
+geodesics are elucidated with reference to a bulk singularity at the AdS
+horizon. We further discuss the description of a brane world black ring as a
+limit of a boosted bulk black 2 brane with periodic identification.

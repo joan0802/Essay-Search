@@ -1,0 +1,8 @@
+Shocks in nonlocal media
+  We investigate the formation of collisionless shocks along the spatial
+profile of a gaussian laser beam propagating in nonlocal nonlinear media. For
+defocusing nonlinearity the shock survives the smoothing effect of the nonlocal
+response, though its dynamics is qualitatively affected by the latter, whereas
+for focusing nonlinearity it dominates over filamentation. The patterns
+observed in a thermal defocusing medium are interpreted in the framework of our
+theory.

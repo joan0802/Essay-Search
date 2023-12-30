@@ -1,0 +1,11 @@
+Experimental efforts in search of 76Ge Neutrinoless Double Beta Decay
+  Neutrinoless double beta decay is one of the most sensitive approaches in
+non-accelerator particle physics to take us into a regime of physics beyond the
+standard model. This article is a brief review of the experiments in search of
+neutrinoless double beta decay from 76Ge. Following a brief introduction of the
+process of double beta decay from 76Ge, the results of the very first
+experiments IGEX and Heidelberg-Moscow which give indications of the existence
+of possible neutrinoless double beta decay mode has been reviewed. Then ongoing
+efforts to substantiate the early findings are presented and the Majorana
+experiment as a future experimental approach which will allow a very detailed
+study of the neutrinoless decay mode is discussed.

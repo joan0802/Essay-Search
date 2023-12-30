@@ -1,0 +1,4 @@
+Infrared Evolution Equations: Method and Applications
+  It is a brief review on composing and solving Infrared Evolution Equations.
+They can be used in order to calculate amplitudes of high-energy reactions in
+different kinematic regions in the double-logarithmic approximation.

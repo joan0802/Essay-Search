@@ -1,0 +1,9 @@
+Topological Free Entropy Dimension of in Unital C^*-algebras
+  The notion of topological free entropy dimension of $n-$tuples of elements in
+a unital C$^*$ algebra was introduced by Voiculescu. In the paper, we compute
+topological free entropy dimension of one self-adjoint element and topological
+orbit dimension of one self-adjoint element in a unital C$^*$ algebra.
+Moreover, we calculate the values of topological free entropy dimensions of
+families of generators of some unital C$^*$ algebras (for example: irrational
+rotation C$^*$ algebras or minimal tensor product of two reduced C$^*$ algebras
+of free groups).

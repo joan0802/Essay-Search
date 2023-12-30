@@ -1,0 +1,10 @@
+Bianchi Type I Massive String Magnetized Barotropic Perfect Fluid
+  Cosmological Model in General Relativity
+  Bianchi type I massive string cosmological model with magnetic field of
+barotropic perfect fluid distribution through the techniques used by Latelier
+and Stachel, is investigated. To get the deterministic model of the universe,
+it is assumed that the universe is filled with barotropic perfect fluid
+distribution. The magnetic field is due to electric current produced along
+x-axis with infinite electrical conductivity. The behaviour of the model in
+presence and absence of magnetic field together with other physical aspects is
+further discussed.

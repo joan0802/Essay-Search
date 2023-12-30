@@ -1,0 +1,11 @@
+White dwarf masses derived from planetary nebulae modelling
+  We compare the mass distribution of central stars of planetary nebulae (CSPN)
+with those of their progeny, white dwarfs (WD). We use a dynamical method to
+measure masses with an uncertainty of 0.02 M$_\odot$. The CSPN mass
+distribution is sharply peaked at $0.61 \rm M_\odot$. The WD distribution peaks
+at lower masses ($0.58 \rm M_\odot$) and shows a much broader range of masses.
+Some of the difference can be explained if the early post-AGB evolution is
+faster than predicted by the Bl\"ocker tracks. Between 30 and 50 per cent of WD
+may avoid the PN phase because of too low mass. However, the discrepancy cannot
+be fully resolved and WD mass distributions may have been broadened by
+observational or model uncertainties.

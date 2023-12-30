@@ -1,0 +1,7 @@
+Solvability of linear equations within weak mixing sets
+  We introduce a new class of "random" subsets of natural numbers, WM sets.
+This class contains normal sets (sets whose characteristic function is a normal
+binary sequence). We establish necessary and sufficient conditions for
+solvability of systems of linear equations within every WM set and within every
+normal set. We also show that partition-regular system of linear equations with
+integer coefficients is solvable in any WM set.

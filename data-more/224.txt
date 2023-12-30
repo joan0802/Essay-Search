@@ -1,0 +1,9 @@
+Exploring First Stars Era with GLAST
+  Cosmic infrared background (CIB) includes emissions from objects inaccessible
+to current telescopic studies, such as the putative Population III, the first
+stars. Recently, strong direct evidence for significant CIB levels produced by
+the first stars came from CIB fluctuations discovered in deep Spitzer images.
+Such CIB levels should have left a unique absorption feature in the spectra of
+high-z GRBs and blazars as suggested in [4]. This is observable with GLAST
+sources at z>2 and measuring this absorption will give important information on
+energetics and constituents of the first stars era.

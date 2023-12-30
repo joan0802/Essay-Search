@@ -1,0 +1,4 @@
+When the Cramer-Rao Inequality provides no information
+  We investigate a one-parameter family of probability densities (related to
+the Pareto distribution, which describes many natural phenomena) where the
+Cramer-Rao inequality provides no information.

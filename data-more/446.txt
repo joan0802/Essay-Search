@@ -1,0 +1,6 @@
+Manipulating the rotational properties of a two-component Bose gas
+  A rotating, two-component Bose-Einstein condensate is shown to exhibit
+vortices of multiple quantization, which are possible due to the interatomic
+interactions between the two species. Also, persistent currents are absent in
+this system. Finally, the order parameter has a very simple structure for a
+range of angular momenta.

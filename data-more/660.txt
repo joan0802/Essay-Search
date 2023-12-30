@@ -1,0 +1,10 @@
+Ample subvarieties and rationally connected fibrations
+  Under some positivity assumptions, extension properties of rationally
+connected fibrations from a submanifold to its ambient variety are studied.
+Given a family of rational curves on a complex projective manifold X inducing a
+covering family on a submanifold Y with ample normal bundle in X, the main
+results relate, under suitable conditions, the associated rational connected
+fiber structures on X and on Y. Applications of these results include an
+extension theorem for Mori contractions of fiber type and a classification
+theorem in the case Y has a structure of projective bundle or quadric
+fibration.

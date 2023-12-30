@@ -1,0 +1,14 @@
+The Determination of the Helicity of $W'$ Boson Couplings at the LHC
+  Apart from its mass and width, the most important property of a new charged
+gauge boson, $W'$, is the helicity of its couplings to the SM fermions. Such
+particles are expected to exist in many extensions of the Standard Model. In
+this paper we explore the capability of the LHC to determine the $W'$ coupling
+helicity at low integrated luminosities in the $\ell +E_T^{miss}$ discovery
+channel. We find that measurements of the transverse mass distribution,
+reconstructed from this final state in the $W-W'$ interference region, provides
+the best determination of this quantity. To make such measurements requires
+integrated luminosities of $\sim 10(60) fb^{-1}$ assuming $M_{W'}=1.5(2.5)$ TeV
+and provided that the $W'$ couplings have Standard Model magnitude. This
+helicity determination can be further strengthened by the use of various
+discovery channel leptonic asymmetries, also measured in the same interference
+regime, but with higher integrated luminosities.

@@ -1,0 +1,8 @@
+Hawking radiation of linear dilaton black holes
+  We compute exactly the semi-classical radiation spectrum for a class of
+non-asymptotically flat charged dilaton black holes, the so-called linear
+dilaton black holes. In the high frequency regime, the temperature for these
+black holes generically agrees with the surface gravity result. In the special
+case where the black hole is massless, we show that, although the surface
+gravity remains finite, there is no radiation, in agreement with the fact that
+massless objects cannot radiate.

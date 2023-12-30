@@ -1,0 +1,6 @@
+Contrasting Two Transformation-Based Methods for Obtaining Absolute
+  Extrema
+  In this note we contrast two transformation-based methods to deduce absolute
+extrema and the corresponding extremizers. Unlike variation-based methods, the
+transformation-based ones of Carlson and Leitmann and the recent one of Silva
+and Torres are direct in that they permit obtaining solutions by inspection.

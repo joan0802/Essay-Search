@@ -1,0 +1,11 @@
+Integral representations for convolutions of non-central multivariate
+  gamma distributions
+  Three types of integral representations for the cumulative distribution
+functions of convolutions of non-central p-variate gamma distributions are
+given by integration of elementary complex functions over the p-cube Cp =
+(-pi,pi]x...x(-pi,pi]. In particular, the joint distribution of the diagonal
+elements of a generalized quadratic form XAX' with n independent normally
+distributed column vectors in X is obtained. For a single p-variate gamma
+distribution function (p-1)-variate integrals over Cp-1 are derived. The
+integrals are numerically more favourable than integrals obtained from the
+Fourier or laplace inversion formula.

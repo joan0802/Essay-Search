@@ -1,0 +1,11 @@
+The Necessary and Sufficient Conditions of Separability for Bipartite
+  Pure States in Infinite Dimensional Hilbert Spaces
+  In this paper, we present the necessary and sufficient conditions of
+separability for bipartite pure states in infinite dimensional Hilbert spaces.
+Let $M$ be the matrix of the amplitudes of $\ket\psi$, we prove $M$ is a
+compact operator. We also prove $\ket\psi$ is separable if and only if $M$ is a
+bounded linear operator with rank 1, that is the image of $M$ is a one
+dimensional Hilbert space. So we have related the separability for bipartite
+pure states in infinite dimensional Hilbert spaces to an important class of
+bounded linear operators in Functional analysis which has many interesting
+properties.

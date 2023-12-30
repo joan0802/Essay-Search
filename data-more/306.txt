@@ -1,0 +1,22 @@
+Periodic accretion from a circumbinary disk in the young binary UZ Tau E
+  Close pre-main-sequence binary stars are expected to clear central holes in
+their protoplanetary disks, but the extent to which material can flow from the
+circumbinary disk across the gap onto the individual circumstellar disks has
+been unclear. In binaries with eccentric orbits, periodic perturbation of the
+outer disk is predicted to induce mass flow across the gap, resulting in
+accretion that varies with the binary period. This accretion may manifest
+itself observationally as periodic changes in luminosity. Here we present a
+search for such periodic accretion in the pre-main-sequence spectroscopic
+binary UZ Tau E. We present BVRI photometry spanning three years; we find that
+the brightness of UZ Tau E is clearly periodic, with a best-fit period of 19.16
++/- 0.04 days. This is consistent with the spectroscopic binary period of 19.13
+days, refined here from analysis of new and existing radial velocity data. The
+brightness of UZ Tau E shows significant random variability, but the overall
+periodic pattern is a broad peak in enhanced brightness, spanning more than
+half the binary orbital period. The variability of the H-alpha line is not as
+clearly periodic, but given the sparseness of the data, some periodic component
+is not ruled out. The photometric variations are in good agreement with
+predictions from simulations of binaries with orbital parameters similar to
+those of UZ Tau E, suggesting that periodic accretion does occur from
+circumbinary disks, replenishing the inner disks and possibly extending the
+timescale over which they might form planets.

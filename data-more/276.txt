@@ -1,0 +1,7 @@
+Leray numbers of projections and a topological Helly type theorem
+  Let X be a simplicial complex on the vertex set V. The rational Leray number
+L(X) of X is the minimal d such that the rational reduced homology of any
+induced subcomplex of X vanishes in dimensions d and above. Let \pi be a
+simplicial map from X to a simplex Y, such that the cardinality of the preimage
+of any point in |Y| is at most r. It is shown that L(\pi(X)) \leq r L(X)+r-1.
+One consequence is a topological extension of a Helly type result of Amenta.

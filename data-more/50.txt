@@ -1,0 +1,8 @@
+Visualizing Teleportation
+  A novel way of picturing the processing of quantum information is described,
+allowing a direct visualization of teleportation of quantum states and
+providing a simple and intuitive understanding of this fascinating phenomenon.
+The discussion is aimed at providing physicists a method of explaining
+teleportation to non-scientists. The basic ideas of quantum physics are first
+explained in lay terms, after which these ideas are used with a graphical
+description, out of which teleportation arises naturally.

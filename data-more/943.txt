@@ -1,0 +1,9 @@
+GLAST and Dark Matter Substructure in the Milky Way
+  We discuss the possibility of GLAST detecting gamma-rays from the
+annihilation of neutralino dark matter in the Galactic halo. We have used "Via
+Lactea", currently the highest resolution simulation of Galactic cold dark
+matter substructure, to quantify the contribution of subhalos to the
+annihilation signal. We present a simulated allsky map of the expected
+gamma-ray counts from dark matter annihilation, assuming standard values of
+particle mass and cross section. In this case GLAST should be able to detect
+the Galactic center and several individual subhalos.

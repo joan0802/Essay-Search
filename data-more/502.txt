@@ -1,0 +1,4 @@
+Manifolds admitting a $\tilde G_2$-structure
+  We find a necessary and sufficient condition for a compact 7-manifold to
+admit a $\tilde G_2$-structure. As a result we find a sufficient condition for
+an open 7-manifold to admit a closed 3-form of $\tilde G_2$-type.

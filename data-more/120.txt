@@ -1,0 +1,10 @@
+Meta-Stable Brane Configuration of Product Gauge Groups
+  Starting from the N=1 SU(N_c) x SU(N_c') gauge theory with fundamental and
+bifundamental flavors, we apply the Seiberg dual to the first gauge group and
+obtain the N=1 dual gauge theory with dual matters including the gauge
+singlets. By analyzing the F-term equations of the superpotential, we describe
+the intersecting type IIA brane configuration for the meta-stable
+nonsupersymmetric vacua of this gauge theory. By introducing an orientifold
+6-plane, we generalize to the case for N=1 SU(N_c) x SO(N_c') gauge theory with
+fundamental and bifundamental flavors. Finally, the N=1 SU(N_c) x Sp(N_c')
+gauge theory with matters is also described very briefly.

@@ -1,0 +1,8 @@
+Effects of Imperfect Gate Operations in Shor's Prime Factorization
+  Algorithm
+  The effects of imperfect gate operations in implementation of Shor's prime
+factorization algorithm are investigated. The gate imperfections may be
+classified into three categories: the systematic error, the random error, and
+the one with combined errors. It is found that Shor's algorithm is robust
+against the systematic errors but is vulnerable to the random errors. Error
+threshold is given to the algorithm for a given number $N$ to be factorized.

@@ -1,0 +1,7 @@
+Chemical Evolution
+  In this series of lectures we first describe the basic ingredients of
+galactic chemical evolution and discuss both analytical and numerical models.
+Then we compare model results for the Milky Way, Dwarf Irregulars, Quasars and
+the Intra-Cluster- Medium with abundances derived from emission lines. These
+comparisons allow us to put strong constraints on the stellar nucleosynthesis
+and the mechanisms of galaxy formation.

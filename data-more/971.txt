@@ -1,0 +1,8 @@
+The dissolution of the vacancy gas and grain boundary diffusion in
+  crystalline solids
+  Based on the formula for the number density of vacancies in a solid under the
+stress or tension, the model of grain boundary diffusion in crystalline solids
+is developed. We obtain the activation energy of grain boundary diffusion
+(dependent on the surface tension or the energy of the grain boundary) and also
+the distributions of vacancies and the diffusing species in the vicinity of the
+grain boundary.

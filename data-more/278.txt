@@ -1,0 +1,12 @@
+HI velocity dispersion in NGC 1058
+  We present excellent resolution and high sensitivity Very Large Array (VLA)
+observations of the 21cm HI line emission from the face-on galaxy NGC 1058,
+providing the first reliable study of the HI profile shapes throughout the
+entire disk of an external galaxy. Our observations show an intriguing picture
+of the interstellar medium; throughout this galaxy velocity-- dispersions range
+between 4 to 15 km/sec but are not correlated with star formation, stars or the
+gaseous spiral arms. The velocity dispersions decrease with radius, but this
+global trend has a large scatter as there are several isolated, resolved
+regions of high dispersion. The decline of star light with radius is much
+steeper than that of the velocity dispersions or that of the energy in the gas
+motions.

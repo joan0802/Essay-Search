@@ -1,0 +1,12 @@
+Exact Solutions of Einstein-Yang-Mills Theory with Higher-Derivative
+  Coupling
+  We construct a classical solution of an Einstein-Yang-Mills system with a
+fourth order term with respect to the field strength of the Yang-Mills field.
+The solution provides a spontaneous compactification proposed by Cremmer and
+Scherk; ten-dimensional space-time with a cosmological constant is compactified
+to the four-dimensional Minkowski space with a six-dimensional sphere S^6 on
+which an instanton solution exists. The radius of the sphere is not a modulus
+but is determined by the gauge coupling and the four-derivative coupling
+constants and the Newton's constant. We also construct a solution of
+ten-dimensional theory without a cosmological constant compactified to AdS_4 x
+S^6.

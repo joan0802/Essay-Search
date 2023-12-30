@@ -1,0 +1,10 @@
+Differential Recursion and Differentially Algebraic Functions
+  Moore introduced a class of real-valued "recursive" functions by analogy with
+Kleene's formulation of the standard recursive functions. While his concise
+definition inspired a new line of research on analog computation, it contains
+some technical inaccuracies. Focusing on his "primitive recursive" functions,
+we pin down what is problematic and discuss possible attempts to remove the
+ambiguity regarding the behavior of the differential recursion operator on
+partial functions. It turns out that in any case the purported relation to
+differentially algebraic functions, and hence to Shannon's model of analog
+computation, fails.

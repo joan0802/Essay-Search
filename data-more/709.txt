@@ -1,0 +1,6 @@
+Photoproduction of pi0 omega off protons for E(gamma) < 3 GeV
+  Differential and total cross-sections for photoproduction of gamma proton to
+proton pi0 omega and gamma proton to Delta+ omega were determined from
+measurements of the CB-ELSA experiment, performed at the electron accelerator
+ELSA in Bonn. The measurements covered the photon energy range from the
+production threshold up to 3GeV.

@@ -1,0 +1,9 @@
+Many-body interband tunneling as a witness for complex dynamics in the
+  Bose-Hubbard model
+  A perturbative model is studied for the tunneling of many-particle states
+from the ground band to the first excited energy band, mimicking Landau-Zener
+decay for ultracold, spinless atoms in quasi-one dimensional optical lattices
+subjected to a tunable tilting force. The distributions of the computed
+tunneling rates provide an independent and experimentally accessible signature
+of the regular-chaotic transition in the strongly correlated many-body dynamics
+of the ground band.

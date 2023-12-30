@@ -1,0 +1,9 @@
+Electromagnetic structure and weak decay of meson K in a light-front
+  QCD-inspired
+  The kaon electromagnetic (e.m.) form factor is reviewed considering a
+light-front constituent quark model. In this approach, it is discussed the
+relevance of the quark-antiquark pair terms for the full covariance of the e.m.
+current. It is also verified, by considering a QCD dynamical model, that a good
+agreement with experimental data can be obtained for the kaon weak decay
+constant once a probability of about 80% of the valence component is taken into
+account.

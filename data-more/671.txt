@@ -1,0 +1,15 @@
+Hamiltonian formalism in Friedmann cosmology and its quantization
+  We propose a Hamiltonian formalism for a generalized
+Friedmann-Roberson-Walker cosmology model in the presence of both a variable
+equation of state (EOS) parameter $w(a)$ and a variable cosmological constant
+$\Lambda(a)$, where $a$ is the scale factor. This Hamiltonian system containing
+1 degree of freedom and without constraint, gives Friedmann equations as the
+equation of motion, which describes a mechanical system with a variable mass
+object moving in a potential field. After an appropriate transformation of the
+scale factor, this system can be further simplified to an object with constant
+mass moving in an effective potential field. In this framework, the $\Lambda$
+cold dark matter model as the current standard model of cosmology corresponds
+to a harmonic oscillator. We further generalize this formalism to take into
+account the bulk viscosity and other cases. The Hamiltonian can be quantized
+straightforwardly, but this is different from the approach of the
+Wheeler-DeWitt equation in quantum cosmology.

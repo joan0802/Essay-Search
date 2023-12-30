@@ -1,0 +1,7 @@
+On Punctured Pragmatic Space-Time Codes in Block Fading Channel
+  This paper considers the use of punctured convolutional codes to obtain
+pragmatic space-time trellis codes over block-fading channel. We show that good
+performance can be achieved even when puncturation is adopted and that we can
+still employ the same Viterbi decoder of the convolutional mother code by using
+approximated metrics without increasing the complexity of the decoding
+operations.

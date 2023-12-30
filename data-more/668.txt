@@ -1,0 +1,5 @@
+Reduced and Extended Weak Coupling Limit
+  We give an extended review of recent work on the extended weak coupling
+limit. Background material on completely positive semigroups and their unitary
+dilations is given, as well as a particularly easy construction of `quadratic
+noises'.

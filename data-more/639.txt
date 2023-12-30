@@ -1,0 +1,5 @@
+Skew-Hadamard matrices of orders 188 and 388 exist
+  We construct several difference families on cyclic groups of orders 47 and
+97, and use them to construct skew-Hadamard matrices of orders 188 and 388.
+Such difference families and matrices are constructed here for the first time.
+The matrices are constructed by using the Goethals-Seidel array.

@@ -1,0 +1,7 @@
+Efficiency of thin film photocells
+  We propose a new concept for the design of high-efficiency photocells based
+on ultra-thin (submicron) semiconductor films of controlled thickness. Using a
+microscopic model of a thin dielectric layer interacting with incident
+electromagnetic radiation we evaluate the efficiency of conversion of solar
+radiation into the electric power. We determine the optimal range of parameters
+which maximize the efficiency of such photovoltaic element.

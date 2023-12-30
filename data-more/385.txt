@@ -1,0 +1,13 @@
+Quantum non-local effects with Bose-Einstein condensates
+  We study theoretically the properties of two Bose-Einstein condensates in
+different spin states, represented by a double Fock state. Individual
+measurements of the spins of the particles are performed in transverse
+directions, giving access to the relative phase of the condensates. Initially,
+this phase is completely undefined, and the first measurements provide random
+results. But a fixed value of this phase rapidly emerges under the effect of
+the successive quantum measurements, giving rise to a quasi-classical situation
+where all spins have parallel transverse orientations. If the number of
+measurements reaches its maximum (the number of particles), quantum effects
+show up again, giving rise to violations of Bell type inequalities. The
+violation of BCHSH inequalities with an arbitrarily large number of spins may
+be comparable (or even equal) to that obtained with two spins.

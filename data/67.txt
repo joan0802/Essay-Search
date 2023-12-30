@@ -1,0 +1,6 @@
+A Note About the {Ki(z)} Functions
+  In the article [Petojevic 2006], A. Petojevi\' c verified useful properties
+of the $K_{i}(z)$ functions which generalize Kurepa's [Kurepa 1971] left
+factorial function. In this note, we present simplified proofs of two of these
+results and we answer the open question stated in [Petojevic 2006]. Finally, we
+discuss the differential transcendency of the $K_{i}(z)$ functions.

@@ -1,0 +1,6 @@
+Quantum Deformations of Relativistic Symmetries
+  We discussed quantum deformations of D=4 Lorentz and Poincare algebras. In
+the case of Poincare algebra it is shown that almost all classical r-matrices
+of S. Zakrzewski classification correspond to twisted deformations of Abelian
+and Jordanian types. A part of twists corresponding to the r-matrices of
+Zakrzewski classification are given in explicit form.

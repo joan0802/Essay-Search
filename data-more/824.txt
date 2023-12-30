@@ -1,0 +1,13 @@
+Electronic structure of kinetic energy driven superconductors in the
+  presence of bilayer splitting
+  Within the framework of the kinetic energy driven superconductivity, the
+electronic structure of bilayer cuprate superconductors in the superconducting
+state is studied. It is shown that the electron spectrum of bilayer cuprate
+superconductors is split into the bonding and antibonding components by the
+bilayer splitting, then the observed peak-dip-hump structure around the
+$[\pi,0]$ point is mainly caused by this bilayer splitting, with the
+superconducting peak being related to the antibonding component, and the hump
+being formed by the bonding component. The spectral weight increases with
+increasing the doping concentration. In analogy to the normal state case, both
+electron antibonding peak and bonding hump have the weak dispersions around the
+$[\pi,0]$ point.

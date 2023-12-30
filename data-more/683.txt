@@ -1,0 +1,11 @@
+Fluctuations in glassy systems
+  We summarize a theoretical framework based on global time-reparametrization
+invariance that explains the origin of dynamic fluctuations in glassy systems.
+We introduce the main ideas without getting into much technical details. We
+describe a number of consequences arising from this scenario that can be tested
+numerically and experimentally distinguishing those that can also be explained
+by other mechanisms from the ones that we believe, are special to our proposal.
+We support our claims by presenting some numerical checks performed on the 3d
+Edwards-Anderson spin-glass. Finally, we discuss up to which extent these ideas
+apply to super-cooled liquids that have been studied in much more detail up to
+present.

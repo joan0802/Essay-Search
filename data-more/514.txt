@@ -1,0 +1,11 @@
+Temperature dependence of Coulomb drag between finite-length quantum
+  wires
+  We evaluate the Coulomb drag current in two finite-length
+Tomonaga-Luttinger-liquid wires coupled by an electrostatic backscattering
+interaction. The drag current in one wire shows oscillations as a function of
+the bias voltage applied to the other wire, reflecting interferences of the
+plasmon standing waves in the interacting wires. In agreement with this
+picture, the amplitude of the current oscillations is reduced with increasing
+temperature. This is a clear signature of non-Fermi-liquid physics because for
+coupled Fermi liquids the drag resistance is always expected to increase as the
+temperature is raised.

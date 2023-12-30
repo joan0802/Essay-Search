@@ -1,0 +1,9 @@
+The effectiveness of quantum operations for eavesdropping on sealed
+  messages
+  A quantum protocol is described which enables a user to send sealed messages
+and that allows for the detection of active eavesdroppers. We examine a class
+of eavesdropping strategies, those that make use of quantum operations, and we
+determine the information gain versus disturbance caused by these strategies.
+We demonstrate this tradeoff with an example and we compare this protocol to
+quantum key distribution, quantum direct communication, and quantum seal
+protocols.

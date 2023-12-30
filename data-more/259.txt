@@ -1,0 +1,6 @@
+On Existence of Boundary Values of Polyharmonic Functions
+  In trigonometric series terms all polyharmonic functions inside the unit disk
+are described. For such functions it is proved the existence of their boundary
+values on the unit circle in the space of hyperfunctions. The necessary and
+sufficient conditions are presented for the boundary value to belong to certain
+subspaces of the space of hyperfunctions.

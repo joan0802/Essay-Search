@@ -1,0 +1,10 @@
+Extending the theory of phonon-mediated superconductivity in quasi-2D
+  I present results from an extended Migdal-Eliashberg theory of
+electron-phonon interactions and superconductivity. The history of the
+electron-phonon problem is introduced, and then study of the intermediate
+parameter regime is justified from the energy scales in the cuprate
+superconductors. The Holstein model is detailed, and limiting cases are
+examined to demonstrate the need for an extended theory of superconductivity.
+Results of the extended approximation are shown, including spectral functions
+and phase diagrams. These are discussed with reference to Hohenberg's theorem,
+the Bardeen-Cooper-Schrieffer theory and Coulomb repulsion.

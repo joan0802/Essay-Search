@@ -1,0 +1,9 @@
+Dark Matter annihilation in Draco: new considerations on the expected
+  gamma flux
+  A new estimation of the gamma-ray flux that we expect to detect from SUSY
+dark matter annihilation from the Draco dSph is presented using the DM density
+profiles compatible with the latest observations. This calculation takes also
+into account the important effect of the Point Spread Function (PSF) of the
+telescope. We show that this effect is crucial in the way we will observe and
+interpret a possible signal detection. Finally, we discuss the prospects to
+detect a possible gamma signal from Draco for MAGIC and GLAST.

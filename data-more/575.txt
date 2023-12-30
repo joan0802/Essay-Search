@@ -1,0 +1,12 @@
+Neutron-Capture Elements in the Double-Enhanced Star HE 1305-0007: a New
+  s- and r-Process Paradigm
+  The star HE 1305-0007 is a metal-poor double-enhanced star with metallicity
+[Fe/H] $=-2.0$, which is just at the upper limit of the metallicity for the
+observed double-enhanced stars. Using a parametric model, we find that almost
+all s-elements were made in a single neutron exposure. This star should be a
+member of a post-common-envelope binary. After the s-process material has
+experienced only one neutron exposure in the nucleosynthesis region and is
+dredged-up to its envelope, the AGB evolution is terminated by the onset of
+common-envelope evolution. Based on the high radial-velocity of HE 1305-0007,
+we speculate that the star could be a runaway star from a binary system, in
+which the AIC event has occurred and produced the r-process elements.

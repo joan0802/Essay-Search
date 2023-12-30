@@ -1,0 +1,7 @@
+Protein and ionic surfactants - promoters and inhibitors of contact line
+  pinning
+  We report a new effect of surfactants in pinning a drop contact line,
+specifically that lysozyme promotes while lauryl sulfate inhibits pinning. We
+explain the pinning disparity assuming difference in wetting: the protein-laden
+drop wets a "clean" surface and the surfactant-laden drop wets an
+auto-precursored surface.

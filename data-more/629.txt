@@ -1,0 +1,19 @@
+The $e^+ e^-\to K^+ K^- \pi^+\pi^-$, $K^+ K^- \pi^0\pi^0$ and $K^+ K^-
+  K^+ K^-$ Cross Sections Measured with Initial-State Radiation
+  We study the processes $e^+ e^-\to K^+ K^- \pi^+\pi^-\gamma$,
+$K^+K^-\pi^0\pi^0\gamma$ and $K^+ K^- K^+ K^-\gamma$, where the photon is
+radiated from the initial state. About 34600, 4400 and 2300 fully reconstructed
+events, respectively, are selected from 232 \invfb of \babar data. The
+invariant mass of the hadronic final state defines the effective \epem
+center-of-mass energy, so that the $K^+ K^- \pi^+\pi^-\gamma$ data can be
+compared with direct measurements of the $e^+ e^-\to K^+K^- \pipi$ reaction; no
+direct measurements exist for the $e^+ e^-\to K^+ K^- \pi^0\pi^0$ or $\epem\to
+K^+ K^- K^+ K^-$ reactions. Studying the structure of these events, we find
+contributions from a number of intermediate states, and we extract their cross
+sections where possible. In particular, we isolate the contribution from $e^+
+e^-\to\phi(1020) f_{0}(980)$ and study its structure near threshold. In the
+charmonium region, we observe the $J/\psi$ in all three final states and
+several intermediate states, as well as the $\psi(2S)$ in some modes, and
+measure the corresponding branching fractions. We see no signal for the Y(4260)
+and obtain an upper limit of
+$\BR_{Y(4260)\to\phi\pi^+\pi^-}\cdot\Gamma^{Y}_{ee}<0.4 \ev$ at 90% C.L.

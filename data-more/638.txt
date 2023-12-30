@@ -1,0 +1,11 @@
+A measure of the non-Gaussian character of a quantum state
+  We address the issue of quantifying the non-Gaussian character of a bosonic
+quantum state and introduce a non-Gaussianity measure based on the
+Hilbert-Schmidt distance between the state under examination and a reference
+Gaussian state. We analyze in details the properties of the proposed measure
+and exploit it to evaluate the non-Gaussianity of some relevant single- and
+multi-mode quantum states. The evolution of non-Gaussianity is also analyzed
+for quantum states undergoing the processes of Gaussification by loss and
+de-Gaussification by photon-subtraction. The suggested measure is easily
+computable for any state of a bosonic system and allows to define a
+corresponding measure for the non-Gaussian character of a quantum operation.

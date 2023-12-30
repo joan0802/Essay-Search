@@ -1,0 +1,7 @@
+Invariance and the twisted Chern character : a case study
+  We give details of the proof of the remark made in \cite{G2} that the Chern
+characters of the canonical generators on the K homology of the quantum group
+$SU_q(2)$ are not invariant under the natural $SU_q(2)$ coaction. Furthermore,
+the conjecture made in \cite{G2} about the nontriviality of the twisted Chern
+character coming from an odd equivariant spectral triple on $SU_q(2)$ is
+settled in the affirmative.

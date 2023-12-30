@@ -1,0 +1,10 @@
+A thermodynamic model for the melting of supported metal nanoparticles
+  We construct a simple thermodynamic model to describe the melting of a
+supported metal nanoparticle with a spherically curved free surface both with
+and without surface melting. We use the model to investigate the results of
+recent molecular dynamics simulations, which suggest the melting temperature of
+a supported metal particle is the same as that of a free spherical particle
+with the same surface curvature. Our model shows that this is only the case
+when the contact angles of the supported solid and liquid particles are
+similar. This is also the case for the temperature at which surface melting
+begins.

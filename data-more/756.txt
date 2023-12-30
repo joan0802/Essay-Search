@@ -1,0 +1,10 @@
+Bounds on Negativity of Superpositions
+  The entanglement quantified by negativity of pure bipartite superposed states
+is studied. We show that if the entanglement is quantified by the concurrence
+two pure states of high fidelity to one another still have nearly the same
+entanglement. Furthermore this conclusion can be guaranteed by our obtained
+inequality, and the concurrence is shown to be a continuous function even in
+infinite dimensions. The bounds on the negativity of superposed states in terms
+of those of the states being superposed are obtained. These bounds can find
+useful applications in estimating the amount of the entanglement of a given
+pure state.

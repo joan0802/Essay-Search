@@ -1,0 +1,10 @@
+`St\"uckelberg interferometry' with ultracold molecules
+  We report on the realization of a time-domain `St\"uckelberg interferometer',
+which is based on the internal state structure of ultracold Feshbach molecules.
+Two subsequent passages through a weak avoided crossing between two different
+orbital angular momentum states in combination with a variable hold time lead
+to high-contrast population oscillations. This allows for a precise
+determination of the energy difference between the two molecular states. We
+demonstrate a high degree of control over the interferometer dynamics. The
+interferometric scheme provides new possibilities for precision measurements
+with ultracold molecules.

@@ -1,0 +1,16 @@
+9.7 micrometer Silicate Absorption in a Damped Lyman-alpha Absorber at
+  z=0.52
+  We report a detection of the 9.7 micrometer silicate absorption feature in a
+damped Lyman-alpha (DLA) system at z_{abs} = 0.524 toward AO0235+164, using the
+Infrared Spectrograph (IRS) onboard the Spitzer Space Telescope. The feature
+shows a broad shallow profile over about 8-12 micrometers in the absorber rest
+frame and appears to be > 15 sigma significant in equivalent width. The feature
+is fit reasonably well by the silicate absorption profiles for laboratory
+amorphous olivine or diffuse Galactic interstellar clouds. To our knowledge,
+this is the first indication of 9.7 micrometer silicate absorption in a DLA. We
+discuss potential implications of this finding for the nature of the dust in
+quasar absorbers. Although the feature is relatively shallow (tau_{9.7} =
+0.08-0.09), it is about 2 times deeper than expected from extrapolation of the
+tau_{9.7} vs. E(B-V) relation known for diffuse Galactic interstellar clouds.
+Further studies of the 9.7 micrometer silicate feature in quasar absorbers will
+open a new window on the dust in distant galaxies.

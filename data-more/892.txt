@@ -1,0 +1,8 @@
+Topological phase for spin-orbit transformations on a laser beam
+  We investigate the topological phase associated with the double connectedness
+of the SO(3) representation in terms of maximally entangled states. An
+experimental demonstration is provided in the context of polarization and
+spatial mode transformations of a laser beam carrying orbital angular momentum.
+The topological phase is evidenced through interferometric measurements and a
+quantitative relationship between the concurrence and the fringes visibility is
+derived. Both the quantum and the classical regimes were investigated.

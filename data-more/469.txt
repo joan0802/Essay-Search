@@ -1,0 +1,11 @@
+Testing turbulence model at metric scales with mid-infrared VISIR images
+  at the VLT
+  We probe turbulence structure from centimetric to metric scales by
+simultaneous imagery at mid-infrared and visible wavelengths at the VLT
+telescope and show that it departs significantly from the commonly used
+Kolmogorov model. The data can be fitted by the von Karman model with an outer
+scale of the order of 30 m and we see clear signs of the phase structure
+function saturation across the 8-m VLT aperture. The image quality improves in
+the infrared faster than the standard lambda^{-1/5} scaling and may be
+diffraction-limited at 30-m apertures even without adaptive optics at
+wavelengths longer than 8 micron.

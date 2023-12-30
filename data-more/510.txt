@@ -1,0 +1,6 @@
+A unified approach to SIC-POVMs and MUBs
+  A unified approach to (symmetric informationally complete) positive operator
+valued measures and mutually unbiased bases is developed in this article. The
+approach is based on the use of operator equivalents expanded in the enveloping
+algebra of SU(2). Emphasis is put on similarities and differences between
+SIC-POVMs and MUBs.

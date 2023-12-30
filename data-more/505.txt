@@ -1,0 +1,10 @@
+Dimensional crossover of quantum critical behavior in CeCoIn$_5$
+  The nature of quantum criticality in CeCoIn$_5$ is studied by low-temperature
+thermal expansion $\alpha(T)$. At the field-induced quantum critical point at
+H=5 T a crossover scale $T^\star\approx 0.3$ K is observed, separating
+$\alpha(T)/T\propto T^{-1}$ from a weaker $T^{-1/2}$ divergence. We ascribe
+this change to a crossover in the dimensionality of the critical fluctuations
+which may be coupled to a change from unconventional to conventional quantum
+criticality. Disorder, whose effect on quantum criticality is studied in
+CeCoIn$_{5-x}$Sn$_x$ ($0\leq x\leq 0.18$), shifts $T^\star$ towards higher
+temperatures.

@@ -1,0 +1,15 @@
+Ground-based Microlensing Surveys
+  Microlensing is a proven extrasolar planet search method that has already
+yielded the detection of four exoplanets. These detections have changed our
+understanding of planet formation ``beyond the snowline'' by demonstrating that
+Neptune-mass planets with separations of several AU are common. Microlensing is
+sensitive to planets that are generally inaccessible to other methods, in
+particular cool planets at or beyond the snowline, very low-mass (i.e.
+terrestrial) planets, planets orbiting low-mass stars, free-floating planets,
+and even planets in external galaxies. Such planets can provide critical
+constraints on models of planet formation, and therefore the next generation of
+extrasolar planet searches should include an aggressive and well-funded
+microlensing component. When combined with the results from other complementary
+surveys, next generation microlensing surveys can yield an accurate and
+complete census of the frequency and properties of planets, and in particular
+low-mass terrestrial planets.

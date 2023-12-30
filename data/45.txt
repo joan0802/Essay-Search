@@ -1,0 +1,8 @@
+A limit relation for entropy and channel capacity per unit cost
+  In a quantum mechanical model, Diosi, Feldmann and Kosloff arrived at a
+conjecture stating that the limit of the entropy of certain mixtures is the
+relative entropy as system size goes to infinity. The conjecture is proven in
+this paper for density matrices. The first proof is analytic and uses the
+quantum law of large numbers. The second one clarifies the relation to channel
+capacity per unit cost for classical-quantum channels. Both proofs lead to
+generalization of the conjecture.

@@ -1,0 +1,7 @@
+Instanton Liquid at Finite Temperature and Chemical Potential of Quarks
+  Instanton liquid in heated and strongly interacting matter is studied using
+the variational principle. The dependence of the instanton liquid density
+(gluon condensate) on the temperature and the quark chemical potential is
+determined under the assumption that, at finite temperatures, the dominant
+contribution is given by an ensemble of calorons. The respective one-loop
+effective quark Lagrangian is used.

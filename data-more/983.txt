@@ -1,0 +1,10 @@
+Transfer of a Polaritonic Qubit through a Coupled Cavity Array
+  We demonstrate a scheme for quantum communication between the ends of an
+array of coupled cavities. Each cavity is doped with a single two level system
+(atoms or quantum dots) and the detuning of the atomic level spacing and
+photonic frequency is appropriately tuned to achieve photon blockade in the
+array. We show that in such a regime, the array can simulate a dual rail
+quantum state transfer protocol where the arrival of quantum information at the
+receiving cavity is heralded through a fluorescence measurement. Communication
+is also possible between any pair of cavities of a network of connected
+cavities.

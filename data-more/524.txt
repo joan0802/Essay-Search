@@ -1,0 +1,5 @@
+On the Energy-Momentum Problem in Static Einstein Universe
+  This paper has been removed by arXiv administrators because it plagiarizes
+gr-qc/0410004, gr-qc/0603075, and others.
+  This paper also has excessive overlap with the following papers also written
+by the authors or their collaborators: gr-qc/0608111, and others.

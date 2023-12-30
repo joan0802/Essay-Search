@@ -1,0 +1,10 @@
+Environmental noise reduction for holonomic quantum gates
+  We study the performance of holonomic quantum gates, driven by lasers, under
+the effect of a dissipative environment modeled as a thermal bath of
+oscillators. We show how to enhance the performance of the gates by suitable
+choice of the loop in the manifold of the controllable parameters of the laser.
+For a simplified, albeit realistic model, we find the surprising result that
+for a long time evolution the performance of the gate (properly estimated in
+terms of average fidelity) increases. On the basis of this result, we compare
+holonomic gates with the so-called stimulated Raman adiabatic passage (STIRAP)
+gates.

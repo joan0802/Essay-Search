@@ -1,0 +1,14 @@
+Upper bounds on entangling rates of bipartite Hamiltonians
+  We discuss upper bounds on the rate at which unitary evolution governed by a
+non-local Hamiltonian can generate entanglement in a bipartite system. Given a
+bipartite Hamiltonian H coupling two finite dimensional particles A and B, the
+entangling rate is shown to be upper bounded by c*log(d)*norm(H), where d is
+the smallest dimension of the interacting particles, norm(H) is the operator
+norm of H, and c is a constant close to 1. Under certain restrictions on the
+initial state we prove analogous upper bound for the ancilla-assisted
+entangling rate with a constant c that does not depend upon dimensions of local
+ancillas. The restriction is that the initial state has at most two distinct
+Schmidt coefficients (each coefficient may have arbitrarily large
+multiplicity). Our proof is based on analysis of a mixing rate -- a functional
+measuring how fast entropy can be produced if one mixes a time-independent
+state with a state evolving unitarily.

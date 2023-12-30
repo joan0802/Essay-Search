@@ -1,0 +1,11 @@
+Nodeless d-wave superconducting pairing due to residual
+  antiferromagnetism in underdoped Pr$_{2-x}$Ce$_x$CuO$_{4-\delta}$
+  We have investigated the doping dependence of the penetration depth vs.
+temperature in electron doped Pr$_{2-x}$Ce$_x$CuO$_{4-\delta}$ using a model
+which assumes the uniform coexistence of (mean-field) antiferromagnetism and
+superconductivity. Despite the presence of a $d_{x^2-y^2}$ pairing gap in the
+underlying spectrum, we find nodeless behavior of the low-$T$ penetration depth
+in underdoped case, in accord with experimental results. As doping increases, a
+linear-in-$T$ behavior of the penetration depth, characteristic of d-wave
+pairing, emerges as the lower magnetic band crosses the Fermi level and creates
+a nodal Fermi surface pocket.

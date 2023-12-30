@@ -1,0 +1,14 @@
+On reference frames in spacetime and gravitational energy in freely
+  falling frames
+  We consider the interpretation of tetrad fields as reference frames in
+spacetime. Reference frames may be characterized by an antisymmetric
+acceleration tensor, whose components are identified as the inertial
+accelerations of the frame (the translational acceleration and the frequency of
+rotation of the frame). This tensor is closely related to
+gravitoelectromagnetic field quantities. We construct the set of tetrad fields
+adapted to observers that are in free fall in the Schwarzschild spacetime, and
+show that the gravitational energy-momentum constructed out of this set of
+tetrad fields, in the framework of the teleparallel equivalent of general
+relatrivity, vanishes. This result is in agreement with the principle of
+equivalence, and may be taken as a condition for a viable definition of
+gravitational energy.

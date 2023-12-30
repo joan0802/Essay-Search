@@ -1,0 +1,9 @@
+On universality of critical behaviour in the focusing nonlinear
+  Schr\"odinger equation, elliptic umbilic catastrophe and the {\it
+  tritronqu\'ee} solution to the Painlev\'e-I equation
+  We argue that the critical behaviour near the point of ``gradient
+catastrophe" of the solution to the Cauchy problem for the focusing nonlinear
+Schr\"odinger equation $ i\epsilon \psi_t +\frac{\epsilon^2}2\psi_{xx}+
+|\psi|^2 \psi =0$ with analytic initial data of the form $\psi(x,0;\epsilon)
+=A(x) e^{\frac{i}{\epsilon} S(x)}$ is approximately described by a particular
+solution to the Painlev\'e-I equation.

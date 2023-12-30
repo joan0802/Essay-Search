@@ -1,0 +1,6 @@
+Extension theorems of Sakai type for separately holomorphic and
+  meromorphic functions
+  We first exhibit counterexamples to some open questions related to a theorem
+of Sakai.
+  Then we establish an extension theorem of Sakai type for separately
+holomorphic/meromorphic functions.

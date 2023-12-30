@@ -1,0 +1,5 @@
+Energy density for chiral lattice fermions with chemical potential
+  We study a recently proposed formulation of overlap fermions at finite
+density. In particular we compute the energy density as a function of the
+chemical potential and the temperature. It is shown that overlap fermions with
+chemical potential reproduce the correct continuum behavior.

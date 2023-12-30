@@ -1,0 +1,10 @@
+Modelling the Near-IR Spectra of Red Supergiant-dominated Populations
+  We report on recent progress in the modelling of the near-IR spectra of young
+stellar populations, i.e. populations in which red supergiants (RSGs) are
+dominant. First, we discuss the determination of fundamental parameters of RSGs
+using fits to their near-IR spectra with new PHOENIX model spectra;
+RSG-specific surface abundances are accounted for and effects of the
+microturbulence parameter are explored. New population synthesis predictions
+are then described and, as an example, it is shown that the spectra of young
+star clusters in M82 can be reproduced very well from 0.5 to 2.4 micrometers.
+We warn of remaining uncertainties in cluster ages.

@@ -1,0 +1,9 @@
+Topological defects, geometric phases, and the angular momentum of light
+  Recent reports on the intriguing features of vector vortex bearing beams are
+analyzed using geometric phases in optics. It is argued that the spin
+redirection phase induced circular birefringence is the origin of topological
+phase singularities arising in the inhomogeneous polarization patterns. A
+unified picture of recent results is presented based on this proposition.
+Angular momentum shift within the light beam (OAM) has exact equivalence with
+the angular momentum holonomy associated with the geometric phase consistent
+with our conjecture.

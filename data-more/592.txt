@@ -1,0 +1,16 @@
+Local-field effects in radiatively broadened magneto-dielectric media:
+  negative refraction and absorption reduction
+  We give a microscopic derivation of the Clausius-Mossotti relations for a
+homogeneous and isotropic magneto-dielectric medium consisting of radiatively
+broadened atomic oscillators. To this end the diagram series of electromagnetic
+propagators is calculated exactly for an infinite bi-cubic lattice of
+dielectric and magnetic dipoles for a lattice constant small compared to the
+resonance wavelength $\lambda$. Modifications of transition frequencies and
+linewidth of the elementary oscillators are taken into account in a
+selfconsistent way by a proper incorporation of the singular self-interaction
+terms. We show that in radiatively broadened media sufficiently close to the
+free-space resonance the real part of the index of refraction approaches the
+value -2 in the limit of $\rho \lambda^3 \gg 1$, where $\rho$ is the number
+density of scatterers. Since at the same time the imaginary part vanishes as
+$1/\rho$ local field effects can have important consequences for realizing
+low-loss negative index materials.

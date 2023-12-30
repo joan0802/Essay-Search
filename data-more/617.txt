@@ -1,0 +1,14 @@
+Number of moduli of irreducible families of plane curves with nodes and
+  cusps
+  Consider the family S of irreducible plane curves of degree n with d nodes
+and k cusps as singularities. Let W be an irreducible component of S. We
+consider the natural rational map from W to the moduli space of curves of genus
+g=(n-1)(n-2)/2-d-k. We define the "number of moduli of W" as the dimension of
+the image of W with respect to this map. If W has the expected dimension equal
+to 3n+g-1-k, then the number of moduli of W is at most equal to the min(3g-3,
+3g-3+\rho-k), dove \rho is the Brill-Neother number of the linear series of
+degree n and dimension 2 on a smooth curve of genus g. We say that W has the
+expected number of moduli if the equality holds. In this paper we construct
+examples of families of irreducible plane curves with nodes and cusps as
+singularities having expected number of moduli and with non-positive
+Brill-Noether number.

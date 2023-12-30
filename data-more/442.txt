@@ -1,0 +1,7 @@
+Neutron-neutron scattering length from the reaction gamma d --> pi^+ nn
+  employing chiral perturbation theory
+  We discuss the possibility to extract the neutron-neutron scattering length
+a_{nn} from experimental spectra on the reaction gamma d --> pi^+ nn. The
+transition operator is calculated to high accuracy from chiral perturbation
+theory. We argue that for properly chosen kinematics, the theoretical
+uncertainty of the method can be as low as 0.1 fm.

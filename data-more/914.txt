@@ -1,0 +1,11 @@
+Millimeter-Thick Single-Walled Carbon Nanotube Forests: Hidden Role of
+  Catalyst Support
+  A parametric study of so-called "super growth" of single-walled carbon
+nanotubes(SWNTs) was done by using combinatorial libraries of iron/aluminum
+oxide catalysts. Millimeter-thick forests of nanotubes grew within 10 min, and
+those grown by using catalysts with a thin Fe layer (about 0.5 nm) were SWNTs.
+Although nanotube forests grew under a wide range of reaction conditions such
+as gas composition and temperature, the window for SWNT was narrow. Fe
+catalysts rapidly grew nanotubes only when supported on aluminum oxide.
+Aluminum oxide, which is a well-known catalyst in hydrocarbon reforming, plays
+an essential role in enhancing the nanotube growth rates.

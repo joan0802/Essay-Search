@@ -1,0 +1,7 @@
+Fermionic superstring loop amplitudes in the pure spinor formalism
+  The pure spinor formulation of the ten-dimensional superstring leads to
+manifestly supersymmetric loop amplitudes, expressed as integrals in pure
+spinor superspace. This paper explores different methods to evaluate these
+integrals and then uses them to calculate the kinematic factors of the one-loop
+and two-loop massless four-point amplitudes involving two and four Ramond
+states.

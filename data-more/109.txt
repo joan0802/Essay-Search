@@ -1,0 +1,5 @@
+On Equivariant Embedding of Hilbert C^* modules
+  We prove that an arbitrary (not necessarily countably generated) Hilbert
+$G$-$\cla$ module on a G-C^* algebra $\cla$ admits an equivariant embedding
+into a trivial $G-\cla$ module, provided G is a compact Lie group and its
+action on $\cla$ is ergodic.

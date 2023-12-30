@@ -1,0 +1,6 @@
+An algorithm for the classification of smooth Fano polytopes
+  We present an algorithm that produces the classification list of smooth Fano
+d-polytopes for any given d. The input of the algorithm is a single number,
+namely the positive integer d. The algorithm has been used to classify smooth
+Fano d-polytopes for d<=7. There are 7622 isomorphism classes of smooth Fano
+6-polytopes and 72256 isomorphism classes of smooth Fano 7-polytopes.

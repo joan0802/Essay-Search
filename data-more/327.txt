@@ -1,0 +1,11 @@
+Electroweak phase transitions in the MSSM with an extra $U(1)'$
+  We investigate the possibility of electroweak phase transition in the minimal
+supersymmetric standard model (MSSM) with an extra $U(1)'$. This model has two
+Higgs doublets and a singlet, in addition to a singlet exotic quark superfield.
+We find that at the one-loop level this model may accommodate the electroweak
+phase transitions that are strongly first-order in a reasonably large region of
+the parameter space. In the parameter region where the phase transitions take
+place, we observe that the lightest scalar Higgs boson has a smaller mass when
+the strength of the phase transition becomes weaker. Also, the other three
+heavier neutral Higgs bosons get more large masses when the strength of the
+phase transition becomes weaker.

@@ -1,0 +1,11 @@
+Test of nuclear level density inputs for Hauser-Feshbach model
+  calculations
+  The energy spectra of neutrons, protons, and alpha-particles have been
+measured from the d+59Co and 3He+58Fe reactions leading to the same compound
+nucleus, 61$Ni. The experimental cross sections have been compared to
+Hauser-Feshbach model calculations using different input level density models.
+None of them have been found to agree with experiment. It manifests the serious
+problem with available level density parameterizations especially those based
+on neutron resonance spacings and density of discrete levels. New level
+densities and corresponding Fermi-gas parameters have been obtained for
+reaction product nuclei such as 60Ni,60Co, and 57Fe.

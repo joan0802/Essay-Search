@@ -1,0 +1,9 @@
+Conduction electron spin-lattice relaxation time in the MgB2
+  superconductor
+  The spin-lattice relaxation time, $T_{1}$, of conduction electrons is
+measured as a function of temperature and magnetic field in MgB$_2$. The method
+is based on the detection of the $z$ component of the conduction electron
+magnetization under electron spin resonance conditions with amplitude modulated
+microwave excitation. Measurement of $T_{1}$ below $T_c$ at 0.32 T allows to
+disentangle contributions from the two Fermi surfaces of MgB$_{2}$ as this
+field restores normal state on the Fermi surface part with $\pi$ symmetry only.

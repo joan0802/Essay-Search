@@ -1,0 +1,9 @@
+Stock market return distributions: from past to present
+  We show that recent stock market fluctuations are characterized by the
+cumulative distributions whose tails on short, minute time scales exhibit power
+scaling with the scaling index alpha > 3 and this index tends to increase
+quickly with decreasing sampling frequency. Our study is based on
+high-frequency recordings of the S&P500, DAX and WIG20 indices over the
+interval May 2004 - May 2006. Our findings suggest that dynamics of the
+contemporary market may differ from the one observed in the past. This effect
+indicates a constantly increasing efficiency of world markets.

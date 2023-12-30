@@ -1,0 +1,18 @@
+A kind of prediction from string phenomenology: extra matter at low
+  energy
+  We review the possibility that the Supersymmetric Standard Model arises from
+orbifold constructions of the E_8 x E_8 Heterotic Superstring, and the
+phenomenological properties that such a model should have. In particular,
+trying to solve the discrepancy between the unification scale predicted by the
+Heterotic Superstring (g_{GUT}x5.27x10^{17} GeV) and the value deduced from LEP
+experiments (2x10^{16} GeV), we will predict the presence at low energies of
+three families of Higgses and vector-like colour triplets. Our approach relies
+on the Fayet-Iliopoulos breaking, and this is also a crucial ingredient,
+together with having three Higgs families, to obtain in these models an
+interesting pattern of fermion masses and mixing angles at the renormalizable
+lebel. Namely, after the gauge breaking some physical particles appear combined
+with other states, and the Yukawa couplings are modified in a well controlled
+way. On the other hand, dangerous flavour-changing neutral currents may appear
+when fermions of a given charge receive their mass through couplings with
+several Higgs doublets. We will address this potential problem, finding that
+viable scenarios can be obtained for a reasonable light Higgs spectrum.

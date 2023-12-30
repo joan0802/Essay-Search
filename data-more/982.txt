@@ -1,0 +1,4 @@
+Form factors of the exotic baryons with isospin I=5/2
+  The electromagnetic form factors of the exotic baryons are calculated in the
+framework of the relativistic quark model at small and intermediate momentum
+transfer. The charge radii of the E+++ baryons are determined.

@@ -1,0 +1,11 @@
+The Cosmic Foreground Explorer (COFE): A balloon-borne microwave
+  polarimeter to characterize polarized foregrounds
+  The COsmic Foreground Explorer (COFE) is a balloon-borne microwave polarime-
+ter designed to measure the low-frequency and low-l characteristics of dominant
+diffuse polarized foregrounds. Short duration balloon flights from the Northern
+and Southern Hemispheres will allow the telescope to cover up to 80% of the sky
+with an expected sensitivity per pixel better than 100 $\mu K / deg^2$ from 10
+GHz to 20 GHz. This is an important effort toward characterizing the polarized
+foregrounds for future CMB experiments, in particular the ones that aim to
+detect primordial gravity wave signatures in the CMB polarization angular power
+spectrum.

@@ -1,0 +1,14 @@
+Ising-like dynamics and frozen states in systems of ultrafine magnetic
+  particles
+  We use Monte-Carlo simulations to study aging phenomena and the occurence of
+spinglass phases in systems of single-domain ferromagnetic nanoparticles under
+the combined influence of dipolar interaction and anisotropy energy, for
+different combinations of positional and orientational disorder. We find that
+the magnetic moments oriente themselves preferably parallel to their anisotropy
+axes and changes of the total magnetization are solely achieved by 180 degree
+flips of the magnetic moments, as in Ising systems. Since the dipolar
+interaction favorizes the formation of antiparallel chain-like structures,
+antiparallel chain-like patterns are frozen in at low temperatures, leading to
+aging phenomena characteristic for spin-glasses. Contrary to the intuition,
+these aging effects are more pronounced in ordered than in disordered
+structures.

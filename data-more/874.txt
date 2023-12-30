@@ -1,0 +1,10 @@
+The concrete theory of numbers: initial numbers and wonderful properties
+  of numbers repunit
+  In this work initial numbers and repunit numbers have been studied. All
+numbers have been considered in a decimal notation. The problem of simplicity
+of initial numbers has been studied. Interesting properties of numbers repunit
+are proved:
+  $gcd(R_a, R_b) = R_{gcd(a,b)}$;
+  $R_{ab}/(R_aR_b)$ is an integer only if $gcd(a,b) = 1$, where $a\geq1$,
+$b\geq1$ are integers. Dividers of numbers repunit, are researched by a degree
+of prime number.

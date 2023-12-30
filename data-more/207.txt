@@ -1,0 +1,9 @@
+Some non-braided fusion categories of rank 3
+  We classify all fusion categories for a given set of fusion rules with three
+simple object types. If a conjecture of Ostrik is true, our classification
+completes the classification of fusion categories with three simple object
+types. To facilitate the discussion we describe a convenient, concrete and
+useful variation of graphical calculus for fusion categories, discuss
+pivotality and sphericity in this framework, and give a short and elementary
+re-proof of the fact that the quadruple dual functor is naturally isomorphic to
+the identity.

@@ -1,0 +1,10 @@
+Two-proton radioactivity and three-body decay. IV. Connection to
+  quasiclassical formulation
+  We derive quasiclassical expressions for the three-body decay width and
+define the ``preexponential'' coefficients for them. The derivation is based on
+the integral formulae for the three-body width obtained in the semianalytical
+approach with simplified three-body Hamiltonian [L.V. Grigorenko and M.V.\
+Zhukov, arXiv:0704.0920v1]. The model is applied to the decays of the first
+excited $3/2^{-}$ state of $^{17}$Ne and $3/2^{-}$ ground state of $^{45}$Fe.
+Various qualitative aspects of the model and relations with the other
+simplified approaches to the three-body decays are discussed.

@@ -1,0 +1,13 @@
+Noncommutative Electromagnetism As A Large N Gauge Theory
+  We map noncommutative (NC) U(1) gauge theory on R^d_C X R^{2n}_{NC} to U(N ->
+\infty) Yang-Mills theory on R^d_C, where R^d_C is a d-dimensional commutative
+spacetime while R^{2n}_{NC} is a 2n-dimensional NC space. The resulting U(N)
+Yang-Mills theory on R^d_C is equivalent to that obtained by the dimensional
+reduction of (d+2n)-dimensional U(N) Yang-Mills theory onto R^d_C. We show that
+the gauge-Higgs system (A_\mu,\Phi^a) in the U(N -> \infty) Yang-Mills theory
+on R^d_C leads to an emergent geometry in the (d+2n)-dimensional spacetime
+whose metric was determined by Ward a long time ago. In particular, the
+10-dimensional gravity for d=4 and n=3 corresponds to the emergent geometry
+arising from the 4-dimensional N=4 vector multiplet in the AdS/CFT duality. We
+further elucidate the emergent gravity by showing that the gauge-Higgs system
+(A_\mu,\Phi^a) in half-BPS configurations describes self-dual Einstein gravity.

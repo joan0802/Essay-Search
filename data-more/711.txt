@@ -1,0 +1,15 @@
+Interference effects in above-threshold ionization from diatomic
+  molecules: determining the internuclear separation
+  We calculate angle-resolved above-threshold ionization spectra for diatomic
+molecules in linearly polarized laser fields, employing the strong-field
+approximation. The interference structure resulting from the individual
+contributions of the different scattering scenarios is discussed in detail,
+with respect to the dependence on the internuclear distance and molecular
+orientation. We show that, in general, the contributions from the processes in
+which the electron is freed at one center and rescatters off the other obscure
+the interference maxima and minima obtained from single-center processes.
+However, around the boundary of the energy regions for which rescattering has a
+classical counterpart, such processes play a negligible role and very clear
+interference patterns are observed. In such energy regions, one is able to
+infer the internuclear distance from the energy difference between adjacent
+interference minima.

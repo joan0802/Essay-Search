@@ -1,0 +1,10 @@
+Fermi-liquid effects in the transresistivity in quantum Hall double
+  layers near $\nu= 1/2 $
+  Here, we present theoretical studies of the temperature and magnetic field
+dependences of the Coulomb drag transresistivity between two parallel layers of
+two dimensional electron gases in quantum Hall regime near half filling of the
+lowest Landau level. It is shown that Fermi-liquid interactions between the
+relevant quasiparticles could give a significant effect on the
+transresistivity, providing its independence of the interlayer spacing for
+spacings taking on values reported in the experiments. Obtained results agree
+with the experimental evidence.

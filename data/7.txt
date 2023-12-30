@@ -1,0 +1,15 @@
+Numerical solution of shock and ramp compression for general material
+  properties
+  A general formulation was developed to represent material models for
+applications in dynamic loading. Numerical methods were devised to calculate
+response to shock and ramp compression, and ramp decompression, generalizing
+previous solutions for scalar equations of state. The numerical methods were
+found to be flexible and robust, and matched analytic results to a high
+accuracy. The basic ramp and shock solution methods were coupled to solve for
+composite deformation paths, such as shock-induced impacts, and shock
+interactions with a planar interface between different materials. These
+calculations capture much of the physics of typical material dynamics
+experiments, without requiring spatially-resolving simulations. Example
+calculations were made of loading histories in metals, illustrating the effects
+of plastic work on the temperatures induced in quasi-isentropic and
+shock-release experiments, and the effect of a phase transition.

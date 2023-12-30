@@ -1,0 +1,12 @@
+Using decomposed household food acquisitions as inputs of a Kinetic
+  Dietary Exposure Model
+  Foods naturally contain a number of contaminants that may have different and
+long term toxic effects. This paper introduces a novel approach for the
+assessment of such chronic food risk that integrates the pharmacokinetic
+properties of a given contaminant. The estimation of such a Kinetic Dietary
+Exposure Model (KDEM) should be based on long term consumption data which, for
+the moment, can only be provided by Household Budget Surveys such as the
+SECODIP panel in France. A semi parametric model is proposed to decompose a
+series of household quantities into individual quantities which are then used
+as inputs of the KDEM. As an illustration, the risk assessment related to the
+presence of methyl mercury in seafood is revisited using this novel approach.

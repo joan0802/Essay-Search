@@ -1,0 +1,10 @@
+Strong Phase and $D^0-D^0bar$ mixing at BES-III
+  Most recently, both BaBar and Belle experiments found evidences of neutral
+$D$ mixing. In this paper, we discuss the constraints on the strong phase
+difference in $D^0 \to K\pi$ decay from the measurements of the mixing
+parameters, $y^\prime$, $y_{CP}$ and $x$ at the $B$ factories. The sensitivity
+of the measurement of the mixing parameter $y$ is estimated in BES-III
+experiment at $\psi(3770)$ peak. We also make an estimate on the measurements
+of the mixing rate $R_M$. Finally, the sensitivity of the strong phase
+difference at BES-III are obtained by using data near the $D\bar{D}$ threshold
+with CP tag technique at BES-III experiment.

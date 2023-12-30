@@ -1,0 +1,12 @@
+Monitoring spatially heterogeneous dynamics in a drying colloidal thin
+  film
+  We report on a new type of experiment that enables us to monitor spatially
+and temporally heterogeneous dynamic properties in complex fluids. Our approach
+is based on the analysis of near-field speckles produced by light diffusely
+reflected from the superficial volume of a strongly scattering medium. By
+periodic modulation of an incident speckle beam we obtain pixel-wise ensemble
+averages of the structure function coefficient, a measure of the dynamic
+activity. To illustrate the application of our approach we follow the different
+stages in the drying process of a colloidal thin film. We show that we can
+access ensemble averaged dynamic properties on length scales as small as ten
+micrometers over the full field of view.

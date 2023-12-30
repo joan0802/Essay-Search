@@ -1,0 +1,12 @@
+d-wave superconductivity from electron-phonon interactions
+  I examine electron-phonon mediated superconductivity in the intermediate
+coupling and phonon frequency regime of the quasi-2D Holstein model. I use an
+extended Migdal-Eliashberg theory which includes vertex corrections and spatial
+fluctuations. I find a d-wave superconducting state that is unique close to
+half-filling. The order parameter undergoes a transition to s-wave
+superconductivity on increasing filling. I explain how the inclusion of both
+vertex corrections and spatial fluctuations is essential for the prediction of
+a d-wave order parameter. I then discuss the effects of a large Coulomb
+pseudopotential on the superconductivity (such as is found in contemporary
+superconducting materials like the cuprates), which results in the destruction
+of the s-wave states, while leaving the d-wave states unmodified.

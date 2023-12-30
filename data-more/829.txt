@@ -1,0 +1,9 @@
+Spin accumulation from the non-Abelian Aharonov-Bohm effect
+  Recently, it has been shown that the spin-orbit coupling (SOC) of the
+Dresselhaus type in $[110]$ quantum wells can be mathematically removed by a
+non-Abelian gauge transformation. In the presence of an additional uniform
+magnetic field, such a non-Abelian gauge flux leads to a spin accumulation at
+the edges of the sample, where the relative sign of the spin accumulation
+between the edges can be tuned by the sign of the Dresselhaus SOC constant. Our
+prediction can be tested by Kerr measurements within the available experimental
+sensitivities.

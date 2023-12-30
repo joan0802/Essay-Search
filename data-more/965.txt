@@ -1,0 +1,13 @@
+Cluster properties from two-particle angular correlations in p+p
+  collisions at $\sqrt{s}$ = 200 and 410 GeV
+  We present results on two-particle angular correlations in proton-proton
+collisions at center of mass energies of 200 and 410 GeV. The PHOBOS experiment
+at the Relativistic Heavy Ion Collider has a uniquely large coverage for
+charged particles, giving the opportunity to explore the correlations at both
+short- and long-range scales. At both energies, a complex two-dimensional
+correlation structure in $\Delta \eta$ and $\Delta \phi$ is observed. In the
+context of an independent cluster model of short-range correlations, the
+cluster size and its decay width are extracted from the two-particle
+pseudorapidity correlation function and compared with previous measurements in
+proton-proton and proton-antiproton collisions, as well as PYTHIA and HIJING
+predictions.

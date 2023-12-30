@@ -1,0 +1,10 @@
+X-ray Dichroism and the Pseudogap Phase of Cuprates
+  A recent polarized x-ray absorption experiment on the high temperature
+cuprate superconductor Bi2Sr2CaCu2O8 indicates the presence of broken parity
+symmetry below the temperature, T*, where a pseudogap appears in photoemission.
+We critically analyze the x-ray data, and conclude that a parity-breaking
+signal of the kind suggested is unlikely based on the crystal structures
+reported in the literature. Possible other origins of the observed dichroism
+signal are discussed. We propose x-ray scattering experiments that can be done
+in order to determine whether such alternative interpretations are valid or
+not.

@@ -1,0 +1,6 @@
+Orthogonality criterion for banishing hydrino states from standard
+  quantum mechanics
+  Orthogonality criterion is used to shown in a very simple and general way
+that anomalous bound-state solutions for the Coulomb potential (hydrino states)
+do not exist as bona fide solutions of the Schr\"{o}dinger, Klein-Gordon and
+Dirac equations.

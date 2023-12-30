@@ -1,0 +1,8 @@
+Geometry of four-dimensional Killing spinors
+  The supersymmetric solutions of N=2, D=4 minimal ungauged and gauged
+supergravity are classified according to the fraction of preserved
+supersymmetry using spinorial geometry techniques. Subject to a reasonable
+assumption in the 1/2-supersymmetric time-like case of the gauged theory, we
+derive the complete form of all supersymmetric solutions. This includes a
+number of new 1/4- and 1/2-supersymmetric possibilities, like gravitational
+waves on bubbles of nothing in AdS_4.

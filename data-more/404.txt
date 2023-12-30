@@ -1,0 +1,18 @@
+An invariance principle for semimartingale reflecting Brownian motions
+  in domains with piecewise smooth boundaries
+  Semimartingale reflecting Brownian motions (SRBMs) living in the closures of
+domains with piecewise smooth boundaries are of interest in applied probability
+because of their role as heavy traffic approximations for some stochastic
+networks. In this paper, assuming certain conditions on the domains and
+directions of reflection, a perturbation result, or invariance principle, for
+SRBMs is proved. This provides sufficient conditions for a process that
+satisfies the definition of an SRBM, except for small random perturbations in
+the defining conditions, to be close in distribution to an SRBM. A crucial
+ingredient in the proof of this result is an oscillation inequality for
+solutions of a perturbed Skorokhod problem. We use the invariance principle to
+show weak existence of SRBMs under mild conditions. We also use the invariance
+principle, in conjunction with known uniqueness results for SRBMs, to give some
+sufficient conditions for validating approximations involving (i) SRBMs in
+convex polyhedrons with a constant reflection vector field on each face of the
+polyhedron, and (ii) SRBMs in bounded domains with piecewise smooth boundaries
+and possibly nonconstant reflection vector fields on the boundary surfaces.

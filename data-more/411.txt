@@ -1,0 +1,7 @@
+Unit groups of integral finite group rings with no noncyclic abelian
+  finite subgroups
+  It is shown that in the units of augmentation one of an integral group ring
+$\mathbb{Z} G$ of a finite group $G$, a noncyclic subgroup of order $p^{2}$,
+for some odd prime $p$, exists only if such a subgroup exists in $G$. The
+corresponding statement for $p=2$ holds by the Brauer--Suzuki theorem, as
+recently observed by W. Kimmerle.

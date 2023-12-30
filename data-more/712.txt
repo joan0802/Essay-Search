@@ -1,0 +1,4 @@
+Neel order in the two-dimensional S=1/2 Heisenberg Model
+  The existence of Neel order in the S=1/2 Heisenberg model on the square
+lattice at T=0 is shown using inequalities set up by Kennedy, Lieb and Shastry
+in combination with high precision Quantum Monte Carlo data.

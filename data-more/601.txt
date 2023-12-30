@@ -1,0 +1,8 @@
+Alternative Large Nc Schemes and Chiral Dynamics
+  We compare the dependences on the number of colors of the leading pion pion
+scattering amplitudes using the single index quark field and two index quark
+fields. These are seen to have different relationships to the scattering
+amplitudes suggested by chiral dynamics which can explain the long puzzling
+pion pion s wave scattering up to about 1 GeV. This may be interesting for
+getting a better understanding of the large Nc approach as well as for
+application to recently proposed technicolor models.

@@ -1,0 +1,10 @@
+Experimental Test of the High-Frequency Quantum Shot Noise Theory in a
+  Quantum Point Contact
+  We report on direct measurements of the electronic shot noise of a quantum
+point contact at frequencies nu in the range 4-8 GHz. The very small energy
+scale used ensures energy independent transmissions of the few transmitted
+electronic modes and their accurate knowledge. Both the thermal energy and the
+quantum point contact drain-source voltage Vds are comparable to the photon
+energy hnu leading to observation of the shot noise suppression when
+$V_{ds}<h\nu/e$. Our measurements provide the first complete test of the finite
+frequency shot noise scattering theory without adjustable parameters.

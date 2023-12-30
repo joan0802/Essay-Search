@@ -1,0 +1,11 @@
+Redshifts of the Long Gamma-Ray Bursts
+  The low energy spectra of some gamma-ray bursts' show excess components
+beside the power-law dependence. The consequences of such a feature allows to
+estimate the gamma photometric redshift of the long gamma-ray bursts in the
+BATSE Catalog. There is good correlation between the measured optical and the
+estimated gamma photometric redshifts. The estimated redshift values for the
+long bright gamma-ray bursts are up to z=4, while for the the faint long bursts
+- which should be up to z=20 - the redshifts cannot be determined unambiguously
+with this method. The redshift distribution of all the gamma-ray bursts with
+known optical redshift agrees quite well with the BATSE based gamma photometric
+redshift distribution.

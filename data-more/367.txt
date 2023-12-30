@@ -1,0 +1,18 @@
+Metal-insulator transition in the low-dimensional organic conductor
+  (TMTSF)2FSO3 probed by infrared microspectroscopy
+  We present measurements of the infrared response of the quasi-one-dimensional
+organic conductor (TMTSF)2$SO3 along (E||a) and perpendicular (E||b') to the
+stacking axis as a function of temperature. Above the metal-insulator
+transition related to the anion ordering the optical conductivity spectra show
+a Drude-like response. Below the transition an energy gap of about 1500 cm-1
+(185 meV) opens, leading to the corresponding charge transfer band in the
+optical conductivity spectra. The analysis of the infrared-active vibrations
+gives evidence for the long-range crystal structure modulation below the
+transition temperature and for the short-range order fluctuations of the
+lattice modulation above the transition temperature. Also we report about a new
+infrared mode at around 710 cm-1 with a peculiar temperature behavior, which
+has so far not been observed in any other (TMTSF)2X salt showing a
+metal-insulator transition. A qualitative model based on the coupling between
+the TMTSF molecule vibration and the reorientation of electrical dipole moment
+of the FSO3 anion is proposed, in order to explain the anomalous behavior of
+the new mode.

@@ -1,0 +1,11 @@
+Invariants of Triangular Lie Algebras
+  Triangular Lie algebras are the Lie algebras which can be faithfully
+represented by triangular matrices of any finite size over the real/complex
+number field. In the paper invariants ('generalized Casimir operators') are
+found for three classes of Lie algebras, namely those which are either strictly
+or non-strictly triangular, and for so-called special upper triangular Lie
+algebras. Algebraic algorithm of [J. Phys. A: Math. Gen., 2006, V.39, 5749;
+math-ph/0602046], developed further in [J. Phys. A: Math. Theor., 2007, V.40,
+113; math-ph/0606045], is used to determine the invariants. A conjecture of [J.
+Phys. A: Math. Gen., 2001, V.34, 9085], concerning the number of independent
+invariants and their form, is corroborated.

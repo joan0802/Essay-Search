@@ -1,0 +1,7 @@
+Strong decays of charmed baryons
+  There has been important experimental progress in the sector of heavy baryons
+in the past several years. We study the strong decays of the S-wave, P-wave,
+D-wave and radially excited charmed baryons using the $^3P_0$ model. After
+comparing the calculated decay pattern and total width with the available data,
+we discuss the possible internal structure and quantum numbers of those charmed
+baryons observed recently.

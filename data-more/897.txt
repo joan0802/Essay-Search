@@ -1,0 +1,5 @@
+Higher spin algebras as higher symmetries
+  The exhaustive study of the rigid symmetries of arbitrary free field theories
+is motivated, along several lines, as a preliminary step in the completion of
+the higher-spin interaction problem in full generality. Some results for the
+simplest example (a scalar field) are reviewed and commented along these lines.

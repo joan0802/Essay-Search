@@ -1,0 +1,12 @@
+On the Nonexistence of Nontrivial Involutive n-Homomorphisms of
+  C*-algebras
+  An n-homomorphism between algebras is a linear map $\phi : A \to B$ such that
+$\phi(a_1 ... a_n) = \phi(a_1)... \phi(a_n)$ for all elements $a_1, >..., a_n
+\in A.$ Every homomorphism is an n-homomorphism, for all n >= 2, but the
+converse is false, in general. Hejazian et al. [7] ask: Is every *-preserving
+n-homomorphism between C*-algebras continuous? We answer their question in the
+affirmative, but the even and odd n arguments are surprisingly disjoint. We
+then use these results to prove stronger ones: If n >2 is even, then $\phi$ is
+just an ordinary *-homomorphism. If n >= 3 is odd, then $\phi$ is a difference
+of two orthogonal *-homomorphisms. Thus, there are no nontrivial *-linear
+n-homomorphisms between C*-algebras.

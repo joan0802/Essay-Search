@@ -1,0 +1,9 @@
+Finite branch solutions to Painleve VI around a fixed singular point
+  Every finite branch solutions to the sixth Painleve equation around a fixed
+singular point is an algebraic branch solution. In particular a global solution
+is an algebraic solution if and only if it is finitely many-valued globally.
+The proof of this result relies on algebraic geometry of Painleve VI,
+Riemann-Hilbert correspondence, geometry and dynamics on cubic surfaces,
+resolutions of Kleinian singularities, and power geometry of algebraic
+differential equations. In the course of the proof we are also able to classify
+all finite branch solutions up to Backlund transformations.

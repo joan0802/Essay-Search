@@ -1,0 +1,15 @@
+Signal for space-time noncommutativity: the Z -> gamma gamma decay in
+  the renormalizable gauge sector of the theta-expanded NCSM
+  We propose the Z -> gamma gamma decay, a process strictly forbidden in the
+standard model, as a signal suitable for the search of noncommutativity of
+coordinates at very short distances. We compute the Z -> gamma gamma partial
+widthin the framework of the recently proposed renormalizable gauge sector of
+the noncommutative standard model. The one-loop renormalizability is obtained
+for the model containing the usual six representations of matter fields of the
+first generation. Even more, the noncommutative part is finite or free of
+divergences, showing that perhaps new interaction symmetry exists in the
+noncommutative gauge sector of the model. Discovery of such symmetry would be
+of tremendous importance in further search for the violation of the Lorentz
+invariance at very high energies. Experimental possibilities of Z -> gamma
+gamma decay are analyzed and a firm bound to the scale of the noncommutativity
+parameter is set around 1 TeV.

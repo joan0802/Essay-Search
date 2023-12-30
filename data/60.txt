@@ -1,0 +1,15 @@
+Intersection Bodies and Generalized Cosine Transforms
+  Intersection bodies represent a remarkable class of geometric objects
+associated with sections of star bodies and invoking
+  Radon transforms, generalized cosine transforms, and the relevant Fourier
+analysis. The main focus of this article is interrelation between generalized
+cosine transforms of different kinds in the context of their application to
+investigation of a certain family of intersection bodies, which we call
+$\lam$-intersection bodies. The latter include $k$-intersection bodies (in the
+sense of A. Koldobsky) and unit balls of finite-dimensional subspaces of
+$L_p$-spaces. In particular, we show that restrictions onto lower dimensional
+subspaces of the spherical Radon transforms and the generalized cosine
+transforms preserve their integral-geometric structure. We apply this result to
+the study of sections of $\lam$-intersection bodies. New characterizations of
+this class of bodies are obtained and examples are given. We also review some
+known facts and give them new proofs.

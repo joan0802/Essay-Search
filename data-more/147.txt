@@ -1,0 +1,22 @@
+Reexamination of spin decoherence in semiconductor quantum dots from
+  equation-of-motion approach
+  The longitudinal and transversal spin decoherence times, $T_1$ and $T_2$, in
+semiconductor quantum dots are investigated from equation-of-motion approach
+for different magnetic fields, quantum dot sizes, and temperatures. Various
+mechanisms, such as the hyperfine interaction with the surrounding nuclei, the
+Dresselhaus spin-orbit coupling together with the electron--bulk-phonon
+interaction, the $g$-factor fluctuations, the direct spin-phonon coupling due
+to the phonon-induced strain, and the coaction of the
+electron--bulk/surface-phonon interaction together with the hyperfine
+interaction are included. The relative contributions from these spin
+decoherence mechanisms are compared in detail. In our calculation, the
+spin-orbit coupling is included in each mechanism and is shown to have marked
+effect in most cases. The equation-of-motion approach is applied in studying
+both the spin relaxation time $T_1$ and the spin dephasing time $T_2$, either
+in Markovian or in non-Markovian limit. When many levels are involved at finite
+temperature, we demonstrate how to obtain the spin relaxation time from the
+Fermi Golden rule in the limit of weak spin-orbit coupling. However, at high
+temperature and/or for large spin-orbit coupling, one has to use the
+equation-of-motion approach when many levels are involved. Moreover, spin
+dephasing can be much more efficient than spin relaxation at high temperature,
+though the two only differs by a factor of two at low temperature.

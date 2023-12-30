@@ -1,0 +1,9 @@
+Non-Equilibrium Josephson and Andreev Current through Interacting
+  Quantum Dots
+  We present a theory of transport through interacting quantum dots coupled to
+normal and superconducting leads in the limit of weak tunnel coupling. A
+Josephson current between two superconducting leads, carried by first-order
+tunnel processes, can be established by non-equilibrium proximity effect. Both
+Andreev and Josephson current is suppressed for bias voltages below a threshold
+set by the Coulomb charging energy. A $\pi$-transition of the supercurrent can
+be driven by tuning gate or bias voltages.

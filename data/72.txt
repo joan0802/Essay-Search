@@ -1,0 +1,8 @@
+A transcendental approach to Koll\'ar's injectivity theorem
+  We treat Koll\'ar's injectivity theorem from the analytic (or differential
+geometric) viewpoint. More precisely, we give a curvature condition which
+implies Koll\'ar type cohomology injectivity theorems. Our main theorem is
+formulated for a compact K\"ahler manifold, but the proof uses the space of
+harmonic forms on a Zariski open set with a suitable complete K\"ahler metric.
+We need neither covering tricks, desingularizations, nor Leray's spectral
+sequence.

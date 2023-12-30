@@ -1,0 +1,12 @@
+Scalar self-force on eccentric geodesics in Schwarzschild spacetime: a
+  time-domain computation
+  We calculate the self-force acting on a particle with scalar charge moving on
+a generic geodesic around a Schwarzschild black hole. This calculation requires
+an accurate computation of the retarded scalar field produced by the moving
+charge; this is done numerically with the help of a fourth-order convergent
+finite-difference scheme formulated in the time domain. The calculation also
+requires a regularization procedure, because the retarded field is singular on
+the particle's world line; this is handled mode-by-mode via the mode-sum
+regularization scheme first introduced by Barack and Ori. This paper presents
+the numerical method, various numerical tests, and a sample of results for
+mildly eccentric orbits as well as ``zoom-whirl'' orbits.

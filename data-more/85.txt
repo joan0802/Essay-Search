@@ -1,0 +1,13 @@
+Clustering in a stochastic model of one-dimensional gas
+  We give a quantitative analysis of clustering in a stochastic model of
+one-dimensional gas. At time zero, the gas consists of $n$ identical particles
+that are randomly distributed on the real line and have zero initial speeds.
+Particles begin to move under the forces of mutual attraction. When particles
+collide, they stick together forming a new particle, called cluster, whose mass
+and speed are defined by the laws of conservation. We are interested in the
+asymptotic behavior of $K_n(t)$ as $n\to \infty$, where $K_n(t)$ denotes the
+number of clusters at time $t$ in the system with $n$ initial particles. Our
+main result is a functional limit theorem for $K_n(t)$. Its proof is based on
+the discovered localization property of the aggregation process, which states
+that the behavior of each particle is essentially defined by the motion of
+neighbor particles.

@@ -1,0 +1,7 @@
+Average optimality for risk-sensitive control with general state space
+  This paper deals with discrete-time Markov control processes on a general
+state space. A long-run risk-sensitive average cost criterion is used as a
+performance measure. The one-step cost function is nonnegative and possibly
+unbounded. Using the vanishing discount factor approach, the optimality
+inequality and an optimal stationary strategy for the decision maker are
+established.

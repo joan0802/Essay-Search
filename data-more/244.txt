@@ -1,0 +1,12 @@
+One-loop MHV Rules and Pure Yang-Mills
+  It has been known for some time that the standard MHV diagram formulation of
+perturbative Yang-Mills theory is incomplete, as it misses rational terms in
+one-loop scattering amplitudes of pure Yang-Mills. We propose that certain
+Lorentz violating counterterms, when expressed in the field variables which
+give rise to standard MHV vertices, produce precisely these missing terms.
+These counterterms appear when Yang-Mills is treated with a regulator,
+introduced by Thorn and collaborators, which arises in worldsheet formulations
+of Yang-Mills theory in the lightcone gauge. As an illustration of our
+proposal, we show that a simple one-loop, two-point counterterm is the
+generating function for the infinite sequence of one-loop, all-plus helicity
+amplitudes in pure Yang-Mills, in complete agreement with known expressions.

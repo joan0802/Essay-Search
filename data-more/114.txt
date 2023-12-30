@@ -1,0 +1,5 @@
+Smooth maps with singularities of bounded K-codimensions
+  We will prove the relative homotopy principle for smooth maps with
+singularities of a given {\cal K}-invariant class with a mild condition. We
+next study a filtration of the group of homotopy self-equivalences of a given
+manifold P by considering singularities of non-negative {\cal K}-codimensions.

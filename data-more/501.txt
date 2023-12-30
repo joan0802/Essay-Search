@@ -1,0 +1,9 @@
+Generic representations of orthogonal groups: projective functors in the
+  category Fquad
+  In this paper, we continue the study of the category of functors Fquad,
+associated to F_2-vector spaces equipped with a nondegenerate quadratic form,
+initiated in two previous papers of the author. We define a filtration of the
+standard projective objects in Fquad; this refines to give a decomposition into
+indecomposable factors of the two first standard projective objects in Fquad.
+As an application of these two decompositions, we give a complete description
+of the polynomial functors of the category Fquad.

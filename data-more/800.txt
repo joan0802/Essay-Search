@@ -1,0 +1,7 @@
+Fundamental solutions for a class of non-elliptic homogeneous
+  differential operators
+  We compute temperate fundamental solutions of homogeneous differential
+operators with real-principal type symbols. Via analytic continuation of
+meromorphic distributions, fundamental solutions for these non-elliptic
+operators can be constructed in terms of radial averages and invariant
+distributions on the unit sphere.

@@ -1,0 +1,3 @@
+Proper J-holomorphic discs in Stein domains of dimension 2
+  We prove the existence of global Bishop discs in a strictly pseudoconvex
+Stein domain in an almost complex manifold of complex dimension 2.

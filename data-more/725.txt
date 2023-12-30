@@ -1,0 +1,10 @@
+Long-range correlation and multifractality in Bach's Inventions pitches
+  We show that it can be considered some of Bach pitches series as a stochastic
+process with scaling behavior. Using multifractal deterend fluctuation analysis
+(MF-DFA) method, frequency series of Bach pitches have been analyzed. In this
+view we find same second moment exponents (after double profiling) in ranges
+(1.7-1.8) in his works. Comparing MF-DFA results of original series to those
+for shuffled and surrogate series we can distinguish multifractality due to
+long-range correlations and a broad probability density function. Finally we
+determine the scaling exponents and singularity spectrum. We conclude fat tail
+has more effect in its multifractality nature than long-range correlations.

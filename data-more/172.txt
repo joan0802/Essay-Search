@@ -1,0 +1,4 @@
+Bonding of H in O vacancies of ZnO
+  We investigate the bonding of H in O vacancies of ZnO using density
+functional calculations. We find that H is anionic and does not form
+multicenter bonds with Zn in this compound.

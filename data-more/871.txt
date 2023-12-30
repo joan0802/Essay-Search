@@ -1,0 +1,7 @@
+Spectral perturbation bounds for selfadjoint operators
+  We give general spectral and eigenvalue perturbation bounds for a selfadjoint
+operator perturbed in the sense of the pseudo-Friedrichs extension. We also
+give several generalisations of the aforementioned extension. The spectral
+bounds for finite eigenvalues are obtained by using analyticity and
+monotonicity properties (rather than variational principles) and they are
+general enough to include eigenvalues in gaps of the essential spectrum.

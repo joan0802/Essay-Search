@@ -1,0 +1,8 @@
+A Survey of Huebschmann and Stasheff's Paper: Formal Solution of the
+  Master Equation via HPT and Deformation Theory
+  These notes, based on the paper "Formal Solution of the Master Equation via
+HPT and Deformation Theory" by Huebschmann and Stasheff, were prepared for a
+series of talks at Illinois State University with the intention of applying
+Homological Perturbation Theory to the derived bracket constructions of
+Kosmann-Schwarzbach and T. Voronov, and eventually writing Part II of the paper
+"Higher Derived Brackets and Deformation Theory I" by the present authors.

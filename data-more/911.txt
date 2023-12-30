@@ -1,0 +1,14 @@
+Nuclear Spin Effects in Optical Lattice Clocks
+  We present a detailed experimental and theoretical study of the effect of
+nuclear spin on the performance of optical lattice clocks. With a state-mixing
+theory including spin-orbit and hyperfine interactions, we describe the origin
+of the $^1S_0$-$^3P_0$ clock transition and the differential g-factor between
+the two clock states for alkaline-earth(-like) atoms, using $^{87}$Sr as an
+example. Clock frequency shifts due to magnetic and optical fields are
+discussed with an emphasis on those relating to nuclear structure. An
+experimental determination of the differential g-factor in $^{87}$Sr is
+performed and is in good agreement with theory. The magnitude of the tensor
+light shift on the clock states is also explored experimentally. State specific
+measurements with controlled nuclear spin polarization are discussed as a
+method to reduce the nuclear spin-related systematic effects to below
+10$^{-17}$ in lattice clocks.

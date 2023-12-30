@@ -1,0 +1,17 @@
+On the potential of transit surveys in star clusters: Impact of
+  correlated noise and radial velocity follow-up
+  We present an extension of the formalism recently proposed by Pepper & Gaudi
+to evaluate the yield of transit surveys in homogeneous stellar systems,
+incorporating the impact of correlated noise on transit time-scales on the
+detectability of transits, and simultaneously incorporating the magnitude
+limits imposed by the need for radial velocity follow-up of transit candidates.
+New expressions are derived for the different contributions to the noise budget
+on transit time-scales and the least-squares detection statistic for box-shaped
+transits, and their behaviour as a function of stellar mass is re-examined.
+Correlated noise that is constant with apparent stellar magnitude implies a
+steep decrease in detection probability at the high mass end which, when
+considered jointly with the radial velocity requirements, can severely limit
+the potential of otherwise promising surveys in star clusters. However, we find
+that small-aperture, wide field surveys may detect hot Neptunes whose radial
+velocity signal can be measured with present-day instrumentation in very nearby
+(<100 pc) clusters.

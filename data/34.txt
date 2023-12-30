@@ -1,0 +1,11 @@
+Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy
+  We propose an extrapolation technique that allows accuracy improvement of the
+discrete dipole approximation computations. The performance of this technique
+was studied empirically based on extensive simulations for 5 test cases using
+many different discretizations. The quality of the extrapolation improves with
+refining discretization reaching extraordinary performance especially for
+cubically shaped particles. A two order of magnitude decrease of error was
+demonstrated. We also propose estimates of the extrapolation error, which were
+proven to be reliable. Finally we propose a simple method to directly separate
+shape and discretization errors and illustrated this for one test case.

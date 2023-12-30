@@ -1,0 +1,11 @@
+Approaching the Heisenberg limit in an atom laser
+  We present experimental and theoretical results showing the improved beam
+quality and reduced divergence of an atom laser produced by an optical Raman
+transition, compared to one produced by an RF transition. We show that Raman
+outcoupling can eliminate the diverging lens effect that the condensate has on
+the outcoupled atoms. This substantially improves the beam quality of the atom
+laser, and the improvement may be greater than a factor of ten for experiments
+with tight trapping potentials. We show that Raman outcoupling can produce atom
+lasers whose quality is only limited by the wavefunction shape of the
+condensate that produces them, typically a factor of 1.3 above the Heisenberg
+limit.

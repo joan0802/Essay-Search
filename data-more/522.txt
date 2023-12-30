@@ -1,0 +1,11 @@
+Quantum superpositions and entanglement of thermal states at high
+  temperatures and their applications to quantum information processing
+  We study characteristics of superpositions and entanglement of thermal states
+at high temperatures and discuss their applications to quantum information
+processing. We introduce thermal-state qubits and thermal-Bell states, which
+are a generalization of pure-state qubits and Bell states to thermal mixtures.
+A scheme is then presented to discriminate between the four thermal-Bell states
+without photon number resolving detection but with Kerr nonlinear interactions
+and two single-photon detectors. This enables one to perform quantum
+teleportation and gate operations for quantum computation with thermal-state
+qubits.

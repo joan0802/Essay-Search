@@ -1,0 +1,8 @@
+Power Spectra to 1% Accuracy between Dynamical Dark Energy Cosmologies
+  For dynamical dark energy cosmologies we carry out a series of N-body
+gravitational simulations, achieving percent level accuracy in the relative
+mass power spectra at any redshift. Such accuracy in the power spectrum is
+necessary for next generation cosmological mass probes. Our matching procedure
+reproduces the CMB distance to last scattering and delivers subpercent level
+power spectra at z=0 and z~3. We discuss the physical implications for probing
+dark energy with surveys of large scale structure.

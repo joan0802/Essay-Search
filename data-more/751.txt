@@ -1,0 +1,7 @@
+Actions for the Bosonic String with the Curved Worldsheet
+  At first we introduce an action for the string, which leads to a worldsheet
+that always is curved. For this action we study the Poincar\'e symmetry and the
+associated conserved currents. Then, a generalization of the above action,
+which contains an arbitrary function of the two-dimensional scalar curvature,
+will be introduced. An extra scalar field enables us to modify these actions to
+Weyl invariant models.

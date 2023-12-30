@@ -1,0 +1,8 @@
+The few scales of nuclei and nuclear matter
+  The well-known correlations of low-energy three and four-nucleon observables
+with a typical three-nucleon scale (e.g., the Tjon line) is extended to light
+nuclei and nuclear matter. Evidence for the scaling between light nuclei
+binding energies and the triton one are pointed out. We argue that the
+saturation energy and density of nuclear matter are correlated to the triton
+binding energy. The available systematic nuclear matter calculations indicate a
+possible band structure representing these correlations.

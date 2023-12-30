@@ -1,0 +1,12 @@
+Magnetohydrodynamic Rebound Shocks of Supernovae
+  We construct magnetohydrodynamic (MHD) similarity rebound shocks joining
+`quasi-static' asymptotic solutions around the central degenerate core to
+explore an MHD model for the evolution of random magnetic field in supernova
+explosions. This provides a theoretical basis for further studying synchrotron
+diagnostics, MHD shock acceleration of cosmic rays, and the nature of intense
+magnetic field in compact objects. The magnetic field strength in space
+approaches a limiting ratio, that is comparable to the ratio of the ejecta mass
+driven out versus the progenitor mass, during this self-similar rebound MHD
+shock evolution. The intense magnetic field of the remnant compact star as
+compared to that of the progenitor star is mainly attributed to both the
+gravitational core collapse and the radial distribution of magnetic field.

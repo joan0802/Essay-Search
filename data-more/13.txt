@@ -1,0 +1,4 @@
+Iterated integral and the loop product
+  In this article we discuss a relation between the string topology and
+differential forms based on the theory of Chen's iterated integrals and the
+cyclic bar complex.

@@ -1,0 +1,4 @@
+Conformal Field Theory and Operator Algebras
+  We review recent progress in operator algebraic approach to conformal quantum
+field theory. Our emphasis is on use of representation theory in classification
+theory. This is based on a series of joint works with R. Longo.

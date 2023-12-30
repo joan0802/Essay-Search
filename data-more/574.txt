@@ -1,0 +1,4 @@
+A non-perturbative proof of Bertrand's theorem
+  We discuss an alternative non-perturbative proof of Bertrand's theorem that
+leads in a concise way directly to the two allowed fields: the newtonian and
+the isotropic harmonic oscillator central fields.

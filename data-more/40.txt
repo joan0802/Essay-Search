@@ -1,0 +1,17 @@
+Quantum Group of Isometries in Classical and Noncommutative Geometry
+  We formulate a quantum generalization of the notion of the group of
+Riemannian isometries for a compact Riemannian manifold, by introducing a
+natural notion of smooth and isometric action by a compact quantum group on a
+classical or noncommutative manifold described by spectral triples, and then
+proving the existence of a universal object (called the quantum isometry group)
+in the category of compact quantum groups acting smoothly and isometrically on
+a given (possibly noncommutative) manifold satisfying certain regularity
+assumptions. In fact, we identify the quantum isometry group with the universal
+object in a bigger category, namely the category of `quantum families of smooth
+isometries', defined along the line of Woronowicz and Soltan. We also construct
+a spectral triple on the Hilbert space of forms on a noncommutative manifold
+which is equivariant with respect to a natural unitary representation of the
+quantum isometry group. We give explicit description of quantum isometry groups
+of commutative and noncommutative tori, and in this context, obtain the quantum
+double torus defined in \cite{hajac} as the universal quantum group of
+holomorphic isometries of the noncommutative torus.

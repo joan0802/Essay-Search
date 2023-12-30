@@ -1,0 +1,8 @@
+Direct photons and dileptons via color dipoles
+  Drell-Yan dilepton pair production and inclusive direct photon production can
+be described within a unified framework in the color dipole approach. The
+inclusion of non-perturbative primordial transverse momenta and DGLAP evolution
+is studied. We successfully describe data for dilepton spectra from 800-GeV pp
+collisions, inclusive direct photon spectra for pp collisions at RHIC energies
+$\sqrt{s}=200$ GeV, and for $p\bar{p}$ collisions at Tevatron energies
+$\sqrt{s}=1.8$ TeV, in a formalism that is free from any extra parameters.

@@ -1,0 +1,6 @@
+Very strong and slowly varying magnetic fields as source of axions
+  The investigation on the production of particles in slowly varying but
+extremely intense magnetic field in extended to the case of axions. The
+motivation is, as for some previously considered cases, the possibility that
+such kind of magnetic field may exist around very compact astrophysical
+objects.

@@ -1,0 +1,12 @@
+Orbifold cohomology of abelian symplectic reductions and the case of
+  weighted projective spaces
+  These notes accompany a lecture about the topology of symplectic (and other)
+quotients. The aim is two-fold: first to advertise the ease of computation in
+the symplectic category; and second to give an account of some new computations
+for weighted projective spaces. We start with a brief exposition of how
+orbifolds arise in the symplectic category, and discuss the techniques used to
+understand their topology. We then show how these results can be used to
+compute the Chen-Ruan orbifold cohomology ring of abelian symplectic
+reductions. We conclude by comparing the several rings associated to a weighted
+projective space. We make these computations directly, avoiding any mention of
+a stacky fan or of a labeled moment polytope.

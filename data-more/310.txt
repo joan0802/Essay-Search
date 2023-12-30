@@ -1,0 +1,12 @@
+Moment switching in nanotube magnetic force probes
+  A recent advance in improving the spatial resolution of magnetic force
+microscopy (MFM) uses as sensor tips carbon nanotubes grown at the apex of
+conventional silicon cantilever pyramids and coated with a thin ferromagnetic
+layer. Magnetic images of high density vertically recorded media using these
+tips exhibit a doubling of the spatial frequency under some conditions. Here we
+demonstrate that this spatial frequency doubling is due to the switching of the
+moment direction of the nanotube tip. This results in a signal which is
+proportional to the absolute value of the signal normally observed in MFM. Our
+modeling indicates that a significant fraction of the tip volume is involved in
+the observed switching, and that it should be possible to image very high bit
+densities with nanotube magnetic force sensors.

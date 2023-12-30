@@ -1,0 +1,5 @@
+Moduli spaces of rational tropical curves
+  This note is devoted to the definition of moduli spaces of rational tropical
+curves with n marked points. We show that this space has a structure of a
+smooth tropical variety of dimension n-3. We define the Deligne-Mumford
+compactification of this space and tropical $\psi$-class divisors.

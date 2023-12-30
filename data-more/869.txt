@@ -1,0 +1,8 @@
+Proposal for an Enhanced Optical Cooling System Test in an Electron
+  Storage Ring
+  We are proposing to test experimentally the new idea of Enhanced Optical
+Cooling (EOC) in an electron storage ring. This experiment will confirm new
+fundamental processes in beam physics and will demonstrate new unique
+possibilities with this cooling technique. It will open important applications
+of EOC in nuclear physics, elementary particle physics and in Light Sources
+(LS) based on high brightness electron and ion beams.

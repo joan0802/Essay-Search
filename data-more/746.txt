@@ -1,0 +1,3 @@
+A note on higher-order differential operations
+  In this paper we consider successive iterations of the first-order
+differential operations in space ${\bf R}^3.$

@@ -1,0 +1,10 @@
+Coherent macroscopic quantum tunneling in boson-fermion mixtures
+  We show that the cold atom systems of simultaneously trapped Bose-Einstein
+condensates (BEC's) and quantum degenerate fermionic atoms provide promising
+laboratories for the study of macroscopic quantum tunneling. Our theoretical
+studies reveal that the spatial extent of a small trapped BEC immersed in a
+Fermi sea can tunnel and coherently oscillate between the values of the
+separated and mixed configurations (the phases of the phase separation
+transition of BEC-fermion systems). We evaluate the period, amplitude and
+dissipation rate for $^{23}$Na and $^{40}$K-atoms and we discuss the
+experimental prospects for observing this phenomenon.

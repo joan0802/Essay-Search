@@ -1,0 +1,12 @@
+Crystal channeling of LHC forward protons with preserved distribution in
+  phase space
+  We show that crystal can trap a broad (x, x', y, y', E) distribution of
+particles and channel it preserved with a high precision. This sampled-and-hold
+distribution can be steered by a bent crystal for analysis downstream. In
+simulations for the 7 TeV Large Hadron Collider, a crystal adapted to the
+accelerator lattice traps 90% of diffractively scattered protons emerging from
+the interaction point with a divergence 100 times the critical angle. We set
+the criterion for crystal adaptation improving efficiency ~100-fold. Proton
+angles are preserved in crystal transmission with accuracy down to 0.1
+microrad. This makes feasible a crystal application for measuring very forward
+protons at the LHC.

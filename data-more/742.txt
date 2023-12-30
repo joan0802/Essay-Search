@@ -1,0 +1,9 @@
+Diatomic molecule as a quantum entanglement switch
+  We investigate a pair entanglement of electrons in diatomic molecule, modeled
+as a correlated double quantum dot attached to the leads. The low-temperature
+properties are derived from the ground state obtained by utilizing the
+Rejec-Ramsak variational technique within the framework of EDABI method, which
+combines exact diagonalization with ab initio calculations. The results show,
+that single-particle basis renormalization modifies the entanglement-switch
+effectiveness significantly. We also found the entanglement signature of a
+competition between an extended Kondo and singlet phases.

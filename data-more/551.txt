@@ -1,0 +1,7 @@
+The Expanding Photosphere Method: Progress and Problems
+  Distances to well-observed Type II-P SNe are determined from an updated
+version of the Expanding Photosphere Method (EPM), based on recent theoretical
+models. The new EPM distances show good agreement with other independent
+distances to the host galaxies without any significant systematic bias,
+contrary to earlier results in the literature. The accuracy of the method is
+comparable with that of the distance measurements for Type Ia SNe.

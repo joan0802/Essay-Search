@@ -1,0 +1,11 @@
+Charges from Attractors
+  We describe how to recover the quantum numbers of extremal black holes from
+their near horizon geometries. This is achieved by constructing the
+gravitational Noether-Wald charges which can be used for non-extremal black
+holes as well. These charges are shown to be equivalent to the U(1) charges of
+appropriately dimensionally reduced solutions. Explicit derivations are
+provided for 10 dimensional type IIB supergravity and 5 dimensional minimal
+gauged supergravity, with illustrative examples for various black hole
+solutions. We also discuss how to derive the thermodynamic quantities and their
+relations explicitly in the extremal limit, from the point of view of the
+near-horizon geometry. We relate our results to the entropy function formalism.

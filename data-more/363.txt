@@ -1,0 +1,6 @@
+B --> rho K* decays and other rare vector-vector modes
+  The recent analyses of the following rare vector-vector decays of the B meson
+are presented: rho K*, omega K*, omega rho, omega omega, and omega phi
+charmless final states. The latest results indicate that the fraction of
+longitudinal polarization is about 0.5 in penguin-dominated modes and close to
+1 for tree-dominated modes.

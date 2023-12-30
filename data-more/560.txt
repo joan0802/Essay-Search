@@ -1,0 +1,10 @@
+Confinement into a state with persistent current by thermal quenching of
+  loop of Josephson junctions
+  We study a loop of Josephson junctions that is quenched through its critical
+temperature. For three or more junctions, symmetry breaking states can be
+achieved without thermal activation, in spite of the fact that the relaxation
+time is practically constant when the critical temperature is approached from
+above. The probability for these states decreases with quenching time, but the
+dependence is not allometric. For large number of junctions, cooling does not
+have to be fast. For this case, we evaluate the standard deviation of the
+induced flux. Our results are consistent with the available experimental data.

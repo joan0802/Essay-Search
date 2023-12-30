@@ -1,0 +1,15 @@
+Higher ramification and varieties of secant divisors on the generic
+  curve
+  For a smooth projective curve, the cycles of e-secant k-planes are among the
+most studied objects in classical enumerative geometry and there are well-known
+formulas due to Castelnuovo, Cayley and MacDonald concerning them. Despite
+various attempts, surprisingly little is known about the enumerative validity
+of such formulas. The aim of this paper is to completely clarify this problem
+in the case of the generic curve C of given genus. Using degeneration
+techniques and a few facts about the birational geometry of moduli spaces of
+stable pointed curves we determine precisely under which conditions the cycle
+of e-secant k-planes in non-empty and we compute its dimension. We also
+precisely determine the dimension of the variety of linear series on C carrying
+e-secant k-planes. In a different direction, in the last part of the paper we
+study the distribution of ramification points of the powers of a line bundle on
+C having prescribed ramification at a given point.

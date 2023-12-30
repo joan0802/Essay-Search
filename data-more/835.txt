@@ -1,0 +1,11 @@
+A matroid-friendly basis for the quasisymmetric functions
+  A new Z-basis for the space of quasisymmetric functions (QSym, for short) is
+presented. It is shown to have nonnegative structure constants, and several
+interesting properties relative to the space of quasisymmetric functions
+associated to matroids by the Hopf algebra morphism (F) of Billera, Jia, and
+Reiner. In particular, for loopless matroids, this basis reflects the grading
+by matroid rank, as well as by the size of the ground set. It is shown that the
+morphism F is injective on the set of rank two matroids, and that
+decomposability of the quasisymmetric function of a rank two matroid mirrors
+the decomposability of its base polytope. An affirmative answer is given to the
+Hilbert basis question raised by Billera, Jia, and Reiner.

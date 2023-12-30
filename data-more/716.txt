@@ -1,0 +1,10 @@
+Incommmensurability and unconventional superconductor to insulator
+  transition in the Hubbard model with bond-charge interaction
+  We determine the quantum phase diagram of the one-dimensional Hubbard model
+with bond-charge interaction X in addition to the usual Coulomb repulsion U at
+half-filling. For large enough X and positive U the model shows three phases.
+For large U the system is in the spin-density wave phase already known in the
+usual Hubbard model. As U decreases, there is first a spin transition to a
+spontaneously dimerized bond-ordered wave phase and then a charge transition to
+a novel phase in which the dominant correlations at large distances correspond
+to an incommensurate singlet superconductor.

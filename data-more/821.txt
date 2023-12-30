@@ -1,0 +1,13 @@
+Braided quantum field theories and their symmetries
+  Braided quantum field theories proposed by Oeckl can provide a framework for
+defining quantum field theories having Hopf algebra symmetries. In quantum
+field theories, symmetries lead to non-perturbative relations among correlation
+functions. We discuss Hopf algebra symmetries and such relations in braided
+quantum field theories. We give the four algebraic conditions between Hopf
+algebra symmetries and braided quantum field theories, which are required for
+the relations to hold. As concrete examples, we apply our discussions to the
+Poincare symmetries of two examples of noncommutative field theories. One is
+the effective quantum field theory of three-dimensional quantum gravity coupled
+with spinless particles given by Freidel and Livine, and the other is
+noncommutative field theory on Moyal plane. We also comment on quantum field
+theory on kappa-Minkowski spacetime.

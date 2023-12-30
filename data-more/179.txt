@@ -1,0 +1,7 @@
+Neutron Skin and Giant Resonances in Nuclei
+  Some aspects, both experimental and theoretical, of extracting the neutron
+skin $\Delta R$ from properties of isovector giant resonances are discussed.
+Existing proposals are critically reviewed. The method relying on the energy
+difference between the GTR and IAS is shown to lack sensitivity to $\Delta R$.
+A simple explanation of the linear relation between the symmetry energy and the
+neutron skin is also given.

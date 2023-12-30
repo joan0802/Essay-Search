@@ -1,0 +1,7 @@
+Computing genus 2 Hilbert-Siegel modular forms over $\Q(\sqrt{5})$ via
+  the Jacquet-Langlands correspondence
+  In this paper we present an algorithm for computing Hecke eigensystems of
+Hilbert-Siegel cusp forms over real quadratic fields of narrow class number
+one. We give some illustrative examples using the quadratic field
+$\Q(\sqrt{5})$. In those examples, we identify Hilbert-Siegel eigenforms that
+are possible lifts from Hilbert eigenforms.

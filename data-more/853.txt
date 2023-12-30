@@ -1,0 +1,9 @@
+Polarization properties of subwavelength hole arrays consisting of
+  rectangular holes
+  Influence of hole shape on extraordinary optical transmission was
+investigated using hole arrays consisting of rectangular holes with different
+aspect ratio. It was found that the transmission could be tuned continuously by
+rotating the hole array. Further more, a phase was generated in this process,
+and linear polarization states could be changed to elliptical polarization
+states. This phase was correlated with the aspect ratio of the holes. An
+intuitional model was presented to explain these results.

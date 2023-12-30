@@ -1,0 +1,11 @@
+Quark-Antiquark and Diquark Condensates in Vacuum in a 3D Two-Flavor
+  Gross-Neveu Model
+  The effective potential analysis indicates that, in a 3D two-flavor
+Gross-Neveu model in vacuum, depending on less or bigger than the critical
+value 2/3 of $G_S/H_P$, where $G_S$ and $H_P$ are respectively the coupling
+constants of scalar quark-antiquark channel and pseudoscalar diquark channel,
+the system will have the ground state with pure diquark condensates or with
+pure quark-antiquark condensates, but no the one with coexistence of the two
+forms of condensates. The similarities and differences in the interplay between
+the quark-antiquark and the diquark condensates in vacuum in the 2D, 3D and 4D
+two-flavor four-fermion interaction models are summarized.

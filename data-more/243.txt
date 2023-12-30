@@ -1,0 +1,9 @@
+Comparison of exact-exchange calculations for solids in
+  current-spin-density- and spin-density-functional theory
+  The relative merits of current-spin-density- and spin-density-functional
+theory are investigated for solids treated within the exact-exchange-only
+approximation. Spin-orbit splittings and orbital magnetic moments are
+determined at zero external magnetic field. We find that for magnetic (Fe, Co
+and Ni) and non-magnetic (Si and Ge) solids, the exact-exchange
+current-spin-density functional approach does not significantly improve the
+accuracy of the corresponding spin-density functional results.
