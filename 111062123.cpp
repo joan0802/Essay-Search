@@ -8,44 +8,86 @@
 #include <filesystem>
 #include <unordered_set>
 
+#include <chrono>
+
 using namespace std;
 namespace fs = std::filesystem;
 
+bool cmp(const string& a, const string& b) {
+    int numA = stoi(fs::path(a).stem().string()); 
+    int numB = stoi(fs::path(b).stem().string());
+    return numA < numB;
+}
+
 class TrieNode {
-	public:
-		TrieNode* child[26];
-		bool terminate;
-		TrieNode() {
-			for(int i = 0; i < 26; i++) {
-				child[i] = NULL;
-			}
-			terminate = false;
-		}
+public:
+    TrieNode* child[26];
+    bool terminate;
+    vector<string> suffix;
+
+    TrieNode() {
+        for (int i = 0; i < 26; i++) {
+            child[i] = NULL;
+        }
+        terminate = false;
+    }
 };
 
 class Trie {
 public:
     TrieNode* root;
+
     Trie() {
         root = new TrieNode();
     }
+
     void insert(string word) {
         TrieNode* p = root;
-        for(auto c: word) {
+        for (auto c : word) {
             int index = 0;
-			if(c >= 'A' && c <= 'Z')
-				index = c-'A';
-			else if(c >= 'a' && c <= 'z')
-				index = c-'a';
-            if(p->child[index] == NULL)
+            if (c >= 'A' && c <= 'Z')
+                index = c - 'A';
+            else if (c >= 'a' && c <= 'z')
+                index = c - 'a';
+
+            if (p->child[index] == NULL)
                 p->child[index] = new TrieNode();
             p = p->child[index];
         }
         p->terminate = true;
+        p->suffix.emplace_back(word);
     }
-    bool search(string word, bool prefix = false) {
-        TrieNode* p = root;
-        for(auto c: word) {
+
+    bool SuffixSearch(TrieNode* node, string word, bool prefix = false) {
+        for (auto c : word) {
+            if (c == '*') {
+                if (node != nullptr) {
+                    for (auto suffix : node->suffix) {
+                        if (SuffixSearch(node, suffix, false)) {
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
+            int index = 0;
+            if (c >= 'A' && c <= 'Z')
+                index = c - 'A';
+            else if (c >= 'a' && c <= 'z')
+                index = c - 'a';
+
+            if (node->child[index] == NULL)
+                return false;
+
+            node = node->child[index];
+        }
+
+        return prefix ? true : node->terminate;
+    }
+
+	bool search(string word, bool prefix = false) {
+		TrieNode* p = root;
+		for(auto c: word) {
 			if(isalpha(c)) {
 				int index = 0;
 				if(c >= 'A' && c <= 'Z')
@@ -56,14 +98,16 @@ public:
 					return false;
 				p = p->child[index];
 			}
-        }
-        if(prefix == false) return p->terminate;
-        return true;
+		}
+		if(prefix == false) return p->terminate;
+		return true;
     }
+
     bool startsWith(string prefix) {
         return search(prefix, true);
     }
 };
+
 
 /*
 	Exact word : "..."
@@ -82,7 +126,7 @@ vector<string> word_parse(vector<string> tmp_string){
 		string new_str;
     	for(auto &ch : word){
 			if(isalpha(ch))
-				new_str.push_back(ch);
+				new_str += ch;
 		}
 		parse_string.emplace_back(new_str);
 	}
@@ -119,6 +163,8 @@ int checkType(string s) {
 	else if(s[0] == '<' && s[s.size()-1] == '>') {
 		return 3; // wildcard search
 	}
+	else if(s == "/" || s == "-" || s == "+") // operator
+		return 4;
 	else {
 		return 1; // prefix
 	}
@@ -131,6 +177,7 @@ int main(int argc, char *argv[]) {
 	// 1. data directory in data folder
 	// 2. number of txt files
 	// 3. output route
+	auto start_time = std::chrono::high_resolution_clock::now();
 
     string data_dir = argv[1] + string("/");
 	string query = string(argv[2]);
@@ -154,11 +201,13 @@ int main(int argc, char *argv[]) {
 	/*
 		create trie of every data
 	*/
+	vector<string> file_paths;
 	for (const auto& entry : fs::directory_iterator(data_dir)) {
-		// entry.path() get the file path
-		string file_path = entry.path().string();
+		file_paths.push_back(entry.path().string());
+	}
+	std::sort(file_paths.begin(), file_paths.end(), cmp);
+	for (auto file_path : file_paths) {
 
-		// open the file
 		ifstream inputFile(file_path);
 		getline(inputFile, title_name);
 		
@@ -193,22 +242,35 @@ int main(int argc, char *argv[]) {
 					if(data.second->startsWith(it_query))
 						ans_title.insert(data.first);
 				}
-				// else if(type == SUFFIX) {
+				else if(type == SUFFIX) {
+					if(data.second->SuffixSearch(data.second->root, it_query))
+						ans_title.insert(data.first);
+				}
+				else if(type == WILDCARD) {
 
-				// }
-				// else if(type == WILDCARD) {
+				}
+				else { // operator
 
-				// }
+				}
 			}
 		}
-		for(auto it : ans_title) {
-			outputFile << it << "\n";	
+		if(ans_title.empty()) {
+			outputFile << "Not Found!\n";
 		}
+		else {
+			for(auto it : ans_title) {
+				outputFile << it << "\n";
+			}
+		}
+		ans_title.clear();
 		// for debug
 		outputFile << n++ <<"\n";
 	}
 	fi.close();
 	outputFile.close();
+	auto end_time = std::chrono::high_resolution_clock::now();
+	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end_time - start_time);
+	std::cout << "程式執行時間: " << duration.count()/1000 << " ms" << std::endl;
 }
 
 
