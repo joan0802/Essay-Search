@@ -1,66 +1,56 @@
 Bosonic characters of atomic Cooper pairs across resonance
-0
-Filling-Factor-Dependent Magnetophonon Resonance in Graphene
-Crystal channeling of LHC forward protons with preserved distribution in
-Origin of adaptive mutants: a quantum measurement?
-Spectroscopic Observations of the Intermediate Polar EX Hydrae in
-Coulomb excitation of unstable nuclei at intermediate energies
-General System theory, Like-Quantum Semantics and Fuzzy Sets
-Operator algebras associated with unitary commutation relations
-ALMA as the ideal probe of the solar chromosphere
-Scalar radius of the pion and zeros in the form factor
+1
+On Ando's inequalities for convex and concave functions
+Shaping the Globular Cluster Mass Function by Stellar-Dynamical
+Some new experimental photonic flame effect features
+Timing and Lensing of the Colliding Bullet Clusters: barely enough time
+From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$
+The discrete dipole approximation for simulation of light scattering by
+Probing non-standard neutrino interactions with supernova neutrinos
+Nilpotent symmetry invariance in the superfield formulation: the
+The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
+Formation of density singularities in ideal hydrodynamics of freely
+Tuning correlation effects with electron-phonon interactions
+The evolution of the Earth-Moon system based on the dark matter field
 Approximate solutions to the Dirichlet problem for harmonic maps between
 An algorithm for the classification of smooth Fano polytopes
+ALMA as the ideal probe of the solar chromosphere
+Scalar radius of the pion and zeros in the form factor
 The Mass and Radius of the Unseen M-Dwarf Companion in the Single-Lined
-Probing non-standard neutrino interactions with supernova neutrinos
-Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays
-Convergence of the discrete dipole approximation. II. An extrapolation
-Sparsity-certifying Graph Decompositions
-Distribution of integral Fourier Coefficients of a Modular Form of Half
-Placeholder Substructures II: Meta-Fractals, Made of Box-Kites, Fill
-Nilpotent symmetry invariance in the superfield formulation: the
-The evolution of the Earth-Moon system based on the dark matter field
-Tuning correlation effects with electron-phonon interactions
-Formation of density singularities in ideal hydrodynamics of freely
-The Spitzer c2d Survey of Large, Nearby, Insterstellar Clouds. IX. The
-The discrete dipole approximation for simulation of light scattering by
-From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$
-Bosonic characters of atomic Cooper pairs across resonance
-Potassium intercalation in graphite: A van der Waals density-functional
+The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
 A remark on the number of steady states in a multiple futile cycle
-The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
-Timing and Lensing of the Colliding Bullet Clusters: barely enough time
-Some new experimental photonic flame effect features
-Shaping the Globular Cluster Mass Function by Stellar-Dynamical
-Nonequilibrium entropy limiters in lattice Boltzmann methods
-A Note About the {Ki(z)} Functions
-Partial cubes: structures, characterizations, and constructions
-On Ando's inequalities for convex and concave functions
-1
-The decomposition method and Maple procedure for finding first integrals
-The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
-Partial cubes: structures, characterizations, and constructions
-Sparsity-certifying Graph Decompositions
-2
-The decomposition method and Maple procedure for finding first integrals
-The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
-Partial cubes: structures, characterizations, and constructions
-Sparsity-certifying Graph Decompositions
-Filling-Factor-Dependent Magnetophonon Resonance in Graphene
 Potassium intercalation in graphite: A van der Waals density-functional
-Visualizing Teleportation
-Operator algebras associated with unitary commutation relations
-3
-Not Found!
-4
-Convergence of the discrete dipole approximation. II. An extrapolation
-Convergence of the discrete dipole approximation. I. Theoretical
-The discrete dipole approximation: an overview and recent developments
-5
+Bosonic characters of atomic Cooper pairs across resonance
 General System theory, Like-Quantum Semantics and Fuzzy Sets
-Partial cubes: structures, characterizations, and constructions
+Operator algebras associated with unitary commutation relations
+Distribution of integral Fourier Coefficients of a Modular Form of Half
+Convergence of the discrete dipole approximation. II. An extrapolation
+Measurement of the Hadronic Form Factor in D0 --> K- e+ nue Decays
 Sparsity-certifying Graph Decompositions
+Coulomb excitation of unstable nuclei at intermediate energies
+Spectroscopic Observations of the Intermediate Polar EX Hydrae in
+Placeholder Substructures II: Meta-Fractals, Made of Box-Kites, Fill
+Crystal channeling of LHC forward protons with preserved distribution in
+Filling-Factor-Dependent Magnetophonon Resonance in Graphene
+Origin of adaptive mutants: a quantum measurement?
+A Note About the {Ki(z)} Functions
+Nonequilibrium entropy limiters in lattice Boltzmann methods
+Partial cubes: structures, characterizations, and constructions
+2
+Sparsity-certifying Graph Decompositions
+3
+Visualizing Teleportation
+Potassium intercalation in graphite: A van der Waals density-functional
+Filling-Factor-Dependent Magnetophonon Resonance in Graphene
+Sparsity-certifying Graph Decompositions
+Partial cubes: structures, characterizations, and constructions
+4
+Not Found!
+5
+Not Found!
 6
-Calculation of prompt diphoton production cross sections at Tevatron and
-Some new experimental photonic flame effect features
+Sparsity-certifying Graph Decompositions
+Partial cubes: structures, characterizations, and constructions
 7
+Calculation of prompt diphoton production cross sections at Tevatron and
+8

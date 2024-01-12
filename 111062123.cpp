@@ -228,31 +228,66 @@ int main(int argc, char *argv[]) {
 		inputFile.close();
 	}
 	unordered_set<string> ans_title;
-	int n = 0;
+	unordered_set<string> title_tmp;
+	int n = 1;
 	while(getline(fi, q_tmp)) { // get seperate query
+		int merge_type = -1;
 		vector<string> q = split(q_tmp, " ");
 		for(auto it_query : q) { // iterate all the query
 			int type = checkType(it_query);
+			if(type == 4) {
+				if(it_query == "/") {
+					merge_type = 0;
+				}
+				else if(it_query == "-") {
+					merge_type = 1;
+				}
+				else if(it_query == "+") {
+					merge_type = 2;
+				}
+				continue;
+			}
 			for(auto data: mp) {
 				if(type == EXACT) {
 					if(data.second->search(it_query))
-						ans_title.insert(data.first);
+						title_tmp.insert(data.first);
 				}
 				else if(type == PREFIX) {
 					if(data.second->startsWith(it_query))
-						ans_title.insert(data.first);
+						title_tmp.insert(data.first);
 				}
 				else if(type == SUFFIX) {
 					if(data.second->SuffixSearch(data.second->root, it_query))
-						ans_title.insert(data.first);
+						title_tmp.insert(data.first);
 				}
 				else if(type == WILDCARD) {
 
 				}
-				else { // operator
-
+			}
+			if(merge_type == 0) { // OR
+				for(auto it : title_tmp) {
+					ans_title.insert(it);
 				}
 			}
+			else if(merge_type == 1) { // NOT
+				for(auto it : ans_title) {
+					if(title_tmp.count(it) == 1) {
+						ans_title.erase(it);
+					}
+				}
+			}
+			else if(merge_type == 2) { // AND
+				for(auto it : ans_title) {
+					if(title_tmp.count(it) == 0)
+						ans_title.erase(it);
+				}
+			}
+			else { // -1, don't need to merge
+				for(auto it: title_tmp)
+					ans_title.insert(it);
+			}
+			title_tmp.clear();
+			merge_type = -1;
 		}
 		if(ans_title.empty()) {
 			outputFile << "Not Found!\n";
