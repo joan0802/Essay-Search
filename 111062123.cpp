@@ -3,8 +3,9 @@
 #include<string>
 #include<cstring>
 #include<vector>
-#include<map>
 #include<iostream>
+#include<unordered_map>
+#include<algorithm>
 #include <filesystem>
 #include <unordered_set>
 
@@ -22,13 +23,16 @@ bool cmp(const string& a, const string& b) {
 class TrieNode {
 public:
     TrieNode* child[26];
-    bool terminate;
-    vector<string> suffix;
-
+	TrieNode* parent[26];
+    // bitset<5000005> prefix(0);
+	// bitset<5000005> suffix(0);
+	bool terminate, terminate_parent;
     TrieNode() {
         for (int i = 0; i < 26; i++) {
-            child[i] = NULL;
+            child[i] = nullptr;
+			parent[i] = nullptr;
         }
+		terminate_parent = false;
         terminate = false;
     }
 };
@@ -43,48 +47,70 @@ public:
 
     void insert(string word) {
         TrieNode* p = root;
-        for (auto c : word) {
+		TrieNode* back = root;
+		int len = word.size();
+        for (auto &c : word) {
             int index = 0;
             if (c >= 'A' && c <= 'Z')
                 index = c - 'A';
             else if (c >= 'a' && c <= 'z')
                 index = c - 'a';
 
-            if (p->child[index] == NULL)
+            if (p->child[index] == nullptr)
                 p->child[index] = new TrieNode();
             p = p->child[index];
         }
+		for(int i = len-1; i >= 0; i--) {
+			int index = 0;
+            if (word[i] >= 'A' && word[i] <= 'Z')
+                index = word[i] - 'A';
+            else if (word[i] >= 'a' && word[i] <= 'z')
+                index = word[i] - 'a';
+
+            if (back->parent[index] == nullptr)
+                back->parent[index] = new TrieNode();
+            back = back->parent[index];
+		}
         p->terminate = true;
-        p->suffix.emplace_back(word);
+		back->terminate_parent = true;
     }
-
-    bool SuffixSearch(TrieNode* node, string word, bool prefix = false) {
-        for (auto c : word) {
-            if (c == '*') {
-                if (node != nullptr) {
-                    for (auto suffix : node->suffix) {
-                        if (SuffixSearch(node, suffix, false)) {
-                            return true;
-                        }
-                    }
-                }
-                return false;
-            }
-            int index = 0;
-            if (c >= 'A' && c <= 'Z')
-                index = c - 'A';
-            else if (c >= 'a' && c <= 'z')
-                index = c - 'a';
-
-            if (node->child[index] == NULL)
-                return false;
-
-            node = node->child[index];
-        }
-
-        return prefix ? true : node->terminate;
-    }
-
+	bool WildCardSearch(string word) {
+		TrieNode* p = root;
+		int len = word.size();
+		for(int i = 0; i < len; i++) {
+			if(word[i] == '*') {
+				
+			}
+			else {
+				int index = 0;
+				if(word[i] >= 'A' && word[i] <= 'Z')
+					index = word[i]-'A';
+				else if(word[i] >= 'a' && word[i] <= 'z')
+					index = word[i]-'a';
+				if(p->child[index] == nullptr)
+					return false;
+				p = p->child[index];
+			}
+		}
+		return true;
+	}
+	bool SuffixSearch(string word) {
+		TrieNode* p = root;
+		int len = word.size();
+		for(int i = len-1; i >= 0; i--) {
+			if(isalpha(word[i])) {
+				int index = 0;
+				if(word[i] >= 'A' && word[i] <= 'Z')
+					index = word[i]-'A';
+				else if(word[i] >= 'a' && word[i] <= 'z')
+					index = word[i]-'a';
+				if(p->parent[index] == nullptr)
+					return false;
+				p = p->parent[index];
+			}
+		}
+		return true;
+	}
 	bool search(string word, bool prefix = false) {
 		TrieNode* p = root;
 		for(auto c: word) {
@@ -94,7 +120,7 @@ public:
 					index = c-'A';
 				else if(c >= 'a' && c <= 'z')
 					index = c-'a';
-				if(p->child[index] == NULL)
+				if(p->child[index] == nullptr)
 					return false;
 				p = p->child[index];
 			}
@@ -147,7 +173,7 @@ vector<string> split(const string& str, const string& delim) {
 	while(p) {
 		string s = p; 
 		res.push_back(s); 
-		p = strtok(NULL, d);
+		p = strtok(nullptr, d);
 	}
 
 	return res;
@@ -178,7 +204,6 @@ int main(int argc, char *argv[]) {
 	// 2. number of txt files
 	// 3. output route
 	auto start_time = std::chrono::high_resolution_clock::now();
-
     string data_dir = argv[1] + string("/");
 	string query = string(argv[2]);
 	ifstream fi(query, ios::in);
@@ -187,6 +212,7 @@ int main(int argc, char *argv[]) {
 	string file, title_name, tmp, q_tmp;
 	ofstream outputFile(output);
 	vector<string> tmp_string;
+	int cnt = 0; // count of data
 
 	const int EXACT = 0;
 	const int PREFIX = 1;
@@ -194,9 +220,7 @@ int main(int argc, char *argv[]) {
 	const int WILDCARD = 3;
 
     // GET TITLENAME WORD ARRAY
-    tmp_string = split(title_name, " ");
-
-	vector<string> title = word_parse(tmp_string);
+	vector<string> title;
 	unordered_map<string, Trie*> mp;
 	/*
 		create trie of every data
@@ -209,7 +233,19 @@ int main(int argc, char *argv[]) {
 	for (auto file_path : file_paths) {
 
 		ifstream inputFile(file_path);
+		// if (!inputFile) {
+		// 	cout << "Failed to open file: " << file_path << endl;
+		// 	continue;
+		// }
+		// cout << file_path << endl;
+		// if (inputFile.bad()) {
+		// 	cout << "Failed to read from file: " << file_path << endl;
+		// 	continue;
+		// }
 		getline(inputFile, title_name);
+		title.emplace_back(title_name);
+		cnt++;
+		// cout << cnt << " ";
 		
 		string tmp;
 		while (getline(inputFile, tmp)) {
@@ -219,7 +255,7 @@ int main(int argc, char *argv[]) {
 			// PARSE CONTENT
 			vector<string> content = word_parse(tmp_string);
 			for (auto word : content) {
-				if (mp.count(title_name) == 0) {
+				if (mp[title_name] == nullptr) {
 					mp[title_name] = new Trie();  
 				}
 				mp[title_name]->insert(word);
@@ -233,7 +269,9 @@ int main(int argc, char *argv[]) {
 	while(getline(fi, q_tmp)) { // get seperate query
 		int merge_type = -1;
 		vector<string> q = split(q_tmp, " ");
+		outputFile << n++ <<"\n";
 		for(auto it_query : q) { // iterate all the query
+			string front = "", end = "";
 			int type = checkType(it_query);
 			if(type == 4) {
 				if(it_query == "/") {
@@ -247,21 +285,23 @@ int main(int argc, char *argv[]) {
 				}
 				continue;
 			}
-			for(auto data: mp) {
+			for(int i = 0; i < cnt; i++) {
+				auto data = mp[title[i]];
 				if(type == EXACT) {
-					if(data.second->search(it_query))
-						title_tmp.insert(data.first);
+					if(data->search(it_query))
+						title_tmp.insert(title[i]);
 				}
 				else if(type == PREFIX) {
-					if(data.second->startsWith(it_query))
-						title_tmp.insert(data.first);
+					if(data->startsWith(it_query))
+						title_tmp.insert(title[i]);
 				}
 				else if(type == SUFFIX) {
-					if(data.second->SuffixSearch(data.second->root, it_query))
-						title_tmp.insert(data.first);
+					if(data->SuffixSearch(it_query))
+						title_tmp.insert(title[i]);
 				}
 				else if(type == WILDCARD) {
-
+					if(data->WildCardSearch(it_query))
+						title_tmp.insert(title[i]);
 				}
 			}
 			if(merge_type == 0) { // OR
@@ -270,21 +310,25 @@ int main(int argc, char *argv[]) {
 				}
 			}
 			else if(merge_type == 1) { // NOT
-				for(auto it : ans_title) {
-					if(title_tmp.count(it) == 1) {
-						ans_title.erase(it);
-					}
+				for (auto it = ans_title.begin(); it != ans_title.end();) {
+					if (title_tmp.count(*it) == 1)
+						it = ans_title.erase(it); 
+					else
+						++it; 
 				}
 			}
 			else if(merge_type == 2) { // AND
-				for(auto it : ans_title) {
-					if(title_tmp.count(it) == 0)
-						ans_title.erase(it);
+				for (auto it = ans_title.begin(); it != ans_title.end();) {
+					if (title_tmp.count(*it) == 0)
+						it = ans_title.erase(it); 
+					else
+						++it; 
 				}
 			}
 			else { // -1, don't need to merge
-				for(auto it: title_tmp)
+				for(auto it: title_tmp) {
 					ans_title.insert(it);
+				}
 			}
 			title_tmp.clear();
 			merge_type = -1;
@@ -299,7 +343,6 @@ int main(int argc, char *argv[]) {
 		}
 		ans_title.clear();
 		// for debug
-		outputFile << n++ <<"\n";
 	}
 	fi.close();
 	outputFile.close();
