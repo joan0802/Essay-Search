@@ -1,10 +1,10 @@
 1
 Bosonic characters of atomic Cooper pairs across resonance
 2
-The decomposition method and Maple procedure for finding first integrals
-The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
 Sparsity-certifying Graph Decompositions
 Partial cubes: structures, characterizations, and constructions
+The Hardy-Lorentz Spaces $H^{p,q}(R^n)$
+The decomposition method and Maple procedure for finding first integrals
 3
 Sparsity-certifying Graph Decompositions
 4

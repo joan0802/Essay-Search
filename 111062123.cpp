@@ -6,6 +6,7 @@
 #include<iostream>
 #include<unordered_map>
 #include<algorithm>
+#include<set>
 #include <filesystem>
 #include <unordered_set>
 
@@ -13,12 +14,6 @@
 
 using namespace std;
 namespace fs = std::filesystem;
-
-bool cmp(const string& a, const string& b) {
-    int numA = stoi(fs::path(a).stem().string()); 
-    int numB = stoi(fs::path(b).stem().string());
-    return numA < numB;
-}
 
 class TrieNode {
 public:
@@ -90,7 +85,7 @@ public:
 			bool result = false;
 			for (int i = 0; i < 26; i++) {
 				if (cur->child[i] != nullptr) {
-					if (index+1 < len && (i == word[index+1] - 'a' || i == word[index+1] - 'A') && WildCardSearch(word, index + 1, cur->child[i])) {
+					if (index+1 < len && (i == (word[index+1] - 'a') || i == (word[index+1] - 'A')) && WildCardSearch(word, index + 1, cur->child[i])) {
 						result = true;
 					}
 					if (WildCardSearch(word, index, cur->child[i])) {
@@ -153,15 +148,6 @@ public:
         return search(prefix, true);
     }
 };
-
-
-/*
-	Exact word : "..."
-	Prefix word : ...
-	Suffix word : *...*
-	Wildcard search : <..*.>
-*/
-
 
 // Utility Func
 
@@ -250,7 +236,7 @@ int main(int argc, char *argv[]) {
 	while (1) {
         std::string current_file_path = data_dir + std::to_string(i) + ".txt";
         if (fs::exists(current_file_path)) {
-            file_paths.push_back(current_file_path);
+            file_paths.emplace_back(current_file_path);
 			// cout << current_file_path << endl;
         } 
 		else {
@@ -281,8 +267,8 @@ int main(int argc, char *argv[]) {
 		}
 		inputFile.close();
 	}
-	unordered_set<string> ans_title;
-	unordered_set<string> title_tmp;
+	set<int> ans_title;
+	unordered_set<int> title_tmp;
 	int n = 1;
 	while(getline(fi, q_tmp)) { // get seperate query
 		int merge_type = -1;
@@ -307,19 +293,19 @@ int main(int argc, char *argv[]) {
 				auto data = mp[title[i]];
 				if(type == EXACT) {
 					if(data->search(it_query))
-						title_tmp.insert(title[i]);
+						title_tmp.insert(i);
 				}
 				else if(type == PREFIX) {
 					if(data->startsWith(it_query))
-						title_tmp.insert(title[i]);
+						title_tmp.insert(i);
 				}
 				else if(type == SUFFIX) {
 					if(data->SuffixSearch(it_query))
-						title_tmp.insert(title[i]);
+						title_tmp.insert(i);
 				}
 				else if(type == WILDCARD) {
 					if(data->WildCardSearch(it_query, 1, data->root))
-						title_tmp.insert(title[i]);
+						title_tmp.insert(i);
 				}
 			}
 			if(merge_type == 0) { // OR
@@ -356,11 +342,10 @@ int main(int argc, char *argv[]) {
 		}
 		else {
 			for(auto it : ans_title) {
-				outputFile << it << "\n";
+				outputFile << title[it] << "\n";
 			}
 		}
 		ans_title.clear();
-		// for debug
 	}
 	fi.close();
 	outputFile.close();
