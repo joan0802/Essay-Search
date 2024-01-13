@@ -6,3 +6,4 @@ graph + decomposition / reflection
 <com*on> - "shaped"
 "graph" - "deep"
 "radiation" - "changed"
+tri

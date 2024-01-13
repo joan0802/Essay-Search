@@ -71,25 +71,18 @@ public:
     }
 	bool WildCardSearch(string word, int index, TrieNode* cur) {
 		int len = word.size();
-		// cout << word[index] << endl;
-		if (index == len-1) {
-			return cur->terminate;
-		}
 		if (word[index] == '*') {
 			while (index+1 < len && word[index+1] == '*') {
 				index++; // avoid multiple '*'
 			}
-			if (index == len-1) {
+			if (index == len-2) {
 				return true;
 			}
 			bool result = false;
 			for (int i = 0; i < 26; i++) {
-				if (cur->child[i] != nullptr) {
-					if (index+1 < len && (i == (word[index+1] - 'a') || i == (word[index+1] - 'A')) && WildCardSearch(word, index + 1, cur->child[i])) {
+				if (cur->child[i] != nullptr && result == false) {
+					if (WildCardSearch(word, index, cur->child[i]) || WildCardSearch(word, index + 1, cur)) {
 						result = true;
-					}
-					if (WildCardSearch(word, index, cur->child[i])) {
-						result =  true;
 					}
 				}
 			}
@@ -106,7 +99,11 @@ public:
 			if (cur->child[charIndex] == nullptr) {
 				return false;
 			}
-			return WildCardSearch(word, index + 1, cur->child[charIndex]);
+			if(index == len-2) {
+				return cur->child[charIndex]->terminate;
+			}
+			else
+				return WildCardSearch(word, index + 1, cur->child[charIndex]);
 		}
 	}
 	bool SuffixSearch(string word) {
@@ -227,7 +224,7 @@ int main(int argc, char *argv[]) {
 
     // GET TITLENAME WORD ARRAY
 	vector<string> title;
-	unordered_map<string, Trie*> mp;
+	unordered_map<int, Trie*> mp;
 	/*
 		create trie of every data
 	*/
@@ -249,7 +246,6 @@ int main(int argc, char *argv[]) {
 		ifstream inputFile(file_path);
 		getline(inputFile, title_name);
 		title.emplace_back(title_name);
-		cnt++;
 		
 		string tmp;
 		while (getline(inputFile, tmp)) {
@@ -259,21 +255,28 @@ int main(int argc, char *argv[]) {
 			// PARSE CONTENT
 			vector<string> content = word_parse(tmp_string);
 			for (auto word : content) {
-				if (mp[title_name] == nullptr) {
-					mp[title_name] = new Trie();  
+				if (mp[cnt] == nullptr) {
+					mp[cnt] = new Trie();  
 				}
-				mp[title_name]->insert(word);
+				mp[cnt]->insert(word);
         	}
+			vector<string> tmp_title = word_parse(split(title_name, " "));
+			for(auto word : tmp_title) {
+				mp[cnt]->insert(word);
+			}
 		}
+		cnt++;
 		inputFile.close();
 	}
-	set<int> ans_title;
-	unordered_set<int> title_tmp;
+	bitset<5000005> ans(0);
+	bitset<5000005> title_tmp(0);
+	// set<int> ans_title;
+	// unordered_set<int> title_tmp;
 	int n = 1;
 	while(getline(fi, q_tmp)) { // get seperate query
 		int merge_type = -1;
 		vector<string> q = split(q_tmp, " ");
-		outputFile << n++ <<"\n";
+		// outputFile << n++ <<"\n";
 		for(auto it_query : q) { // iterate all the query
 			string front = "", end = "";
 			int type = checkType(it_query);
@@ -290,62 +293,50 @@ int main(int argc, char *argv[]) {
 				continue;
 			}
 			for(int i = 0; i < cnt; i++) {
-				auto data = mp[title[i]];
+				auto data = mp[i];
 				if(type == EXACT) {
 					if(data->search(it_query))
-						title_tmp.insert(i);
+						title_tmp[i] = 1;
 				}
 				else if(type == PREFIX) {
 					if(data->startsWith(it_query))
-						title_tmp.insert(i);
+						title_tmp[i] = 1;
 				}
 				else if(type == SUFFIX) {
 					if(data->SuffixSearch(it_query))
-						title_tmp.insert(i);
+						title_tmp[i] = 1;
 				}
 				else if(type == WILDCARD) {
 					if(data->WildCardSearch(it_query, 1, data->root))
-						title_tmp.insert(i);
+						title_tmp[i] = 1;
 				}
 			}
 			if(merge_type == 0) { // OR
-				for(auto it : title_tmp) {
-					ans_title.insert(it);
-				}
+				ans |= title_tmp;
 			}
 			else if(merge_type == 1) { // NOT
-				for (auto it = ans_title.begin(); it != ans_title.end();) {
-					if (title_tmp.count(*it) == 1)
-						it = ans_title.erase(it); 
-					else
-						++it; 
-				}
+				ans &= ~title_tmp;
 			}
 			else if(merge_type == 2) { // AND
-				for (auto it = ans_title.begin(); it != ans_title.end();) {
-					if (title_tmp.count(*it) == 0)
-						it = ans_title.erase(it); 
-					else
-						++it; 
-				}
+				ans &= title_tmp;
 			}
 			else { // -1, don't need to merge
-				for(auto it: title_tmp) {
-					ans_title.insert(it);
-				}
+				ans = title_tmp;
 			}
-			title_tmp.clear();
+			title_tmp = {0};
 			merge_type = -1;
 		}
-		if(ans_title.empty()) {
-			outputFile << "Not Found!\n";
-		}
-		else {
-			for(auto it : ans_title) {
-				outputFile << title[it] << "\n";
+		bool found = false;
+		for(int i = 0; i < cnt; i++) {
+			if(ans[i] == 1) {
+				// cout << i << endl;
+				outputFile << title[i] << "\n";
+				found = true;
 			}
 		}
-		ans_title.clear();
+		if(found == false)
+			outputFile << "Not Found!\n";
+		ans = {0};
 	}
 	fi.close();
 	outputFile.close();
