@@ -6,28 +6,39 @@
 #include<iostream>
 #include<unordered_map>
 #include<algorithm>
+#include<bitset>
 #include<set>
 #include <filesystem>
 #include <unordered_set>
+#pragma GCC optimize("Ofast")
+#pragma GCC optimize("-ffast-math")
+#pragma GCC optimize("unroll-loops")
+#pragma GCC optimize("no-stack-protector")
+#pragma GCC optimize("-ftree-tail-merge")
 
 #include <chrono>
 
 using namespace std;
 namespace fs = std::filesystem;
 
+int charToIndex(char& c) {
+	if (c >= 'A' && c <= 'Z')
+		return c - 'A';
+	else if (c >= 'a' && c <= 'z')
+		return c - 'a';
+	return -1;
+}
+
 class TrieNode {
 public:
     TrieNode* child[26];
 	TrieNode* parent[26];
-    // bitset<5000005> prefix(0);
-	// bitset<5000005> suffix(0);
-	bool terminate, terminate_parent;
+	bool terminate;
     TrieNode() {
-        for (int i = 0; i < 26; i++) {
+        for (int i = 0; i < 26; ++i) {
             child[i] = nullptr;
 			parent[i] = nullptr;
         }
-		terminate_parent = false;
         terminate = false;
     }
 };
@@ -40,34 +51,25 @@ public:
         root = new TrieNode();
     }
 
-    void insert(string word) {
+    void insert(string& word) {
         TrieNode* p = root;
 		TrieNode* back = root;
 		int len = word.size();
         for (auto &c : word) {
-            int index = 0;
-            if (c >= 'A' && c <= 'Z')
-                index = c - 'A';
-            else if (c >= 'a' && c <= 'z')
-                index = c - 'a';
+            int index = charToIndex(c);
 
             if (p->child[index] == nullptr)
                 p->child[index] = new TrieNode();
             p = p->child[index];
         }
-		for(int i = len-1; i >= 0; i--) {
-			int index = 0;
-            if (word[i] >= 'A' && word[i] <= 'Z')
-                index = word[i] - 'A';
-            else if (word[i] >= 'a' && word[i] <= 'z')
-                index = word[i] - 'a';
+		for(int i = len-1; i >= 0; --i) {
+			int index = charToIndex(word[i]);
 
             if (back->parent[index] == nullptr)
                 back->parent[index] = new TrieNode();
             back = back->parent[index];
 		}
         p->terminate = true;
-		back->terminate_parent = true;
     }
 	bool WildCardSearch(string word, int index, TrieNode* cur) {
 		int len = word.size();
@@ -79,7 +81,7 @@ public:
 				return true;
 			}
 			bool result = false;
-			for (int i = 0; i < 26; i++) {
+			for (int i = 0; i < 26; ++i) {
 				if (cur->child[i] != nullptr && result == false) {
 					if (WildCardSearch(word, index, cur->child[i]) || WildCardSearch(word, index + 1, cur)) {
 						result = true;
@@ -89,13 +91,7 @@ public:
 			return result;
 		} 
 		else {
-			int charIndex = 0;
-			if (word[index] >= 'A' && word[index] <= 'Z') {
-				charIndex = word[index] - 'A';
-			} 
-			else if (word[index] >= 'a' && word[index] <= 'z') {
-				charIndex = word[index] - 'a';
-			}
+			int charIndex = charToIndex(word[index]);
 			if (cur->child[charIndex] == nullptr) {
 				return false;
 			}
@@ -106,16 +102,12 @@ public:
 				return WildCardSearch(word, index + 1, cur->child[charIndex]);
 		}
 	}
-	bool SuffixSearch(string word) {
+	bool SuffixSearch(string& word) {
 		TrieNode* p = root;
 		int len = word.size();
-		for(int i = len-1; i >= 0; i--) {
+		for(int i = len-1; i >= 0; --i) {
 			if(isalpha(word[i])) {
-				int index = 0;
-				if(word[i] >= 'A' && word[i] <= 'Z')
-					index = word[i]-'A';
-				else if(word[i] >= 'a' && word[i] <= 'z')
-					index = word[i]-'a';
+				int index = charToIndex(word[i]);
 				if(p->parent[index] == nullptr)
 					return false;
 				p = p->parent[index];
@@ -123,15 +115,11 @@ public:
 		}
 		return true;
 	}
-	bool search(string word, bool prefix = false) {
+	bool search(string& word, bool prefix = false) {
 		TrieNode* p = root;
-		for(auto c: word) {
+		for(auto &c: word) {
 			if(isalpha(c)) {
-				int index = 0;
-				if(c >= 'A' && c <= 'Z')
-					index = c-'A';
-				else if(c >= 'a' && c <= 'z')
-					index = c-'a';
+				int index = charToIndex(c);
 				if(p->child[index] == nullptr)
 					return false;
 				p = p->child[index];
@@ -141,7 +129,7 @@ public:
 		return true;
     }
 
-    bool startsWith(string prefix) {
+    bool startsWith(string& prefix) {
         return search(prefix, true);
     }
 };
@@ -182,7 +170,7 @@ vector<string> split(const string& str, const string& delim) {
 	return res;
 }
 
-int checkType(string s) {
+int checkType(string& s) {
 	if(s[0] == '"') { 
 		return 0; // exact word
 	}
@@ -239,7 +227,7 @@ int main(int argc, char *argv[]) {
 		else {
             break;
         }
-        i++;
+        ++i;
     }
 	for (auto file_path : file_paths) {
 
@@ -254,18 +242,18 @@ int main(int argc, char *argv[]) {
 
 			// PARSE CONTENT
 			vector<string> content = word_parse(tmp_string);
-			for (auto word : content) {
+			for (auto &word : content) {
 				if (mp[cnt] == nullptr) {
 					mp[cnt] = new Trie();  
 				}
 				mp[cnt]->insert(word);
         	}
 			vector<string> tmp_title = word_parse(split(title_name, " "));
-			for(auto word : tmp_title) {
+			for(auto &word : tmp_title) {
 				mp[cnt]->insert(word);
 			}
 		}
-		cnt++;
+		++cnt;
 		inputFile.close();
 	}
 	bitset<5000005> ans(0);
@@ -277,7 +265,7 @@ int main(int argc, char *argv[]) {
 		int merge_type = -1;
 		vector<string> q = split(q_tmp, " ");
 		// outputFile << n++ <<"\n";
-		for(auto it_query : q) { // iterate all the query
+		for(auto &it_query : q) { // iterate all the query
 			string front = "", end = "";
 			int type = checkType(it_query);
 			if(type == 4) {
@@ -292,7 +280,7 @@ int main(int argc, char *argv[]) {
 				}
 				continue;
 			}
-			for(int i = 0; i < cnt; i++) {
+			for(int i = 0; i < cnt; ++i) {
 				auto data = mp[i];
 				if(type == EXACT) {
 					if(data->search(it_query))
@@ -323,11 +311,14 @@ int main(int argc, char *argv[]) {
 			else { // -1, don't need to merge
 				ans = title_tmp;
 			}
-			title_tmp = {0};
+			title_tmp.reset();
 			merge_type = -1;
 		}
 		bool found = false;
-		for(int i = 0; i < cnt; i++) {
+		// for(int i = ans._Find_first(); i < ans.size(); i = ans._Find_next(i)) {
+		// 	outputFile << title[i] << "\n";
+		// }
+		for(int i = 0; i < cnt; ++i) {
 			if(ans[i] == 1) {
 				// cout << i << endl;
 				outputFile << title[i] << "\n";
@@ -336,7 +327,7 @@ int main(int argc, char *argv[]) {
 		}
 		if(found == false)
 			outputFile << "Not Found!\n";
-		ans = {0};
+		ans.reset();
 	}
 	fi.close();
 	outputFile.close();
