@@ -74,25 +74,45 @@ public:
         p->terminate = true;
 		back->terminate_parent = true;
     }
-	bool WildCardSearch(string word) {
-		TrieNode* p = root;
+	bool WildCardSearch(string word, int index, TrieNode* cur) {
 		int len = word.size();
-		for(int i = 0; i < len; i++) {
-			if(word[i] == '*') {
-				
-			}
-			else {
-				int index = 0;
-				if(word[i] >= 'A' && word[i] <= 'Z')
-					index = word[i]-'A';
-				else if(word[i] >= 'a' && word[i] <= 'z')
-					index = word[i]-'a';
-				if(p->child[index] == nullptr)
-					return false;
-				p = p->child[index];
-			}
+		// cout << word[index] << endl;
+		if (index == len-1) {
+			return cur->terminate;
 		}
-		return true;
+		if (word[index] == '*') {
+			while (index+1 < len && word[index+1] == '*') {
+				index++; // avoid multiple '*'
+			}
+			if (index == len-1) {
+				return true;
+			}
+			bool result = false;
+			for (int i = 0; i < 26; i++) {
+				if (cur->child[i] != nullptr) {
+					if (index+1 < len && (i == word[index+1] - 'a' || i == word[index+1] - 'A') && WildCardSearch(word, index + 1, cur->child[i])) {
+						result = true;
+					}
+					if (WildCardSearch(word, index, cur->child[i])) {
+						result =  true;
+					}
+				}
+			}
+			return result;
+		} 
+		else {
+			int charIndex = 0;
+			if (word[index] >= 'A' && word[index] <= 'Z') {
+				charIndex = word[index] - 'A';
+			} 
+			else if (word[index] >= 'a' && word[index] <= 'z') {
+				charIndex = word[index] - 'a';
+			}
+			if (cur->child[charIndex] == nullptr) {
+				return false;
+			}
+			return WildCardSearch(word, index + 1, cur->child[charIndex]);
+		}
 	}
 	bool SuffixSearch(string word) {
 		TrieNode* p = root;
@@ -226,26 +246,24 @@ int main(int argc, char *argv[]) {
 		create trie of every data
 	*/
 	vector<string> file_paths;
-	for (const auto& entry : fs::directory_iterator(data_dir)) {
-		file_paths.push_back(entry.path().string());
-	}
-	std::sort(file_paths.begin(), file_paths.end(), cmp);
+	int i = 0;
+	while (1) {
+        std::string current_file_path = data_dir + std::to_string(i) + ".txt";
+        if (fs::exists(current_file_path)) {
+            file_paths.push_back(current_file_path);
+			// cout << current_file_path << endl;
+        } 
+		else {
+            break;
+        }
+        i++;
+    }
 	for (auto file_path : file_paths) {
 
 		ifstream inputFile(file_path);
-		// if (!inputFile) {
-		// 	cout << "Failed to open file: " << file_path << endl;
-		// 	continue;
-		// }
-		// cout << file_path << endl;
-		// if (inputFile.bad()) {
-		// 	cout << "Failed to read from file: " << file_path << endl;
-		// 	continue;
-		// }
 		getline(inputFile, title_name);
 		title.emplace_back(title_name);
 		cnt++;
-		// cout << cnt << " ";
 		
 		string tmp;
 		while (getline(inputFile, tmp)) {
@@ -300,7 +318,7 @@ int main(int argc, char *argv[]) {
 						title_tmp.insert(title[i]);
 				}
 				else if(type == WILDCARD) {
-					if(data->WildCardSearch(it_query))
+					if(data->WildCardSearch(it_query, 1, data->root))
 						title_tmp.insert(title[i]);
 				}
 			}
