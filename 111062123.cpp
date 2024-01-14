@@ -5,18 +5,17 @@
 #include<vector>
 #include<iostream>
 #include<unordered_map>
-#include<algorithm>
 #include<bitset>
-#include<set>
 #include <filesystem>
-#include <unordered_set>
+#include<stdio.h>
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("-ffast-math")
 #pragma GCC optimize("unroll-loops")
-#pragma GCC optimize("no-stack-protector")
+// #pragma GCC optimize("no-stack-protector")
 #pragma GCC optimize("-ftree-tail-merge")
 
 #include <chrono>
+#define MAX 5000005
 
 using namespace std;
 namespace fs = std::filesystem;
@@ -171,7 +170,9 @@ vector<string> split(const string& str, const string& delim) {
 }
 
 int checkType(string& s) {
-	if(s[0] == '"') { 
+	if(s == "/" || s == "-" || s == "+") // operator
+		return 4;
+	else if(s[0] == '"') { 
 		return 0; // exact word
 	}
 	else if(s[0] == '*' && s[s.size()-1] == '*') {
@@ -180,8 +181,6 @@ int checkType(string& s) {
 	else if(s[0] == '<' && s[s.size()-1] == '>') {
 		return 3; // wildcard search
 	}
-	else if(s == "/" || s == "-" || s == "+") // operator
-		return 4;
 	else {
 		return 1; // prefix
 	}
@@ -201,7 +200,7 @@ int main(int argc, char *argv[]) {
 	string output = string(argv[3]);
 
 	string file, title_name, tmp, q_tmp;
-	ofstream outputFile(output);
+	FILE *outputFile = freopen(output.c_str(), "w", stdout);
 	vector<string> tmp_string;
 	int cnt = 0; // count of data
 
@@ -213,49 +212,40 @@ int main(int argc, char *argv[]) {
     // GET TITLENAME WORD ARRAY
 	vector<string> title;
 	unordered_map<int, Trie*> mp;
-	/*
-		create trie of every data
-	*/
-	vector<string> file_paths;
-	int i = 0;
+	char str[MAX];
+	// string tmp;
+
 	while (1) {
-        std::string current_file_path = data_dir + std::to_string(i) + ".txt";
-        if (fs::exists(current_file_path)) {
-            file_paths.emplace_back(current_file_path);
-			// cout << current_file_path << endl;
-        } 
-		else {
-            break;
-        }
-        ++i;
-    }
-	for (auto file_path : file_paths) {
-
-		ifstream inputFile(file_path);
-		getline(inputFile, title_name);
-		title.emplace_back(title_name);
+		string current_file_path = data_dir + to_string(cnt) + ".txt";
+		FILE *inputFile = freopen(current_file_path.c_str(), "r", stdin);
 		
-		string tmp;
-		while (getline(inputFile, tmp)) {
-			// GET CONTENT WORD VECTOR
-			vector<string> tmp_string = split(tmp, " ");
+		if (inputFile == nullptr) {
+			break;
+		} 
 
+		fgets(str, MAX, stdin);
+		title.emplace_back(str);
+		vector<string> tmp_title = word_parse(split(str, " "));
+		for(auto &word : tmp_title) {
+			if (mp[cnt] == nullptr) {
+				mp[cnt] = new Trie();  
+			}
+			mp[cnt]->insert(word);
+		}
+
+		while (fgets(str, MAX, stdin)) {
+			// GET CONTENT WORD VECTOR
+			vector<string> tmp_string = split(str, " ");
 			// PARSE CONTENT
 			vector<string> content = word_parse(tmp_string);
 			for (auto &word : content) {
-				if (mp[cnt] == nullptr) {
-					mp[cnt] = new Trie();  
-				}
-				mp[cnt]->insert(word);
-        	}
-			vector<string> tmp_title = word_parse(split(title_name, " "));
-			for(auto &word : tmp_title) {
 				mp[cnt]->insert(word);
 			}
 		}
 		++cnt;
-		inputFile.close();
+		fclose(inputFile);
 	}
+
 	bitset<5000005> ans(0);
 	bitset<5000005> title_tmp(0);
 	// set<int> ans_title;
@@ -266,7 +256,6 @@ int main(int argc, char *argv[]) {
 		vector<string> q = split(q_tmp, " ");
 		// outputFile << n++ <<"\n";
 		for(auto &it_query : q) { // iterate all the query
-			string front = "", end = "";
 			int type = checkType(it_query);
 			if(type == 4) {
 				if(it_query == "/") {
@@ -315,22 +304,20 @@ int main(int argc, char *argv[]) {
 			merge_type = -1;
 		}
 		bool found = false;
-		// for(int i = ans._Find_first(); i < ans.size(); i = ans._Find_next(i)) {
-		// 	outputFile << title[i] << "\n";
-		// }
 		for(int i = 0; i < cnt; ++i) {
 			if(ans[i] == 1) {
-				// cout << i << endl;
-				outputFile << title[i] << "\n";
-				found = true;
+				for(auto &c: title[i]) {
+					putchar(c);
+					found = true;
+				}
 			}
 		}
 		if(found == false)
-			outputFile << "Not Found!\n";
+			fputs("Not Found!\n", stdout);
 		ans.reset();
 	}
 	fi.close();
-	outputFile.close();
+	fclose(outputFile);
 	auto end_time = std::chrono::high_resolution_clock::now();
 	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end_time - start_time);
 	std::cout << "程式執行時間: " << duration.count()/1000 << " ms" << std::endl;
