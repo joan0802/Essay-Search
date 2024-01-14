@@ -11,14 +11,16 @@
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("-ffast-math")
 #pragma GCC optimize("unroll-loops")
-// #pragma GCC optimize("no-stack-protector")
 #pragma GCC optimize("-ftree-tail-merge")
-#define MAX 5000005
+
+#include <chrono>
+#define MAX 100005
 #define DATA_MAX 11000
 
 using namespace std;
 namespace fs = std::filesystem;
 
+int num = 0;
 int charToIndex(char& c) {
 	if (c >= 'A' && c <= 'Z')
 		return c - 'A';
@@ -27,110 +29,98 @@ int charToIndex(char& c) {
 	return -1;
 }
 
-class TrieNode {
-public:
-    TrieNode* child[26];
-	TrieNode* parent[26];
-	bool terminate;
-    TrieNode() {
-        for (int i = 0; i < 26; ++i) {
-            child[i] = nullptr;
-			parent[i] = nullptr;
-        }
-        terminate = false;
-    }
-};
+// class Trie {
+// public:
+    int trie[MAX][26];
+	bitset<DATA_MAX> ed[MAX], suffix[MAX], prefix[MAX];
+	bitset<DATA_MAX> NOT_FOUND;
 
-class Trie {
-public:
-    TrieNode* root;
+    // Trie() {}
 
-    Trie() {
-        root = new TrieNode();
-    }
-
-    void insert(string& word) {
-        TrieNode* p = root;
-		TrieNode* back = root;
+    void insert(string& word, int &index) {
+        int root = 0;
 		int len = word.size();
-        for (auto &c : word) {
-            int index = charToIndex(c);
-
-            if (p->child[index] == nullptr)
-                p->child[index] = new TrieNode();
-            p = p->child[index];
-        }
-		for(int i = len-1; i >= 0; --i) {
-			int index = charToIndex(word[i]);
-
-            if (back->parent[index] == nullptr)
-                back->parent[index] = new TrieNode();
-            back = back->parent[index];
+		for(char &c : word){
+			int p = charToIndex(c);
+			if(trie[root][p] == 0) 
+				trie[root][p]= ++num;
+			root = trie[root][p];
+			prefix[root][index]=1;
 		}
-        p->terminate = true;
+		ed[root][index] = 1;
+		root = 0;
+		for(int i = len-1; i >= 0; --i) {
+			int p = charToIndex(word[i]);
+			if(trie[root][p] == 0) 
+				trie[root][p] = ++num;
+			root = trie[root][p];
+			suffix[root][index] = 1;
+		}
     }
-	bool WildCardSearch(string word, int index, TrieNode* cur) {
+	bitset<DATA_MAX> WildCardSearch(string word, int index, int root) {
 		int len = word.size();
+		if(len == 3 && word[1] == '*') {
+			bitset<DATA_MAX> result;
+			result.set();
+			return result;
+		}
 		if (word[index] == '*') {
 			while (index+1 < len && word[index+1] == '*') {
 				index++; // avoid multiple '*'
 			}
 			if (index == len-2) {
-				return true;
+				return prefix[root];
 			}
-			bool result = false;
+			bitset<DATA_MAX> result;
 			for (int i = 0; i < 26; ++i) {
-				if (cur->child[i] != nullptr && result == false) {
-					if (WildCardSearch(word, index, cur->child[i]) || WildCardSearch(word, index + 1, cur)) {
-						result = true;
-					}
+				if (trie[root][i] != 0) {
+					result |= ((WildCardSearch(word, index, trie[root][i]) | WildCardSearch(word, index + 1, root)));
 				}
 			}
 			return result;
 		} 
 		else {
 			int charIndex = charToIndex(word[index]);
-			if (cur->child[charIndex] == nullptr) {
-				return false;
+			if (trie[root][charIndex] == 0) {
+				return NOT_FOUND;
 			}
 			if(index == len-2) {
-				return cur->child[charIndex]->terminate;
+				return ed[trie[root][charIndex]];
 			}
-			else
-				return WildCardSearch(word, index + 1, cur->child[charIndex]);
+			return WildCardSearch(word, index + 1, trie[root][charIndex]);
 		}
 	}
-	bool SuffixSearch(string& word) {
-		TrieNode* p = root;
+	bitset<DATA_MAX> SuffixSearch(string& word) {
+		int root = 0;
 		int len = word.size();
 		for(int i = len-1; i >= 0; --i) {
 			if(isalpha(word[i])) {
 				int index = charToIndex(word[i]);
-				if(p->parent[index] == nullptr)
-					return false;
-				p = p->parent[index];
+				if(trie[root][index] == 0)
+					return NOT_FOUND;
+				root = trie[root][index];
 			}
 		}
-		return true;
+		return suffix[root];
 	}
-	bool search(string& word, bool prefix = false) {
-		TrieNode* p = root;
+	bitset<DATA_MAX> search(string& word, bool pre = false) {
+		int root = 0;
 		for(auto &c: word) {
 			if(isalpha(c)) {
 				int index = charToIndex(c);
-				if(p->child[index] == nullptr)
-					return false;
-				p = p->child[index];
+				if(trie[root][index] == 0)
+					return NOT_FOUND;
+				root = trie[root][index];
 			}
 		}
-		if(prefix == false) return p->terminate;
-		return true;
-    }
+		if(pre == false) return ed[root];
+		return prefix[root];
+	}
 
-    bool startsWith(string& prefix) {
-        return search(prefix, true);
+    bitset<DATA_MAX> startsWith(string& pre) {
+        return search(pre, true);
     }
-};
+// };
 
 // Utility Func
 
@@ -192,6 +182,7 @@ int main(int argc, char *argv[]) {
 	// 1. data directory in data folder
 	// 2. number of txt files
 	// 3. output route
+	auto start_time = std::chrono::high_resolution_clock::now();
     string data_dir = argv[1] + string("/");
 	string query = string(argv[2]);
 	ifstream fi(query, ios::in);
@@ -208,10 +199,9 @@ int main(int argc, char *argv[]) {
 	const int WILDCARD = 3;
 
     // GET TITLENAME WORD ARRAY
-	string title[DATA_MAX];
-	unordered_map<int, Trie*> mp;
+	vector<string> title;
 	char str[MAX];
-	// string tmp;
+	// Trie* tr = new Trie();
 
 	while (1) {
 		string current_file_path = data_dir + to_string(cnt) + ".txt";
@@ -222,13 +212,10 @@ int main(int argc, char *argv[]) {
 		} 
 
 		fgets(str, MAX, stdin);
-		title[cnt] = str;
+		title.emplace_back(str);
 		vector<string> tmp_title = word_parse(split(str, " "));
 		for(auto &word : tmp_title) {
-			if (mp[cnt] == nullptr) {
-				mp[cnt] = new Trie();  
-			}
-			mp[cnt]->insert(word);
+			insert(word, cnt);
 		}
 
 		while (fgets(str, MAX, stdin)) {
@@ -237,22 +224,21 @@ int main(int argc, char *argv[]) {
 			// PARSE CONTENT
 			vector<string> content = word_parse(tmp_string);
 			for (auto &word : content) {
-				mp[cnt]->insert(word);
+				insert(word, cnt);
 			}
 		}
 		++cnt;
 		fclose(inputFile);
 	}
 
-	bitset<5000005> ans(0);
-	bitset<5000005> title_tmp(0);
-	// set<int> ans_title;
-	// unordered_set<int> title_tmp;
-	int n = 1;
+	bitset<DATA_MAX> ans(0);
+	bitset<DATA_MAX> title_tmp(0);
+
+	// int n = 1;
 	while(getline(fi, q_tmp)) { // get seperate query
 		int merge_type = -1;
 		vector<string> q = split(q_tmp, " ");
-		// outputFile << n++ <<"\n";
+		// cout << n++<< endl; 
 		for(auto &it_query : q) { // iterate all the query
 			int type = checkType(it_query);
 			if(type == 4) {
@@ -267,24 +253,17 @@ int main(int argc, char *argv[]) {
 				}
 				continue;
 			}
-			for(int i = 0; i < cnt; ++i) {
-				auto data = mp[i];
-				if(type == EXACT) {
-					if(data->search(it_query))
-						title_tmp[i] = 1;
-				}
-				else if(type == PREFIX) {
-					if(data->startsWith(it_query))
-						title_tmp[i] = 1;
-				}
-				else if(type == SUFFIX) {
-					if(data->SuffixSearch(it_query))
-						title_tmp[i] = 1;
-				}
-				else if(type == WILDCARD) {
-					if(data->WildCardSearch(it_query, 1, data->root))
-						title_tmp[i] = 1;
-				}
+			if(type == EXACT) {
+				title_tmp = search(it_query);
+			}
+			else if(type == PREFIX) {
+				title_tmp = startsWith(it_query);
+			}
+			else if(type == SUFFIX) {
+				title_tmp = SuffixSearch(it_query);
+			}
+			else if(type == WILDCARD) {
+				title_tmp = WildCardSearch(it_query, 1, 0);
 			}
 			if(merge_type == 0) { // OR
 				ans |= title_tmp;
@@ -314,6 +293,7 @@ int main(int argc, char *argv[]) {
 			fputs("Not Found!\n", stdout);
 		ans.reset();
 	}
+
 	fi.close();
 	fclose(outputFile);
 }
