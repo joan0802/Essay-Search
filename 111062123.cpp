@@ -14,6 +14,7 @@
 // #pragma GCC optimize("no-stack-protector")
 #pragma GCC optimize("-ftree-tail-merge")
 #define MAX 5000005
+#define DATA_MAX 11000
 
 using namespace std;
 namespace fs = std::filesystem;
@@ -207,7 +208,7 @@ int main(int argc, char *argv[]) {
 	const int WILDCARD = 3;
 
     // GET TITLENAME WORD ARRAY
-	vector<string> title;
+	string title[DATA_MAX];
 	unordered_map<int, Trie*> mp;
 	char str[MAX];
 	// string tmp;
@@ -221,7 +222,7 @@ int main(int argc, char *argv[]) {
 		} 
 
 		fgets(str, MAX, stdin);
-		title.emplace_back(str);
+		title[cnt] = str;
 		vector<string> tmp_title = word_parse(split(str, " "));
 		for(auto &word : tmp_title) {
 			if (mp[cnt] == nullptr) {
