@@ -13,8 +13,6 @@
 #pragma GCC optimize("unroll-loops")
 // #pragma GCC optimize("no-stack-protector")
 #pragma GCC optimize("-ftree-tail-merge")
-
-#include <chrono>
 #define MAX 5000005
 
 using namespace std;
@@ -193,7 +191,6 @@ int main(int argc, char *argv[]) {
 	// 1. data directory in data folder
 	// 2. number of txt files
 	// 3. output route
-	auto start_time = std::chrono::high_resolution_clock::now();
     string data_dir = argv[1] + string("/");
 	string query = string(argv[2]);
 	ifstream fi(query, ios::in);
@@ -318,9 +315,6 @@ int main(int argc, char *argv[]) {
 	}
 	fi.close();
 	fclose(outputFile);
-	auto end_time = std::chrono::high_resolution_clock::now();
-	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end_time - start_time);
-	std::cout << "程式執行時間: " << duration.count()/1000 << " ms" << std::endl;
 }
 
 
