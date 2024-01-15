@@ -209,8 +209,9 @@ int main(int argc, char *argv[]) {
 
     // GET TITLENAME WORD ARRAY
 	string title[DATA_MAX];
-	unordered_map<int, Trie*> mp;
+	// unordered_map<int, Trie*> mp;
 	char str[MAX];
+	Trie* trie[DATA_MAX];
 	// string tmp;
 
 	while (1) {
@@ -218,26 +219,27 @@ int main(int argc, char *argv[]) {
 		if(!freopen(current_file_path.c_str(), "r", stdin)) 
 			break;
 
-		fgets(str, MAX, stdin);
+		fgets_unlocked(str, MAX, stdin);
 		title[cnt] = str;
 		vector<string> tmp_title = word_parse(split(str, " "));
 		for(auto &word : tmp_title) {
-			if (mp[cnt] == nullptr) {
-				mp[cnt] = new Trie();  
+			if (trie[cnt] == nullptr) {
+				trie[cnt] = new Trie();  
 			}
-			mp[cnt]->insert(word);
+			trie[cnt]->insert(word);
 		}
 
-		while (fgets(str, MAX, stdin)) {
+		while (fgets_unlocked(str, MAX, stdin)) {
 			// GET CONTENT WORD VECTOR
 			vector<string> tmp_string = split(str, " ");
 			// PARSE CONTENT
 			vector<string> content = word_parse(tmp_string);
 			for (auto &word : content) {
-				mp[cnt]->insert(word);
+				trie[cnt]->insert(word);
 			}
 		}
 		++cnt;
+
 	}
 
 	bitset<DATA_MAX> ans(0);
@@ -264,7 +266,7 @@ int main(int argc, char *argv[]) {
 				continue;
 			}
 			for(int i = 0; i < cnt; ++i) {
-				auto data = mp[i];
+				auto data = trie[i];
 				switch(type) {
 					case EXACT:
 						if(data->search(it_query))
@@ -302,7 +304,7 @@ int main(int argc, char *argv[]) {
 			merge_type = -1;
 		}
 		bool found = false;
-		for(int i = ans._Find_first(); i < ans.size(); i = ans._Find_next(i)) {
+		for(int i=ans._Find_first();i< ans.size();i = ans._Find_next(i)) {
 			for(auto &c: title[i]) {
 				putchar_unlocked(c);
 				found = true;
