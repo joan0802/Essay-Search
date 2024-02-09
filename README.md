@@ -1,7 +1,7 @@
 # Essay-Search Engine
 
 ## Intro
-This project is a simple search engine like Google, Yahoo, and Baidu. We used the Kaggle arXiv Dataset ([link](https://www.kaggle.com/datasets/Cornell-University/arxiv?resource=download)), providing the academic essays for searching. 
+This project is a simple search engine akin to popular search engines like Google, Yahoo, and Baidu. We used the Kaggle arXiv Dataset ([link](https://www.kaggle.com/datasets/Cornell-University/arxiv?resource=download)) as the materials for searching. 
 The `query.txt` file serves as the keyword input for searches, while the `query_output.txt` is the correct answer of the result, which can be used to compared with the `output.txt` to ensure the correctness.
 
 Please note that the implementation utilizes optimized functions such as `fgets_unlocked`, hence it is recommended to execute the code on a Linux environment to avoid errors.
@@ -10,7 +10,7 @@ Please note that the implementation utilizes optimized functions such as `fgets_
 This project in C++ boasts several functions:
 - **Exact Search**: Find essays that exactly match the query. The pattern will be like: `"graph"`
 - **Prefix Search**: Discover essays with titles or abstracts starting with the query. The pattern will be like: `graph`.
-- **Suffix Search**: Identify essays with titles or abstracts ending with the query. The pattern will be like: `*graph*`, the result will be such as `subgraph`.
+- **Suffix Search**: Identify essays with titles or abstracts ending with the query. The pattern will be like: `*graph*`.
 - **WildCard Search**: Perform wildcard searches for flexible results. The pattern will be like: `<gr*ph>`. The `*` can represent one character, several characters, or no character.
 
 Beyond search methods, the engine supports operators for refining results:
