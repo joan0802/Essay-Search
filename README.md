@@ -49,7 +49,7 @@ Beyond search methods, the engine supports operators for refining results:
         }
     };
     ```
-- **WildCard Search**
+- **WildCard Search**:
     Wildcard search functionality is implemented using Depth-First Search (DFS) to traverse the Trie, exploring all possibilities. The search stops when a valid result is found.
 
 For detailed implementations of Exact Search, Prefix Search, Suffix Search, and Wildcard Search, please refer to the code.
